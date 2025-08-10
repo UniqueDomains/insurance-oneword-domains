@@ -240,7 +240,7 @@ beneficiary.expert,available,78,76%,11,"Finance,Insurance,Law",,,
 beneficiary.pro,resell,78,76%,11,"Finance,Insurance,Law",01/09/2019 10:06,01/09/2025 10:06,Epik LLC
 accidental.ninja,available,78,56%,10,"Healthcare,Insurance,Transportation",,,
 beneficiary.it,resell,78,76%,11,"Finance,Insurance,Law",04/02/2010 22:45,10/02/2026 00:00,
-accidental.us,resell,78,56%,10,"Healthcare,Insurance,Transportation",02/09/2015 22:05,01/09/2025 23:59,EuroDNS SA
+accidental.us,expiring,78,56%,10,"Healthcare,Insurance,Transportation",02/09/2015 22:05,01/09/2025 23:59,EuroDNS SA
 accidental.it,resell,78,56%,10,"Healthcare,Insurance,Transportation",15/04/2010 20:51,08/05/2026 00:00,
 beneficiary.so,available,78,76%,11,"Finance,Insurance,Law",,,
 beneficiary.dev,available,78,76%,11,"Finance,Insurance,Law",,,
@@ -258,63 +258,68 @@ uninjured.app,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 uninjured.tech,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 uninjured.online,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 resultant.ninja,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
-incidental.io,resell,76,44%,10,"Healthcare,Insurance,Transportation",12/02/2020 23:39,12/02/2026 23:39,"NameCheap, Inc."
-incidental.so,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.xyz,expiring,76,40%,10,"Healthcare,Insurance,Transportation",08/09/2024 21:11,08/09/2025 23:59,Dynadot LLC
+incidental.io,resell,76,40%,10,"Healthcare,Insurance,Transportation",12/02/2020 23:39,12/02/2026 23:39,"NameCheap, Inc."
+incidental.so,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 resultant.so,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 resultant.me,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 uninjured.io,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.zone,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.zone,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 uninjured.org,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.org,resell,76,44%,10,"Healthcare,Insurance,Transportation",13/10/2006 18:49,13/10/2025 18:49,"GoDaddy.com, LLC"
-incidental.cloud,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.org,resell,76,40%,10,"Healthcare,Insurance,Transportation",13/10/2006 18:49,13/10/2025 18:49,"GoDaddy.com, LLC"
+incidental.cloud,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 uninjured.ninja,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 uninjured.space,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 uninjured.pro,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.tech,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.tech,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 resultant.at,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 resultant.zone,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 uninjured.site,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 resultant.pro,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
-incidental.com,resell,76,44%,10,"Healthcare,Insurance,Transportation",25/11/2001 04:22,25/11/2025 04:22,"GoDaddy.com, LLC"
+incidental.com,resell,76,40%,10,"Healthcare,Insurance,Transportation",25/11/2001 04:22,25/11/2025 04:22,"GoDaddy.com, LLC"
 uninjured.co,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.online,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.online,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 resultant.gg,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 resultant.dev,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 uninjured.dev,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.ninja,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.ninja,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 uninjured.zone,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.at,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.at,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 resultant.us,resell,76,24%,9,"Healthcare,Insurance,Transportation",12/12/2024 06:09,12/12/2025 06:09,Sav.com LLC
 uninjured.ai,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 uninjured.store,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-resultant.io,expiring,76,24%,9,"Healthcare,Insurance,Transportation",06/08/2023 04:53,06/08/2025 04:53,Dynadot Inc
+resultant.io,sold,76,24%,9,"Healthcare,Insurance,Transportation",06/08/2023 04:53,06/08/2026 04:53,Dynadot Inc
 uninjured.so,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.pro,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.pro,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 resultant.store,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 resultant.space,available,76,24%,9,"Healthcare,Insurance,Transportation",,,
 uninjured.gg,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 uninjured.me,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
-incidental.gg,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.gg,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 uninjured.expert,available,76,72%,9,"Healthcare,Insurance,Medicine",,,
 resultant.co,resell,76,24%,9,"Healthcare,Insurance,Transportation",18/03/2025 19:23,18/03/2026 19:23,Porkbun
-incidental.app,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
-incidental.expert,available,76,44%,10,"Healthcare,Insurance,Transportation",,,
+incidental.app,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
+incidental.expert,available,76,40%,10,"Healthcare,Insurance,Transportation",,,
 resultant.xyz,resell,76,24%,9,"Healthcare,Insurance,Transportation",27/06/2025 17:11,27/06/2026 23:59,Dynadot LLC
 unforeseen.so,available,74,80%,10,"Business,Finance,Insurance",,,
 unforeseen.pro,available,74,80%,10,"Business,Finance,Insurance",,,
 covered.so,expiring,74,80%,7,"Construction,Insurance,Real Estate",22/07/2022 11:23,22/07/2025 11:23,NameCheap
 covered.site,available,74,80%,7,"Construction,Insurance,Real Estate",,,
-assistant.so,resell,74,80%,9,Insurance,03/09/2023 05:07,03/09/2026 05:07,NameCheap
-assistant.space,available,74,80%,9,Insurance,,,
+assistant.so,resell,74,48%,9,Insurance,03/09/2023 05:07,03/09/2026 05:07,NameCheap
+assistant.online,expiring,74,48%,9,Insurance,26/08/2015 16:00,26/08/2025 23:59,Namecheap
+assistant.space,available,74,48%,9,Insurance,,,
 covered.zone,available,74,80%,7,"Construction,Insurance,Real Estate",,,
 unforeseen.gg,available,74,80%,10,"Business,Finance,Insurance",,,
-assistant.xyz,resell,74,80%,9,Insurance,24/08/2015 12:21,24/08/2025 23:59,TLD Registrar Solutions Ltd
+assistant.xyz,resell,74,48%,9,Insurance,24/08/2015 12:21,24/08/2028 23:59,TLD Registrar Solutions Ltd
 covered.ninja,available,74,80%,7,"Construction,Insurance,Real Estate",,,
 covered.store,available,74,80%,7,"Construction,Insurance,Real Estate",,,
+assistant.zone,resell,74,48%,9,Insurance,10/10/2024 17:00,10/10/2025 17:00,"Xiamen ChinaSource Internet Service Co., Ltd"
+assistant.cloud,resell,74,48%,9,Insurance,06/05/2022 00:00,06/05/2026 00:00,"Spaceship, Inc."
 covered.expert,available,74,80%,7,"Construction,Insurance,Real Estate",,,
 unforeseen.at,available,74,80%,10,"Business,Finance,Insurance",,,
 unforeseen.store,available,74,80%,10,"Business,Finance,Insurance",,,
-assistant.tech,available,74,80%,9,Insurance,,,
+assistant.store,resell,74,48%,9,Insurance,26/04/2023 04:28,26/04/2026 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
+assistant.tech,available,74,48%,9,Insurance,,,
 unforeseen.expert,available,74,80%,10,"Business,Finance,Insurance",,,
 unforeseen.cloud,available,74,80%,10,"Business,Finance,Insurance",,,
 unforeseen.ai,resell,74,80%,10,"Business,Finance,Insurance",07/05/2023 03:41,07/05/2027 03:41,"GoDaddy.com, LLC"
@@ -323,25 +328,25 @@ covered.me,expiring,74,80%,7,"Construction,Insurance,Real Estate",20/07/2008 06:
 unforeseen.dev,available,74,80%,10,"Business,Finance,Insurance",,,
 covered.app,expired,74,80%,7,"Construction,Insurance,Real Estate",15/05/2018 01:15,15/05/2025 01:15,Squarespace Domains II LLC.
 unforeseen.online,available,74,80%,10,"Business,Finance,Insurance",,,
-assistant.at,available,74,80%,9,Insurance,,,
+assistant.at,available,74,48%,9,Insurance,,,
 unforeseen.xyz,available,74,80%,10,"Business,Finance,Insurance",,,
-assistant.dev,available,74,80%,9,Insurance,,,
+assistant.dev,available,74,48%,9,Insurance,,,
 covered.space,available,74,80%,7,"Construction,Insurance,Real Estate",,,
 unforeseen.app,available,74,80%,10,"Business,Finance,Insurance",,,
 unforeseen.ninja,available,74,80%,10,"Business,Finance,Insurance",,,
 unforeseen.site,available,74,80%,10,"Business,Finance,Insurance",,,
-assistant.co,expiring,74,80%,9,Insurance,20/07/2010 18:01,19/07/2025 23:59,1API GmbH
+assistant.co,resell,74,48%,9,Insurance,20/07/2010 18:01,19/07/2026 23:59,"Spaceship, Inc."
 covered.it,resell,74,80%,7,"Construction,Insurance,Real Estate",23/05/2025 16:00,23/05/2026 00:00,
 unforeseen.us,expiring,74,80%,10,"Business,Finance,Insurance",03/08/2018 22:56,03/08/2025 22:56,"GoDaddy.com, LLC"
-assistant.it,resell,74,80%,9,Insurance,01/05/2016 09:00,01/05/2026 00:00,
+assistant.it,resell,74,48%,9,Insurance,01/05/2016 09:00,01/05/2026 00:00,
 covered.ai,resell,74,80%,7,"Construction,Insurance,Real Estate",16/12/2017 05:36,16/12/2026 05:36,Porkbun LLC
 unforeseen.me,available,74,80%,10,"Business,Finance,Insurance",,,
-assistant.me,expiring,74,80%,9,Insurance,17/07/2008 15:32,17/07/2025 15:32,DNPric.es
+assistant.me,sold,74,48%,9,Insurance,17/07/2008 15:32,17/07/2026 15:32,DNPric.es
 covered.dev,available,74,80%,7,"Construction,Insurance,Real Estate",,,
 covered.gg,available,74,80%,7,"Construction,Insurance,Real Estate",,,
 unforeseen.zone,available,74,80%,10,"Business,Finance,Insurance",,,
 covered.co,expiring,74,80%,7,"Construction,Insurance,Real Estate",20/07/2010 18:24,19/07/2025 23:59,"GoDaddy.com, LLC"
-assistant.site,available,74,80%,9,Insurance,,,
+assistant.site,available,74,48%,9,Insurance,,,
 generalinsurance.dev,available,73,76%,17,"Finance,General,Insurance",,,
 generalinsurance.cloud,available,73,76%,17,"Finance,General,Insurance",,,
 generalinsurance.net,resell,73,76%,17,"Finance,General,Insurance",30/01/2002 04:53,30/01/2026 04:53,"Wild West Domains, LLC"
@@ -463,11 +468,12 @@ contingencyplan.dev,available,70,72%,16,"Business,Finance,Insurance",,,
 contingencyplan.me,available,70,72%,16,"Business,Finance,Insurance",,,
 liable.ninja,available,70,80%,6,"Business,Insurance,Law",,,
 licenced.gg,available,68,16%,8,"Business,Healthcare,Insurance",,,
-licensed.space,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.space,available,68,12%,8,"Business,Healthcare,Insurance",,,
 theft.co,expiring,68,76%,5,"Insurance,Law",21/07/2010 20:25,20/07/2025 23:59,"GoDaddy.com, LLC"
 reassure.dev,available,68,80%,8,"Business,Healthcare,Insurance",,,
 jointlife.expert,available,68,72%,10,Insurance,,,
-licensed.at,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.com,expiring,68,12%,8,"Business,Healthcare,Insurance",09/09/1996 04:00,08/09/2025 04:00,Tucows Domains Inc.
+licensed.at,available,68,12%,8,"Business,Healthcare,Insurance",,,
 theft.pro,available,68,76%,5,"Insurance,Law",,,
 licenced.cloud,available,68,16%,8,"Business,Healthcare,Insurance",,,
 reassure.so,available,68,80%,8,"Business,Healthcare,Insurance",,,
@@ -477,15 +483,15 @@ reassure.me,resell,68,80%,8,"Business,Healthcare,Insurance",12/12/2019 01:07,12/
 licenced.expert,available,68,16%,8,"Business,Healthcare,Insurance",,,
 reassure.site,available,68,80%,8,"Business,Healthcare,Insurance",,,
 reassure.at,sold,68,80%,8,"Business,Healthcare,Insurance",,,InterNetX GmbH ( https://nic.at/registrar/80 )
-licensed.co,resell,68,20%,8,"Business,Healthcare,Insurance",13/09/2019 18:51,13/09/2025 18:51,"Spaceship, Inc."
+licensed.co,resell,68,12%,8,"Business,Healthcare,Insurance",13/09/2019 18:51,13/09/2025 18:51,"Spaceship, Inc."
 theft.so,available,68,76%,5,"Insurance,Law",,,
 licenced.tech,available,68,16%,8,"Business,Healthcare,Insurance",,,
-licensed.net,resell,68,20%,8,"Business,Healthcare,Insurance",29/03/2002 00:38,28/03/2026 23:38,Dynadot Inc
+licensed.net,resell,68,12%,8,"Business,Healthcare,Insurance",29/03/2002 00:38,28/03/2026 23:38,Dynadot Inc
 jointlife.dev,available,68,72%,10,Insurance,,,
 licenced.so,available,68,16%,8,"Business,Healthcare,Insurance",,,
 licenced.io,available,68,16%,8,"Business,Healthcare,Insurance",,,
 reassure.app,expiring,68,80%,8,"Business,Healthcare,Insurance",24/07/2022 08:25,24/07/2025 08:25,Porkbun LLC
-licensed.gg,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.gg,available,68,12%,8,"Business,Healthcare,Insurance",,,
 jointlife.space,available,68,72%,10,Insurance,,,
 jointlife.online,available,68,72%,10,Insurance,,,
 jointlife.ai,available,68,72%,10,Insurance,,,
@@ -494,21 +500,22 @@ reassure.zone,available,68,80%,8,"Business,Healthcare,Insurance",,,
 reassure.space,available,68,80%,8,"Business,Healthcare,Insurance",,,
 reassure.gg,available,68,80%,8,"Business,Healthcare,Insurance",,,
 licenced.online,available,68,16%,8,"Business,Healthcare,Insurance",,,
-licensed.org,resell,68,20%,8,"Business,Healthcare,Insurance",01/05/2003 11:09,01/05/2026 11:09,"Sea Wasp, LLC"
-licensed.expert,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.org,resell,68,12%,8,"Business,Healthcare,Insurance",01/05/2003 11:09,01/05/2026 11:09,"Sea Wasp, LLC"
+licensed.app,expiring,68,12%,8,"Business,Healthcare,Insurance",26/08/2023 18:58,26/08/2025 18:58,Squarespace Domains II LLC.
+licensed.expert,available,68,12%,8,"Business,Healthcare,Insurance",,,
 theft.dev,available,68,76%,5,"Insurance,Law",,,
 jointlife.gg,available,68,72%,10,Insurance,,,
-licensed.cloud,available,68,20%,8,"Business,Healthcare,Insurance",,,
-licensed.us,resell,68,20%,8,"Business,Healthcare,Insurance",28/05/2020 21:23,28/05/2027 21:23,"GoDaddy.com, LLC"
+licensed.cloud,available,68,12%,8,"Business,Healthcare,Insurance",,,
+licensed.us,resell,68,12%,8,"Business,Healthcare,Insurance",28/05/2020 21:23,28/05/2027 21:23,"GoDaddy.com, LLC"
 assurance.ninja,available,68,88%,9,"Business,Finance,Insurance",,,
 licenced.at,available,68,16%,8,"Business,Healthcare,Insurance",,,
 reassure.tech,available,68,80%,8,"Business,Healthcare,Insurance",,,
 licenced.ninja,available,68,16%,8,"Business,Healthcare,Insurance",,,
 jointlife.me,available,68,72%,10,Insurance,,,
-licensed.it,resell,68,20%,8,"Business,Healthcare,Insurance",03/07/2019 09:00,03/07/2026 00:00,
-licensed.site,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.it,resell,68,12%,8,"Business,Healthcare,Insurance",03/07/2019 09:00,03/07/2026 00:00,
+licensed.site,available,68,12%,8,"Business,Healthcare,Insurance",,,
 assurance.me,resell,68,88%,9,"Business,Finance,Insurance",20/09/2019 01:07,20/09/2025 01:07,Dynadot14 LLC
-licensed.ninja,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.ninja,available,68,12%,8,"Business,Healthcare,Insurance",,,
 assurance.so,sold,68,88%,9,"Business,Finance,Insurance",07/07/2025 01:29,07/07/2026 01:29,Dynadot LLC
 theft.gg,available,68,76%,5,"Insurance,Law",,,
 theft.it,resell,68,76%,5,"Insurance,Law",20/01/2010 10:06,09/02/2026 00:00,
@@ -521,12 +528,12 @@ assurance.site,available,68,88%,9,"Business,Finance,Insurance",,,
 licenced.store,available,68,16%,8,"Business,Healthcare,Insurance",,,
 assurance.cloud,resell,68,88%,9,"Business,Finance,Insurance",12/02/2020 14:39,13/02/2026 14:13,Tucows Domains Inc.
 jointlife.site,available,68,72%,10,Insurance,,,
-licensed.pro,resell,68,20%,8,"Business,Healthcare,Insurance",11/06/2023 17:00,11/06/2026 17:00,Epik LLC
-licensed.store,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.pro,resell,68,12%,8,"Business,Healthcare,Insurance",11/06/2023 17:00,11/06/2026 17:00,Epik LLC
+licensed.store,available,68,12%,8,"Business,Healthcare,Insurance",,,
 theft.zone,available,68,76%,5,"Insurance,Law",,,
 theft.at,available,68,76%,5,"Insurance,Law",,,
 licenced.dev,available,68,16%,8,"Business,Healthcare,Insurance",,,
-licensed.online,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.online,available,68,12%,8,"Business,Healthcare,Insurance",,,
 jointlife.co,available,68,72%,10,Insurance,,,
 licenced.xyz,resell,68,16%,8,"Business,Healthcare,Insurance",07/12/2021 15:19,07/12/2025 23:59,"Sav.com, LLC"
 licenced.net,resell,68,16%,8,"Business,Healthcare,Insurance",12/01/2020 09:56,12/01/2026 09:56,Porkbun LLC
@@ -536,12 +543,12 @@ licenced.site,available,68,16%,8,"Business,Healthcare,Insurance",,,
 assurance.tech,available,68,88%,9,"Business,Finance,Insurance",,,
 assurance.app,expiring,68,88%,9,"Business,Finance,Insurance",23/07/2022 11:53,23/07/2025 11:53,Porkbun LLC
 jointlife.net,available,68,72%,10,Insurance,,,
-licensed.dev,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.dev,available,68,12%,8,"Business,Healthcare,Insurance",,,
 jointlife.cloud,available,68,72%,10,Insurance,,,
 jointlife.pro,available,68,72%,10,Insurance,,,
 reassure.store,available,68,80%,8,"Business,Healthcare,Insurance",,,
-licensed.so,available,68,20%,8,"Business,Healthcare,Insurance",,,
-licenced.me,expiring,68,16%,8,"Business,Healthcare,Insurance",01/08/2022 21:41,01/08/2025 21:41,"Sav.com, LLC"
+licensed.so,available,68,12%,8,"Business,Healthcare,Insurance",,,
+licenced.me,premium,68,16%,8,"Business,Healthcare,Insurance",01/08/2022 21:41,01/08/2026 21:41,"Sav.com, LLC"
 assurance.online,resell,68,88%,9,"Business,Finance,Insurance",11/11/2016 08:53,11/11/2027 23:59,"Go Daddy, LLC"
 licenced.space,available,68,16%,8,"Business,Healthcare,Insurance",,,
 jointlife.ninja,available,68,72%,10,Insurance,,,
@@ -551,9 +558,9 @@ licenced.co,available,68,16%,8,"Business,Healthcare,Insurance",,,
 licenced.pro,available,68,16%,8,"Business,Healthcare,Insurance",,,
 jointlife.store,available,68,72%,10,Insurance,,,
 jointlife.app,available,68,72%,10,Insurance,,,
-licensed.zone,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.zone,available,68,12%,8,"Business,Healthcare,Insurance",,,
 reassure.us,expiring,68,80%,8,"Business,Healthcare,Insurance",03/08/2018 19:23,03/08/2025 19:23,"Register.com, Inc."
-licensed.tech,available,68,20%,8,"Business,Healthcare,Insurance",,,
+licensed.tech,available,68,12%,8,"Business,Healthcare,Insurance",,,
 jointlife.so,available,68,72%,10,Insurance,,,
 assurance.at,sold,68,88%,9,"Business,Finance,Insurance",,,DAY Investments GmbH ( https://nic.at/registrar/485 )
 jointlife.zone,available,68,72%,10,Insurance,,,
@@ -566,7 +573,7 @@ jointlife.xyz,available,68,72%,10,Insurance,,,
 jointlife.us,available,68,72%,10,Insurance,,,
 jointlife.at,available,68,72%,10,Insurance,,,
 theft.space,available,68,76%,5,"Insurance,Law",,,
-licensed.xyz,resell,68,20%,8,"Business,Healthcare,Insurance",29/03/2021 21:12,29/03/2026 23:59,Dynadot LLC
+licensed.xyz,sold,68,12%,8,"Business,Healthcare,Insurance",29/03/2021 21:12,29/03/2027 23:59,Dynadot LLC
 theft.ninja,available,68,76%,5,"Insurance,Law",,,
 jointlife.io,available,68,72%,10,Insurance,,,
 homeinsurance.ai,resell,66,72%,14,Insurance,15/12/2017 04:00,26/02/2027 04:00,Hyper Limited
@@ -857,7 +864,7 @@ duecare.app,available,62,80%,8,"Business,Insurance,Law",,,
 dependably.io,available,62,76%,10,"Business,Finance,Insurance",,,
 annuity.xyz,sold,62,72%,7,"Banking,Finance,Insurance",18/08/2017 15:03,18/08/2027 23:59,Dynadot LLC
 adjustor.gg,available,62,72%,8,"Business,Finance,Insurance",,,
-ensuant.so,expired,62,4%,7,"Healthcare,Insurance,Transportation",,,
+ensuant.so,available,62,4%,7,"Healthcare,Insurance,Transportation",,,
 larceny.cloud,available,62,80%,7,"Insurance,Law",,,
 cumulative.at,available,62,16%,10,"Banking,Finance,Insurance",,,
 insurancecompany.xyz,resell,62,76%,17,"Business,Finance,Insurance",10/03/2025 01:32,10/03/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
@@ -904,7 +911,7 @@ cumulative.so,available,62,16%,10,"Banking,Finance,Insurance",,,
 adjustor.co,available,62,72%,8,"Business,Finance,Insurance",,,
 insurer.ninja,available,62,72%,7,"Business,Finance,Insurance",,,
 insurancecompany.online,available,62,76%,17,"Business,Finance,Insurance",,,
-accrued.io,resell,62,20%,7,"Banking,Finance,Insurance",07/07/2022 17:58,07/07/2026 17:58,"Sav.com, LLC"
+accrued.io,premium,62,20%,7,"Banking,Finance,Insurance",07/07/2022 17:58,07/07/2026 17:58,"Sav.com, LLC"
 cumulative.app,available,62,16%,10,"Banking,Finance,Insurance",,,
 reimburse.app,resell,62,80%,9,"Business,Finance,Insurance",23/11/2024 20:38,23/11/2025 20:38,"GoDaddy.com, LLC"
 adjustor.online,available,62,72%,8,"Business,Finance,Insurance",,,
@@ -962,7 +969,7 @@ reimburse.me,expiring,62,80%,9,"Business,Finance,Insurance",17/07/2008 15:18,17/
 ensuant.app,available,62,4%,7,"Healthcare,Insurance,Transportation",,,
 accrued.so,available,62,20%,7,"Banking,Finance,Insurance",,,
 reimburse.cloud,available,62,80%,9,"Business,Finance,Insurance",,,
-ensuant.com,resell,62,4%,7,"Healthcare,Insurance,Transportation",05/09/2000 06:32,05/09/2025 06:32,GoDaddy Online Services Cayman Islands Ltd.
+ensuant.com,expiring,62,4%,7,"Healthcare,Insurance,Transportation",05/09/2000 06:32,05/09/2025 06:32,GoDaddy Online Services Cayman Islands Ltd.
 reliably.gg,available,62,76%,8,"Business,Finance,Insurance",,,
 annuity.tech,available,62,72%,7,"Banking,Finance,Insurance",,,
 accrued.ninja,available,62,20%,7,"Banking,Finance,Insurance",,,
@@ -1396,7 +1403,7 @@ doubleindemnity.cloud,available,58,72%,16,"Finance,Insurance,Law",,,
 lifeinsurance.co,resell,58,88%,14,Insurance,24/02/2010 23:19,23/02/2026 23:59,Hello Internet Corp.
 callablebond.net,available,58,72%,13,"Banking,Finance,Insurance",,,
 lifeassured.at,available,58,76%,12,Insurance,,,
-actuarial.at,available,58,24%,9,"Finance,Insurance,Mathematics",,,
+actuarial.at,sold,58,24%,9,"Finance,Insurance,Mathematics",,,Hetzner Online GmbH ( https://nic.at/registrar/225 )
 doubleindemnity.us,available,58,72%,16,"Finance,Insurance,Law",,,
 lifeassurance.io,available,58,68%,14,Insurance,,,
 actuary.online,available,58,76%,7,"Business,Finance,Insurance",,,
@@ -1440,7 +1447,7 @@ uninfected.app,available,58,72%,10,"Healthcare,Insurance,Medicine",,,
 endowmentpolicy.co,available,58,72%,16,"Business,Finance,Insurance",,,
 lifeinsurance.us,resell,58,88%,14,Insurance,24/04/2002 14:01,23/04/2026 23:59,"GoDaddy.com, LLC"
 uninfected.pro,available,58,72%,10,"Healthcare,Insurance,Medicine",,,
-accretive.us,available,58,40%,9,"Banking,Finance,Insurance",,,
+accretive.us,sold,58,40%,9,"Banking,Finance,Insurance",02/08/2025 21:42,02/08/2027 21:42,"GoDaddy.com, LLC"
 actuary.site,available,58,76%,7,"Business,Finance,Insurance",,,
 callablebond.ai,available,58,72%,13,"Banking,Finance,Insurance",,,
 lifeassured.so,available,58,76%,12,Insurance,,,
@@ -1944,30 +1951,30 @@ riskiness.so,available,52,68%,9,"Business,Finance,Insurance",,,
 riskiness.it,expired,52,68%,9,"Business,Finance,Insurance",,,
 lineslip.pro,available,52,84%,9,"Business,Finance,Insurance",,,
 automobileinsurance.zone,available,52,36%,20,"Automotive,Finance,Insurance",,,
-sidelong.app,available,52,80%,8,Insurance,,,
+sidelong.app,available,52,16%,8,Insurance,,,
 riskiness.io,available,52,68%,9,"Business,Finance,Insurance",,,
-sidelong.pro,available,52,80%,8,Insurance,,,
+sidelong.pro,available,52,16%,8,Insurance,,,
 riskiness.org,available,52,68%,9,"Business,Finance,Insurance",,,
 automobileinsurance.app,expired,52,36%,20,"Automotive,Finance,Insurance",26/04/2023 22:10,26/04/2025 22:10,"GoDaddy.com, LLC"
 riskiness.at,available,52,68%,9,"Business,Finance,Insurance",,,
 riskiness.ninja,available,52,68%,9,"Business,Finance,Insurance",,,
 automobileinsurance.ai,resell,52,36%,20,"Automotive,Finance,Insurance",03/03/2024 15:36,03/03/2026 15:36,Dynadot Inc
-sidelong.zone,available,52,80%,8,Insurance,,,
+sidelong.zone,available,52,16%,8,Insurance,,,
 lineslip.zone,available,52,84%,9,"Business,Finance,Insurance",,,
 riskiness.expert,available,52,68%,9,"Business,Finance,Insurance",,,
-sidelong.com,resell,52,80%,8,Insurance,09/12/1999 16:37,09/12/2025 16:37,Dynadot Inc
+sidelong.com,resell,52,16%,8,Insurance,09/12/1999 16:37,09/12/2025 16:37,Dynadot Inc
 lineslip.dev,available,52,84%,9,"Business,Finance,Insurance",,,
 riskiness.co,available,52,68%,9,"Business,Finance,Insurance",,,
-sidelong.ai,available,52,80%,8,Insurance,,,
-sidelong.me,available,52,80%,8,Insurance,,,
+sidelong.ai,available,52,16%,8,Insurance,,,
+sidelong.me,available,52,16%,8,Insurance,,,
 riskiness.dev,available,52,68%,9,"Business,Finance,Insurance",,,
-sidelong.online,available,52,80%,8,Insurance,,,
+sidelong.online,available,52,16%,8,Insurance,,,
 lineslip.me,available,52,84%,9,"Business,Finance,Insurance",,,
 automobileinsurance.co,resell,52,36%,20,"Automotive,Finance,Insurance",27/01/2023 17:49,27/01/2026 17:49,InternetX GmbH
 lineslip.org,available,52,84%,9,"Business,Finance,Insurance",,,
 riskiness.ai,available,52,68%,9,"Business,Finance,Insurance",,,
 riskiness.gg,available,52,68%,9,"Business,Finance,Insurance",,,
-sidelong.us,available,52,80%,8,Insurance,,,
+sidelong.us,available,52,16%,8,Insurance,,,
 riskiness.app,available,52,68%,9,"Business,Finance,Insurance",,,
 riskiness.space,available,52,68%,9,"Business,Finance,Insurance",,,
 automobileinsurance.ninja,available,52,36%,20,"Automotive,Finance,Insurance",,,
@@ -1976,17 +1983,17 @@ lineslip.expert,available,52,84%,9,"Business,Finance,Insurance",,,
 riskiness.cloud,available,52,68%,9,"Business,Finance,Insurance",,,
 lineslip.so,available,52,84%,9,"Business,Finance,Insurance",,,
 riskiness.store,available,52,68%,9,"Business,Finance,Insurance",,,
-sidelong.ninja,available,52,80%,8,Insurance,,,
+sidelong.ninja,available,52,16%,8,Insurance,,,
 riskiness.com,resell,52,68%,9,"Business,Finance,Insurance",22/09/2002 15:46,22/09/2025 15:47,"eNom, LLC"
 automobileinsurance.expert,available,52,36%,20,"Automotive,Finance,Insurance",,,
-sidelong.at,available,52,80%,8,Insurance,,,
+sidelong.at,available,52,16%,8,Insurance,,,
 riskiness.tech,available,52,68%,9,"Business,Finance,Insurance",,,
 lineslip.space,available,52,84%,9,"Business,Finance,Insurance",,,
-sidelong.cloud,available,52,80%,8,Insurance,,,
+sidelong.cloud,available,52,16%,8,Insurance,,,
 lineslip.cloud,available,52,84%,9,"Business,Finance,Insurance",,,
-sidelong.tech,available,52,80%,8,Insurance,,,
-sidelong.so,available,52,80%,8,Insurance,,,
-sidelong.net,available,52,80%,8,Insurance,,,
+sidelong.tech,available,52,16%,8,Insurance,,,
+sidelong.so,available,52,16%,8,Insurance,,,
+sidelong.net,available,52,16%,8,Insurance,,,
 automobileinsurance.so,available,52,36%,20,"Automotive,Finance,Insurance",,,
 automobileinsurance.cloud,available,52,36%,20,"Automotive,Finance,Insurance",,,
 riskiness.online,available,52,68%,9,"Business,Finance,Insurance",,,
@@ -1996,18 +2003,18 @@ automobileinsurance.dev,available,52,36%,20,"Automotive,Finance,Insurance",,,
 riskiness.us,available,52,68%,9,"Business,Finance,Insurance",,,
 automobileinsurance.me,available,52,36%,20,"Automotive,Finance,Insurance",,,
 automobileinsurance.store,available,52,36%,20,"Automotive,Finance,Insurance",,,
-sidelong.expert,available,52,80%,8,Insurance,,,
+sidelong.expert,available,52,16%,8,Insurance,,,
 lineslip.xyz,available,52,84%,9,"Business,Finance,Insurance",,,
-sidelong.space,available,52,80%,8,Insurance,,,
-sidelong.xyz,available,52,80%,8,Insurance,,,
+sidelong.space,available,52,16%,8,Insurance,,,
+sidelong.xyz,available,52,16%,8,Insurance,,,
 lineslip.tech,available,52,84%,9,"Business,Finance,Insurance",,,
 automobileinsurance.at,available,52,36%,20,"Automotive,Finance,Insurance",,,
 lineslip.site,available,52,84%,9,"Business,Finance,Insurance",,,
-sidelong.dev,available,52,80%,8,Insurance,,,
+sidelong.dev,available,52,16%,8,Insurance,,,
 automobileinsurance.io,resell,52,36%,20,"Automotive,Finance,Insurance",20/01/2022 17:00,20/01/2026 17:00,Dynadot Inc
-sidelong.gg,available,52,80%,8,Insurance,,,
+sidelong.gg,available,52,16%,8,Insurance,,,
 automobileinsurance.tech,available,52,36%,20,"Automotive,Finance,Insurance",,,
-sidelong.store,available,52,80%,8,Insurance,,,
+sidelong.store,available,52,16%,8,Insurance,,,
 lineslip.gg,available,52,84%,9,"Business,Finance,Insurance",,,
 automobileinsurance.it,resell,52,36%,20,"Automotive,Finance,Insurance",16/03/2010 11:00,06/04/2026 00:00,
 riskiness.zone,available,52,68%,9,"Business,Finance,Insurance",,,
@@ -2018,7 +2025,7 @@ riskiness.net,available,52,68%,9,"Business,Finance,Insurance",,,
 lineslip.online,available,52,84%,9,"Business,Finance,Insurance",,,
 automobileinsurance.gg,available,52,36%,20,"Automotive,Finance,Insurance",,,
 lineslip.store,available,52,84%,9,"Business,Finance,Insurance",,,
-sidelong.site,available,52,80%,8,Insurance,,,
+sidelong.site,available,52,16%,8,Insurance,,,
 riskiness.xyz,available,52,68%,9,"Business,Finance,Insurance",,,
 householder.cloud,available,50,88%,11,"Finance,Insurance,Real Estate",,,
 letterofindemnity.us,available,50,72%,19,"Business,Insurance,Law",,,
