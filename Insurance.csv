@@ -1,4 +1,8 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+6bda5780-96fa-4f52-9933-90a00fd69713,insurance.theatre,available,76,39,9,,,
+da2244dd-3596-4233-b0ef-5a0e82890cb5,insurance.tickets,available,76,39,9,,,
+4f0df013-72a3-40f9-8c84-f0e1e367b785,insurance.tienda,available,76,39,9,,,
+7e63afe0-35fc-40f5-844d-8f8a2fe46541,insurance.tips,resell,76,39,9,Dynadot Inc,21/02/2014 12:04,21/02/2026 12:04
 7ea9ef8a-eebd-4220-b411-99f1557e493b,insurance.tires,resell,76,39,9,Dynadot Inc,30/08/2025 11:57,30/08/2026 11:57
 a396072b-ce5b-4fb4-ace6-82ef2764aa93,insurance.top,resell,76,39,9,阿里云计算有限公司,09/03/2016 02:37,09/03/2026 02:37
 5b394b05-4138-4510-944e-ca51106e64e8,insurance.tours,resell,76,39,9,"Sav.com, LLC - 23",15/03/2025 15:15,15/03/2026 15:15
@@ -291,10 +295,6 @@ f2286915-2de2-4587-a9ab-90ade2611cea,insurance.support,resell,76,39,9,"Global Do
 15a550cc-cd68-494f-9696-fac7dcae4fd0,insurance.tech,sold,76,39,9,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
 3a45b6df-584b-448c-ad0a-2c637a4f2f99,insurance.technology,resell,76,39,9,"Spaceship, Inc.",29/09/2021 17:00,29/09/2026 17:00
 22d28bde-4921-4495-8b1d-1a9cb155e8f6,insurance.tennis,available,76,39,9,,,
-6bda5780-96fa-4f52-9933-90a00fd69713,insurance.theatre,available,76,39,9,,,
-da2244dd-3596-4233-b0ef-5a0e82890cb5,insurance.tickets,available,76,39,9,,,
-4f0df013-72a3-40f9-8c84-f0e1e367b785,insurance.tienda,available,76,39,9,,,
-7e63afe0-35fc-40f5-844d-8f8a2fe46541,insurance.tips,resell,76,39,9,Dynadot Inc,21/02/2014 12:04,21/02/2026 12:04
 83c0cb92-edc4-4384-be1e-fbb36f74402f,lifeinsurance.ai,resell,58,88,14,Hyper Limited,16/12/2017 04:00,06/02/2027 04:00
 40464736-3d4f-46f4-a8c1-a75d8cea0d82,lifeinsurance.co,resell,58,88,14,Hello Internet Corp.,24/02/2010 23:19,23/02/2026 23:59
 2dd813c5-d129-4db4-aac9-8100bb7d9bc2,lifeinsurance.io,resell,58,88,14,Dynadot10 LLC,24/07/2019 10:11,24/07/2026 10:11
