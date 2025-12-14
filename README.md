@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Insurance one word dom
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| insurance.theatre  | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.tickets  | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.tienda   | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.tips     | resell    | 76       | 39%    | 9      | Dynadot Inc                                               | 21/02/2014 12:04 | 21/02/2026 12:04 |
-| insurance.tires    | resell    | 76       | 39%    | 9      | Dynadot Inc                                               | 30/08/2025 11:57 | 30/08/2026 11:57 |
-| insurance.top      | resell    | 76       | 39%    | 9      | 阿里云计算有限公司                                                 | 09/03/2016 02:37 | 09/03/2026 02:37 |
-| insurance.tours    | resell    | 76       | 39%    | 9      | Sav.com, LLC - 23                                         | 15/03/2025 15:15 | 15/03/2026 15:15 |
-| insurance.town     | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.trade    | resell    | 76       | 39%    | 9      | Porkbun                                                   | 29/07/2019 12:49 | 29/07/2030 12:49 |
-| insurance.training | expiring  | 76       | 39%    | 9      | GoDaddy.com, LLC                                          | 27/12/2019 20:17 | 27/12/2025 20:17 |
-| insurance.tube     | expired   | 76       | 39%    | 9      | Latin American Telecom, LLC                               | 08/11/2017 19:27 | 08/11/2025 19:27 |
-| insurance.uno      | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.vana     | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.vet      | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.viajes   | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.villas   | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.vin      | resell    | 76       | 39%    | 9      | Spaceship, Inc.                                           | 21/01/2025 23:53 | 21/01/2026 23:53 |
-| insurance.vodka    | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.vote     | expiring  | 76       | 39%    | 9      | Spaceship, Inc.                                           | 02/01/2022 14:45 | 02/01/2026 14:45 |
-| insurance.voting   | available | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.voyage   | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.watch    | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.webcam   | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.win      | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.work     | resell    | 76       | 39%    | 9      | GoDaddy.com, LLC                                          | 15/08/2020 01:59 | 15/08/2026 01:59 |
-| insurance.works    | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.world    | resell    | 76       | 39%    | 9      | Global Domains International, Inc. DBA DomainCostClub.com | 28/03/2019 11:20 | 28/03/2026 11:20 |
-| insurance.wtf      | resell    | 76       | 39%    | 9      | Spaceship, Inc.                                           | 14/04/2018 19:32 | 14/04/2026 19:32 |
-| insurance.xyz      | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
-| insurance.yachts   | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| Domain               | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
+| -------------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
+| insurance.soy        | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.space      | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.spot       | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.srl        | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.storage    | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.store      | sold      | 76       | 39%    | 9      | NAME DOT STORE INC                                        | 02/04/2019 14:09 | 02/04/2029 23:59 |
+| insurance.stream     | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.sucks      | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.supplies   | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.support    | resell    | 76       | 39%    | 9      | Global Domains International, Inc. DBA DomainCostClub.com | 11/01/2023 15:15 | 11/01/2026 15:15 |
+| insurance.surf       | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.surgery    | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.sydney     | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.talk       | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.tax        | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.tech       | sold      | 76       | 39%    | 9      | NAME DOT STORE INC                                        | 02/04/2019 14:11 | 02/04/2029 23:59 |
+| insurance.technology | resell    | 76       | 39%    | 9      | Spaceship, Inc.                                           | 29/09/2021 17:00 | 29/09/2026 17:00 |
+| insurance.tennis     | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.theatre    | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.tickets    | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.tienda     | available | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.tips       | resell    | 76       | 39%    | 9      | Dynadot Inc                                               | 21/02/2014 12:04 | 21/02/2026 12:04 |
+| insurance.tires      | resell    | 76       | 39%    | 9      | Dynadot Inc                                               | 30/08/2025 11:57 | 30/08/2026 11:57 |
+| insurance.top        | resell    | 76       | 39%    | 9      | 阿里云计算有限公司                                                 | 09/03/2016 02:37 | 09/03/2026 02:37 |
+| insurance.tours      | resell    | 76       | 39%    | 9      | Sav.com, LLC - 23                                         | 15/03/2025 15:15 | 15/03/2026 15:15 |
+| insurance.town       | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
+| insurance.trade      | resell    | 76       | 39%    | 9      | Porkbun                                                   | 29/07/2019 12:49 | 29/07/2030 12:49 |
+| insurance.training   | expiring  | 76       | 39%    | 9      | GoDaddy.com, LLC                                          | 27/12/2019 20:17 | 27/12/2025 20:17 |
+| insurance.tube       | expired   | 76       | 39%    | 9      | Latin American Telecom, LLC                               | 08/11/2017 19:27 | 08/11/2025 19:27 |
+| insurance.uno        | premium   | 76       | 39%    | 9      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Insurance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [Insurance one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
