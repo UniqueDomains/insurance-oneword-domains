@@ -1,4 +1,27 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+5f9d439e-8f85-401f-b636-6edbdec02bbc,insurance.rest,premium,76,39,9,,,
+2e2b92ba-c635-47e6-9608-287f32c194e6,insurance.review,premium,76,39,9,,,
+41058657-b11a-48a4-a9b2-d134290983e8,insurance.reviews,premium,76,39,9,,,
+3abb126b-d2ea-42f2-b8e4-573563e23208,insurance.rich,available,76,39,9,,,
+960e5876-7f81-4adc-9e38-204bd8c4a2f6,insurance.rocks,expiring,76,39,9,"GoDaddy.com, LLC",12/12/2024 05:25,12/12/2025 05:25
+65e52158-e822-4fa0-99b2-35c907b85332,insurance.rodeo,premium,76,39,9,,,
+e869f643-d00e-4738-bc63-71f9a88a2efa,insurance.rsvp,premium,76,39,9,,,
+bbaff6c0-8d7e-427e-86e3-f07a181da4bc,insurance.run,resell,76,39,9,"DNSPod, Inc.",04/11/2019 23:23,04/11/2026 23:23
+3ae86a74-a965-4d83-a4ae-a276c8012af0,insurance.sarl,resell,76,39,9,"GoDaddy.com, LLC",10/10/2025 16:04,10/10/2026 16:04
+91abb693-5c08-4dc4-8d83-017a309a720d,insurance.schule,available,76,39,9,,,
+b4cb14cd-ba96-460e-84c0-cd295ee10c47,insurance.science,premium,76,39,9,,,
+92e1a883-b317-4d07-92c1-30d7d11b7461,insurance.security,available,76,39,9,,,
+58d85516-79cc-406c-a38f-d42cb59563db,insurance.sexy,available,76,39,9,,,
+bfcb6910-8291-4a23-99d4-1ec80e11d28a,insurance.shiksha,premium,76,39,9,,,
+39b73acf-5ce7-4acb-8137-5a659a251650,insurance.shoes,premium,76,39,9,,,
+a808eb07-fdff-4eb0-8e6d-afdf23ba9eb1,insurance.shopping,premium,76,39,9,,,
+41de0f5b-7344-4e98-bae8-031791ac3452,insurance.show,resell,76,39,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/07/2015 16:07,29/07/2026 16:07
+5286d341-476f-4fa5-ac12-32829fb4861e,insurance.site,premium,76,39,9,,,
+8e14da46-fbe1-4cae-9faa-aa5f5e18fbbc,insurance.ski,premium,76,39,9,,,
+16da8ee0-8216-4b42-a66f-95f83947fa8b,insurance.skin,premium,76,39,9,,,
+d4030dd4-bd2b-465c-81fa-f37716db3fb3,insurance.soccer,available,76,39,9,,,
+8cac8ad9-e5c3-4f64-be37-ea0bfdeaea7c,insurance.social,resell,76,39,9,"Spaceship, Inc.",28/03/2023 15:15,28/03/2026 15:15
+222da527-0ed8-4adf-882d-ac79f041bbb0,insurance.software,premium,76,39,9,,,
 d3963f0e-79c7-4a39-8fd9-863fe824b3a6,insurance.soy,premium,76,39,9,,,
 7bc57694-47d6-436e-912f-ee47653a9945,insurance.space,premium,76,39,9,,,
 b7c00b4f-6625-4cba-9afc-ab9049b30f25,insurance.spot,premium,76,39,9,,,
@@ -272,29 +295,6 @@ ffa6e66b-308e-4720-a5f5-06bfbac9a098,insurance.reise,premium,76,39,9,,,
 ca5234ea-2649-4f7c-84d5-665db7c67495,insurance.rent,premium,76,39,9,,,
 205c1b19-1900-4778-8ed2-24f08054ea5c,insurance.rentals,premium,76,39,9,,,
 cd0b29dc-21dd-4ada-8894-1ee9f0707f99,insurance.repair,resell,76,39,9,"Sav.com, LLC",16/06/2021 23:18,16/06/2026 23:18
-5f9d439e-8f85-401f-b636-6edbdec02bbc,insurance.rest,premium,76,39,9,,,
-2e2b92ba-c635-47e6-9608-287f32c194e6,insurance.review,premium,76,39,9,,,
-41058657-b11a-48a4-a9b2-d134290983e8,insurance.reviews,premium,76,39,9,,,
-3abb126b-d2ea-42f2-b8e4-573563e23208,insurance.rich,available,76,39,9,,,
-960e5876-7f81-4adc-9e38-204bd8c4a2f6,insurance.rocks,expiring,76,39,9,"GoDaddy.com, LLC",12/12/2024 05:25,12/12/2025 05:25
-65e52158-e822-4fa0-99b2-35c907b85332,insurance.rodeo,premium,76,39,9,,,
-e869f643-d00e-4738-bc63-71f9a88a2efa,insurance.rsvp,premium,76,39,9,,,
-bbaff6c0-8d7e-427e-86e3-f07a181da4bc,insurance.run,resell,76,39,9,"DNSPod, Inc.",04/11/2019 23:23,04/11/2026 23:23
-3ae86a74-a965-4d83-a4ae-a276c8012af0,insurance.sarl,resell,76,39,9,"GoDaddy.com, LLC",10/10/2025 16:04,10/10/2026 16:04
-91abb693-5c08-4dc4-8d83-017a309a720d,insurance.schule,available,76,39,9,,,
-b4cb14cd-ba96-460e-84c0-cd295ee10c47,insurance.science,premium,76,39,9,,,
-92e1a883-b317-4d07-92c1-30d7d11b7461,insurance.security,available,76,39,9,,,
-58d85516-79cc-406c-a38f-d42cb59563db,insurance.sexy,available,76,39,9,,,
-bfcb6910-8291-4a23-99d4-1ec80e11d28a,insurance.shiksha,premium,76,39,9,,,
-39b73acf-5ce7-4acb-8137-5a659a251650,insurance.shoes,premium,76,39,9,,,
-a808eb07-fdff-4eb0-8e6d-afdf23ba9eb1,insurance.shopping,premium,76,39,9,,,
-41de0f5b-7344-4e98-bae8-031791ac3452,insurance.show,resell,76,39,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/07/2015 16:07,29/07/2026 16:07
-5286d341-476f-4fa5-ac12-32829fb4861e,insurance.site,premium,76,39,9,,,
-8e14da46-fbe1-4cae-9faa-aa5f5e18fbbc,insurance.ski,premium,76,39,9,,,
-16da8ee0-8216-4b42-a66f-95f83947fa8b,insurance.skin,premium,76,39,9,,,
-d4030dd4-bd2b-465c-81fa-f37716db3fb3,insurance.soccer,available,76,39,9,,,
-8cac8ad9-e5c3-4f64-be37-ea0bfdeaea7c,insurance.social,resell,76,39,9,"Spaceship, Inc.",28/03/2023 15:15,28/03/2026 15:15
-222da527-0ed8-4adf-882d-ac79f041bbb0,insurance.software,premium,76,39,9,,,
 83c0cb92-edc4-4384-be1e-fbb36f74402f,lifeinsurance.ai,resell,58,88,14,Hyper Limited,16/12/2017 04:00,06/02/2027 04:00
 40464736-3d4f-46f4-a8c1-a75d8cea0d82,lifeinsurance.co,resell,58,88,14,Hello Internet Corp.,24/02/2010 23:19,23/02/2026 23:59
 2dd813c5-d129-4db4-aac9-8100bb7d9bc2,lifeinsurance.io,resell,58,88,14,Dynadot10 LLC,24/07/2019 10:11,24/07/2026 10:11
@@ -735,10 +735,12 @@ ba38a364-dd1a-4497-831c-7d86b3a28e1b,risk.apartments,available,62,27,4,,,
 d0573259-8027-4278-bccc-1fc22a3d5c99,risk.army,available,62,27,4,,,
 d3ea591d-8cac-4b15-bbc6-917dfd52d7fc,risk.at,available,62,27,4,,,
 d54a2afe-6237-4242-97dc-87d731ea9f10,risk.attorney,available,62,27,4,,,
+66f1dfa0-d406-4f8d-a7c5-5ad9f24cbb1b,risk.auction,expiring,62,27,4,"Key-Systems, LLC",14/01/2016 13:36,14/01/2026 13:36
 0224e9be-9560-4ad2-823d-d68ee2773027,risk.audio,available,62,27,4,,,
 2e8dd46c-db13-4f8d-a0f2-93e9d5998fa6,risk.auto,available,62,27,4,,,
 5746871c-47b5-4dc2-97e4-ca9f5a0964bd,risk.autos,sold,62,27,4,"NameSilo, LLC",08/10/2025 07:35,08/10/2026 23:59
 6ab382cb-b83d-46e8-89ac-416c1188021d,risk.baby,available,62,27,4,,,
+4c23f17a-c816-4538-867d-b7fbaaafca97,risk.band,expiring,62,27,4,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,14/01/2025 15:15,14/01/2026 15:15
 4e1682e9-9cb6-4542-98fa-2abff75ab745,risk.bar,premium,62,27,4,,,
 b0a71019-883e-4232-8924-3b9a6e349ac6,risk.bargains,available,62,27,4,,,
 6477453a-be1c-4fb7-9d22-5434de0c4470,risk.bayern,premium,62,27,4,,,
@@ -752,7 +754,7 @@ ee57f004-7c6d-4e31-9dd7-939431b0c1fc,risk.bid,resell,62,27,4,Porkbun,02/08/2019 
 4ff26e85-76db-4de8-8e6f-2c24bdb9d919,risk.black,available,62,27,4,,,
 9beeaad8-2d59-435c-b359-14b7e2e61cb6,risk.blackfriday,available,62,27,4,,,
 2fbd2348-1b39-4ce5-999c-bd3cbc40fa2e,risk.blog,premium,62,27,4,,,
-127b1413-b8ad-4805-ba31-f32ee50f6786,risk.boats,expired,62,27,4,"Porkbun, LLC",21/09/2024 03:09,21/09/2025 23:59
+127b1413-b8ad-4805-ba31-f32ee50f6786,risk.boats,premium,62,27,4,,,
 db8d84e3-c3b7-4041-81cc-3e4cfa40f8f7,risk.boo,premium,62,27,4,,,
 36ef7770-fe58-47d9-a888-3b64ff503023,risk.boston,available,62,27,4,,,
 a9492c43-89d5-4db0-a819-dba45ae8cabd,risk.bot,resell,62,27,4,"NameCheap, Inc",02/11/2023 00:13,02/11/2026 00:13
@@ -778,6 +780,7 @@ fbcb6bad-17d4-48d9-af1b-5b5070762924,risk.cc,sold,62,27,4,"GoDaddy.com, LLC",03/
 3ea47a8b-067e-4e4f-be16-b6e3c65f1fa1,risk.ceo,available,62,27,4,,,
 70387e0d-59be-4768-b6d6-c686dba3ecc8,risk.cfd,premium,62,27,4,,,
 6df14d48-64af-419b-ab3a-cb758c7b95b8,risk.charity,available,62,27,4,,,
+1145703a-b7f3-41f7-a016-8551845b91a9,risk.chat,expiring,62,27,4,"Key-Systems, LLC",13/01/2017 07:44,13/01/2026 07:44
 49c60819-7242-4974-81a0-c15760d027ab,risk.cheap,available,62,27,4,,,
 60abdbbc-b821-4b38-b893-bf7c8a2fd54d,risk.christmas,available,62,27,4,,,
 f1757ae7-bb6f-46ba-99e5-e1db2cf88439,risk.church,available,62,27,4,,,
@@ -788,7 +791,7 @@ ba1fbbe2-d2ec-4c30-b93e-1ee801871334,risk.click,premium,62,27,4,,,
 cf2478ec-a470-4a4d-83cb-cf9dfe63a234,risk.cloud,premium,62,27,4,,,
 9682a9c9-7c60-493b-bfe4-7f448222bfe9,risk.codes,sold,62,27,4,"NameCheap, Inc.",08/10/2025 06:49,08/10/2026 06:49
 8beb7d3d-9a11-4c1c-849e-b8a7c773a4fb,risk.coffee,resell,62,27,4,"NameCheap, Inc.",10/04/2022 15:13,10/04/2026 15:13
-4a940674-3a55-4664-88d7-095e985e8cfb,risk.college,expiring,62,27,4,"XServer, Inc.",12/12/2019 13:39,12/12/2025 23:59
+4a940674-3a55-4664-88d7-095e985e8cfb,risk.college,sold,62,27,4,"XServer, Inc.",12/12/2019 13:39,12/12/2026 23:59
 ae5bef99-ed47-494d-9fdd-0a3add90beea,risk.condos,available,62,27,4,,,
 200caf9e-b1d1-4eb4-8ff6-7f9ef477d835,risk.construction,available,62,27,4,,,
 526fdfff-173c-48c5-be87-9ed3462b79b8,risk.consulting,premium,62,27,4,,,
@@ -842,6 +845,7 @@ e25c176c-a564-4895-948e-c7c74b95cd6a,risk.fail,available,62,27,4,,,
 36da02b2-2efe-4c79-ab22-5c819943ddd0,risk.faith,premium,62,27,4,,,
 c7ba335d-4163-41c8-bd42-93ffc169e104,risk.family,available,62,27,4,,,
 1e52f4d0-d1a6-4149-9330-78c879e18cfe,risk.fan,available,62,27,4,,,
+4e6f494a-6b99-4652-ab55-49a9c4d25563,risk.fans,expiring,62,27,4,"Name.com, Inc",10/01/2021 01:10,10/01/2026 23:59
 fddd02a0-dec6-4b8c-b58e-6fbe5156422a,risk.farm,available,62,27,4,,,
 2fc89d08-483d-4c5f-aabc-a8aeb02853d6,risk.fashion,premium,62,27,4,,,
 80ee2dff-cd6b-4f29-96cf-9010153c827f,risk.fast,premium,62,27,4,,,
@@ -952,7 +956,7 @@ c7af92ce-b831-4328-bc1b-9d7f98a27e78,risk.moe,available,62,27,4,,,
 7331185d-aa20-4c14-a3c6-371dea9dc83e,risk.name,premium,62,27,4,,,
 c63a577c-dea0-40c9-a180-f0f1ddbe1551,risk.navy,available,62,27,4,,,
 54a385ac-8de8-469f-921a-5a73e408155c,risk.ngo,available,62,27,4,,,
-474bc860-a590-475b-a9b1-250b421d02f8,risk.now,resell,62,27,4,Dynadot Inc,21/01/2025 19:33,21/01/2026 19:33
+474bc860-a590-475b-a9b1-250b421d02f8,risk.now,resell,62,27,4,Dynadot Inc,21/01/2025 19:33,21/01/2027 19:33
 e8a4aad7-e87e-4764-8d51-2b33b5b15cb7,risk.ong,available,62,27,4,,,
 7278933a-67f2-4de8-8ac9-edf757d2009a,risk.onl,resell,62,27,4,Dynadot Inc,17/03/2025 17:10,17/03/2026 17:10
 acbc81b2-f12d-451d-9f02-cde78dac5f2f,risk.online,premium,62,27,4,,,
@@ -985,7 +989,7 @@ e54801a1-a074-44e9-8e95-288854d0f00e,risk.quest,resell,62,27,4,"Porkbun, LLC",19
 8fe6ab1a-6249-415c-a24b-f935909a4518,risk.racing,premium,62,27,4,,,
 b5f18a5b-f65b-4944-98f0-04ee897b5200,risk.realty,available,62,27,4,,,
 a61cc1e1-810a-4b8e-99f9-8aa6cad869d7,risk.recipes,available,62,27,4,,,
-0bc62357-1d7e-4c61-a90e-6685d4a900ec,risk.red,expiring,62,27,4,OVH SAS,13/12/2017 15:33,13/12/2025 15:33
+0bc62357-1d7e-4c61-a90e-6685d4a900ec,risk.red,sold,62,27,4,OVH SAS,13/12/2017 15:33,13/12/2026 15:33
 a7667ebb-e451-4ad0-8541-4c357739b667,risk.rehab,available,62,27,4,,,
 9690428a-8330-4406-b9fe-57393948ad91,risk.reise,available,62,27,4,,,
 dff6d3e5-e5bd-47f7-8566-84a67e1da59c,risk.reisen,available,62,27,4,,,
@@ -995,7 +999,3 @@ e24b7761-6b54-46b9-8d45-f55ac6cc3267,risk.rentals,available,62,27,4,,,
 1f788f59-bebe-41ab-a75f-af025712a35a,risk.report,resell,62,27,4,Porkbun LLC,04/09/2025 20:50,04/09/2026 20:50
 9a5e4463-aa33-42a7-a4c2-8f085972baf6,risk.republican,available,62,27,4,,,
 64e31068-99d5-48d1-9ecc-59f439c5e7f8,risk.restaurant,available,62,27,4,,,
-869e47be-90ed-4740-80a1-17b63f85f433,risk.review,premium,62,27,4,,,
-83219d85-0cc0-45fa-bc98-fc151094d91e,risk.rich,available,62,27,4,,,
-d9ef7ca6-f6c1-4bb9-bda0-5047ff0d755a,risk.rocks,expiring,62,27,4,"Sav.com, LLC",24/12/2024 03:14,24/12/2025 03:14
-b819bf14-3543-40ec-a5cb-e21a43b662d6,risk.rodeo,available,62,27,4,,,
