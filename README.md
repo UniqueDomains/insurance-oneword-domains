@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Insurance one word dom
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| insurance.rest     | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.review   | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.reviews  | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.rich     | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.rocks    | expiring  | 76       | 39%    | 9      | GoDaddy.com, LLC                                        | 12/12/2024 05:25 | 12/12/2025 05:25 |
-| insurance.rodeo    | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.rsvp     | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.run      | resell    | 76       | 39%    | 9      | DNSPod, Inc.                                            | 04/11/2019 23:23 | 04/11/2026 23:23 |
-| insurance.sarl     | resell    | 76       | 39%    | 9      | GoDaddy.com, LLC                                        | 10/10/2025 16:04 | 10/10/2026 16:04 |
-| insurance.schule   | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.science  | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.security | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.sexy     | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.shiksha  | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.shoes    | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.shopping | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.show     | resell    | 76       | 39%    | 9      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 29/07/2015 16:07 | 29/07/2026 16:07 |
-| insurance.site     | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.ski      | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.skin     | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.soccer   | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.social   | resell    | 76       | 39%    | 9      | Spaceship, Inc.                                         | 28/03/2023 15:15 | 28/03/2026 15:15 |
-| insurance.software | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.soy      | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.space    | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.spot     | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.srl      | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.storage  | available | 76       | 39%    | 9      |                                                         |                  |                  |
-| insurance.store    | sold      | 76       | 39%    | 9      | NAME DOT STORE INC                                      | 02/04/2019 14:09 | 02/04/2029 23:59 |
-| insurance.stream   | premium   | 76       | 39%    | 9      |                                                         |                  |                  |
+| Domain                | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| --------------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| insurance.luxury      | resell    | 76       | 37%    | 9      | Go Daddy, LLC                                       | 18/02/2020 22:38 | 18/02/2026 23:59 |
+| insurance.makeup      | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.mba         | resell    | 76       | 37%    | 9      | Chengdu West Dimension Digital Technology Co., Ltd. | 29/01/2022 13:15 | 29/01/2026 13:15 |
+| insurance.media       | resell    | 76       | 37%    | 9      | Sav.com, LLC                                        | 20/07/2014 21:32 | 20/07/2026 21:32 |
+| insurance.melbourne   | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.meme        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.memorial    | available | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.menu        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.moda        | available | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.moe         | available | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.mom         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.mortgage    | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.motorcycles | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.mov         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.movie       | resell    | 76       | 37%    | 9      | NameCheap, Inc.                                     | 10/02/2019 07:39 | 10/02/2026 07:39 |
+| insurance.music       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.mx          | resell    | 76       | 37%    | 9      | GoDaddy.com                                         | 10/07/2024 00:00 | 10/07/2026 00:00 |
+| insurance.navy        | available | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.network     | resell    | 76       | 37%    | 9      | GoDaddy.com, LLC                                    | 07/12/2014 00:34 | 07/12/2026 00:34 |
+| insurance.news        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.nexus       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.ngo         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.observer    | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.onl         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.online      | sold      | 76       | 37%    | 9      | NAME DOT STORE INC                                  | 02/04/2019 13:57 | 02/04/2029 23:59 |
+| insurance.organic     | available | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.osaka       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.page        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.party       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.phd         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Insurance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Insurance one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

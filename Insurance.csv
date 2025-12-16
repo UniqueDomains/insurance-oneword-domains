@@ -1,300 +1,309 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-5f9d439e-8f85-401f-b636-6edbdec02bbc,insurance.rest,premium,76,39,9,,,
-2e2b92ba-c635-47e6-9608-287f32c194e6,insurance.review,premium,76,39,9,,,
-41058657-b11a-48a4-a9b2-d134290983e8,insurance.reviews,premium,76,39,9,,,
-3abb126b-d2ea-42f2-b8e4-573563e23208,insurance.rich,available,76,39,9,,,
-960e5876-7f81-4adc-9e38-204bd8c4a2f6,insurance.rocks,expiring,76,39,9,"GoDaddy.com, LLC",12/12/2024 05:25,12/12/2025 05:25
-65e52158-e822-4fa0-99b2-35c907b85332,insurance.rodeo,premium,76,39,9,,,
-e869f643-d00e-4738-bc63-71f9a88a2efa,insurance.rsvp,premium,76,39,9,,,
-bbaff6c0-8d7e-427e-86e3-f07a181da4bc,insurance.run,resell,76,39,9,"DNSPod, Inc.",04/11/2019 23:23,04/11/2026 23:23
-3ae86a74-a965-4d83-a4ae-a276c8012af0,insurance.sarl,resell,76,39,9,"GoDaddy.com, LLC",10/10/2025 16:04,10/10/2026 16:04
-91abb693-5c08-4dc4-8d83-017a309a720d,insurance.schule,available,76,39,9,,,
-b4cb14cd-ba96-460e-84c0-cd295ee10c47,insurance.science,premium,76,39,9,,,
-92e1a883-b317-4d07-92c1-30d7d11b7461,insurance.security,available,76,39,9,,,
-58d85516-79cc-406c-a38f-d42cb59563db,insurance.sexy,available,76,39,9,,,
-bfcb6910-8291-4a23-99d4-1ec80e11d28a,insurance.shiksha,premium,76,39,9,,,
-39b73acf-5ce7-4acb-8137-5a659a251650,insurance.shoes,premium,76,39,9,,,
-a808eb07-fdff-4eb0-8e6d-afdf23ba9eb1,insurance.shopping,premium,76,39,9,,,
-41de0f5b-7344-4e98-bae8-031791ac3452,insurance.show,resell,76,39,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/07/2015 16:07,29/07/2026 16:07
-5286d341-476f-4fa5-ac12-32829fb4861e,insurance.site,premium,76,39,9,,,
-8e14da46-fbe1-4cae-9faa-aa5f5e18fbbc,insurance.ski,premium,76,39,9,,,
-16da8ee0-8216-4b42-a66f-95f83947fa8b,insurance.skin,premium,76,39,9,,,
-d4030dd4-bd2b-465c-81fa-f37716db3fb3,insurance.soccer,available,76,39,9,,,
-8cac8ad9-e5c3-4f64-be37-ea0bfdeaea7c,insurance.social,resell,76,39,9,"Spaceship, Inc.",28/03/2023 15:15,28/03/2026 15:15
-222da527-0ed8-4adf-882d-ac79f041bbb0,insurance.software,premium,76,39,9,,,
-d3963f0e-79c7-4a39-8fd9-863fe824b3a6,insurance.soy,premium,76,39,9,,,
-7bc57694-47d6-436e-912f-ee47653a9945,insurance.space,premium,76,39,9,,,
-b7c00b4f-6625-4cba-9afc-ab9049b30f25,insurance.spot,premium,76,39,9,,,
-c84bbd01-2e0f-4a8f-bb08-6cace1de29f9,insurance.srl,available,76,39,9,,,
-8c884bdf-fa86-430b-8052-e4d7d375a5ed,insurance.storage,available,76,39,9,,,
-95be00f5-11d9-4b0c-ab6b-ab9e7e86dbc2,insurance.store,sold,76,39,9,NAME DOT STORE INC,02/04/2019 14:09,02/04/2029 23:59
-317b51a3-c04e-4ac0-a8c1-40bc2e1eae82,insurance.stream,premium,76,39,9,,,
-8f27600f-0468-4f9d-90b7-6d8fd9dfde14,insurance.sucks,premium,76,39,9,,,
-74c9b110-b568-44ee-8cd3-8e05729517e7,insurance.supplies,available,76,39,9,,,
-f2286915-2de2-4587-a9ab-90ade2611cea,insurance.support,resell,76,39,9,"Global Domains International, Inc. DBA DomainCostClub.com",11/01/2023 15:15,11/01/2026 15:15
-76455878-f5f8-4eda-9f5f-6a262fd1450c,insurance.surf,premium,76,39,9,,,
-04570ab6-fab3-4c45-9683-e23e86cb6940,insurance.surgery,premium,76,39,9,,,
-7cf39caa-730e-499e-8242-9ba3d959ce07,insurance.sydney,premium,76,39,9,,,
-2743947c-3096-4856-af73-74bffe6672c5,insurance.talk,premium,76,39,9,,,
-26065b61-09d6-47c7-a932-4f861d13c5fd,insurance.tax,premium,76,39,9,,,
-15a550cc-cd68-494f-9696-fac7dcae4fd0,insurance.tech,sold,76,39,9,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
-3a45b6df-584b-448c-ad0a-2c637a4f2f99,insurance.technology,resell,76,39,9,"Spaceship, Inc.",29/09/2021 17:00,29/09/2026 17:00
-22d28bde-4921-4495-8b1d-1a9cb155e8f6,insurance.tennis,available,76,39,9,,,
-6bda5780-96fa-4f52-9933-90a00fd69713,insurance.theatre,available,76,39,9,,,
-da2244dd-3596-4233-b0ef-5a0e82890cb5,insurance.tickets,available,76,39,9,,,
-4f0df013-72a3-40f9-8c84-f0e1e367b785,insurance.tienda,available,76,39,9,,,
-7e63afe0-35fc-40f5-844d-8f8a2fe46541,insurance.tips,resell,76,39,9,Dynadot Inc,21/02/2014 12:04,21/02/2026 12:04
-7ea9ef8a-eebd-4220-b411-99f1557e493b,insurance.tires,resell,76,39,9,Dynadot Inc,30/08/2025 11:57,30/08/2026 11:57
-a396072b-ce5b-4fb4-ace6-82ef2764aa93,insurance.top,resell,76,39,9,阿里云计算有限公司,09/03/2016 02:37,09/03/2026 02:37
-5b394b05-4138-4510-944e-ca51106e64e8,insurance.tours,resell,76,39,9,"Sav.com, LLC - 23",15/03/2025 15:15,15/03/2026 15:15
-2f772b43-f72d-4b2b-a0f8-197fff94306b,insurance.town,premium,76,39,9,,,
-77d9855b-da1d-4fbf-a3a0-7946d482a968,insurance.trade,resell,76,39,9,Porkbun,29/07/2019 12:49,29/07/2030 12:49
-9e62b805-4803-4ae6-a142-5dc756a71807,insurance.training,expiring,76,39,9,"GoDaddy.com, LLC",27/12/2019 20:17,27/12/2025 20:17
-01306da3-a082-4315-8118-7ea159a9624e,insurance.tube,expired,76,39,9,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
-17059203-18b6-4813-b032-30c909be4fee,insurance.uno,premium,76,39,9,,,
-376fe960-3386-4039-b27a-e99c5c615e7b,insurance.vana,available,76,39,9,,,
-b77d995c-4de4-4241-85db-aa2ddcc66f9c,insurance.vet,premium,76,39,9,,,
-ac82f68a-b6c9-4f44-b12a-018264b117f5,insurance.viajes,available,76,39,9,,,
-c54e47fe-e5a8-4c22-99e3-69dbd12aab5a,insurance.villas,premium,76,39,9,,,
-dc332252-1e75-4e3e-8912-b9fb28e42277,insurance.vin,resell,76,39,9,"Spaceship, Inc.",21/01/2025 23:53,21/01/2026 23:53
-dce8be7a-1bbf-4a95-a3fd-b9fe771c5e87,insurance.vodka,available,76,39,9,,,
-ee2d9b4f-a86c-4751-87a1-3aa90402165b,insurance.vote,expiring,76,39,9,"Spaceship, Inc.",02/01/2022 14:45,02/01/2026 14:45
-156b75a3-0542-4b57-9dda-7c7c7bee6f32,insurance.voting,available,76,39,9,,,
-57171f6d-13c4-492e-bf60-707be45e3a7d,insurance.voyage,premium,76,39,9,,,
-69977ef9-1d04-4668-9cf2-e2b755575a07,insurance.watch,premium,76,39,9,,,
-828f1023-d46d-4532-a44c-8cfae3594673,insurance.webcam,premium,76,39,9,,,
-4974e6cd-cc6c-4483-af2a-f1c7e5a0c219,insurance.win,premium,76,39,9,,,
-e4b105a5-982c-4e8a-b849-bb462c139e1f,insurance.work,resell,76,39,9,"GoDaddy.com, LLC",15/08/2020 01:59,15/08/2026 01:59
-bb899dd2-053f-449a-a8b9-9c08fea2706c,insurance.works,premium,76,39,9,,,
-4cb9251a-51d1-4fa7-9b89-feec7fdcef74,insurance.world,resell,76,39,9,"Global Domains International, Inc. DBA DomainCostClub.com",28/03/2019 11:20,28/03/2026 11:20
-85495931-8c4f-4ad0-9ce1-b274439a822c,insurance.wtf,resell,76,39,9,"Spaceship, Inc.",14/04/2018 19:32,14/04/2026 19:32
-a7291665-6f65-4596-b533-9ca6408ba08c,insurance.xyz,premium,76,39,9,,,
-aef34377-e5b1-48be-a8a3-3a968558e52e,insurance.yachts,premium,76,39,9,,,
-3b4a194b-e37f-42e1-b637-5af1ca971180,insurance.zip,premium,76,39,9,,,
-3f31af33-6221-4604-9af0-b046415911a7,insurance.ac,resell,76,39,9,"Sav.com, LLC - 3",29/04/2023 15:15,29/04/2026 15:15
-b24b3ce7-89bd-493a-b024-0a94099952b4,insurance.academy,resell,76,39,9,"Sav.com, LLC",30/09/2023 17:22,30/09/2026 17:22
-eb860c25-b41a-49a5-b2a0-808f9b2439a4,insurance.accountant,premium,76,39,9,,,
-e660b939-44a8-4aa7-bb97-941b921c1ae7,insurance.accountants,premium,76,39,9,,,
-f9ca5245-ffe7-4e11-9475-c4a44c10243b,insurance.actor,available,76,39,9,,,
-b1aed8d5-b317-47c7-9248-9c60dc90f6d9,insurance.adult,premium,76,39,9,,,
-a7f150a0-bb05-4dbb-a1c2-6c97fdaf6b74,insurance.agency,premium,76,39,9,,,
-8359af88-3d87-4b21-9349-245888d99eaa,insurance.airforce,available,76,39,9,,,
-c6943d6a-b99a-4e34-ae90-680829dbea4e,insurance.apartments,resell,76,39,9,"Sav.com, LLC",09/02/2022 03:34,09/02/2026 03:34
-30c9dc4e-03ee-454f-aeaf-f5c854bd8997,insurance.app,resell,76,39,9,GrepApps Technology Inc.,17/07/2025 00:15,17/07/2026 00:15
-1d4d2245-a5f3-4c9e-8754-3398eeebaeae,insurance.archi,premium,76,39,9,,,
-b7bc9dec-7a4b-47a0-b32d-78058682d005,insurance.army,premium,76,39,9,,,
-70f1e8ab-f048-4d72-99e6-9f45d8eb01d2,insurance.asia,resell,76,39,9,Dynadot Inc,10/05/2010 02:35,10/05/2026 02:35
-087b2a89-ada7-4348-b9c8-dce618374dcb,insurance.at,resell,76,39,9,Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ),,
-55092d97-e90c-4be3-ab24-5a9b24e7c980,insurance.attorney,premium,76,39,9,,,
-3e793767-ea43-4c37-8c58-088e874f1da0,insurance.auction,premium,76,39,9,,,
-ab8a7a4b-e84b-4ee5-811e-da5dab68a155,insurance.audio,available,76,39,9,,,
-929d743a-d8ec-492c-ad50-d9fb480655fc,insurance.auto,available,76,39,9,,,
-7805748b-8289-498d-862c-bedfc55cb039,insurance.baby,premium,76,39,9,,,
-7da5d4ed-d98e-4cea-9788-24bab07cae8d,insurance.band,premium,76,39,9,,,
-cd93bcff-104c-440c-9c74-cf539360da80,insurance.bar,premium,76,39,9,,,
-58692025-6b25-4b89-90db-f4e0f0a66793,insurance.bayern,premium,76,39,9,,,
-bcf351fc-6819-4549-944e-e36d791d0b1f,insurance.beauty,premium,76,39,9,,,
-a38d0e36-14e4-4d22-a876-9e72ad1b26f2,insurance.beer,expired,76,39,9,Go China Domains Inc,25/09/2014 16:00,25/09/2025 16:00
-68922959-f12e-4f5e-b00f-dabb10012945,insurance.berlin,resell,76,39,9,,11/07/2016 15:15,11/07/2026 15:15
-9933dd29-db2d-4f65-a18e-b0e579649e68,insurance.bid,resell,76,39,9,Porkbun,26/07/2019 14:18,26/07/2026 14:18
-5656fe00-9599-4921-8e36-9d00c1fc76c5,insurance.black,resell,76,39,9,"GoDaddy.com, LLC",22/07/2024 17:00,22/07/2026 17:00
-e13c696c-a857-4c7a-8ac7-c09a54164dc2,insurance.blackfriday,available,76,39,9,,,
-ea5847bd-9b09-4178-9d2b-9aac0cc3abce,insurance.blog,premium,76,39,9,,,
-a38bb4d4-01c9-4fd8-a2ae-18f6179d9d51,insurance.boats,premium,76,39,9,,,
-58bab068-c94a-4a1e-8667-95cd167b29bc,insurance.boo,premium,76,39,9,,,
-784776a6-9e53-4878-9cc1-e892eda84f2a,insurance.boutique,expired,76,39,9,"Sav.com, LLC",09/10/2022 20:12,09/10/2025 20:12
-866ba32d-67ca-491e-9556-130ac44fe3e5,insurance.build,premium,76,39,9,,,
-3e88c207-758c-41e0-a42f-2bf4d6f6debb,insurance.builders,premium,76,39,9,,,
-d5f6c0d5-2412-4783-bd73-85a5ea82bcef,insurance.camera,available,76,39,9,,,
-f2d9aa17-1a8f-4264-b3cf-8cbf4ece7776,insurance.camp,premium,76,39,9,,,
-290cd175-264f-4035-9d24-a9eacf7021b3,insurance.car,available,76,39,9,,,
-a55c1e51-ae6c-45fb-b7e2-937d6ac7ef37,insurance.cards,premium,76,39,9,,,
-75922083-d8cb-439a-b713-e10b9837f16f,insurance.cars,available,76,39,9,,,
-16ed66dd-df3b-483f-94da-37d341658581,insurance.casa,premium,76,39,9,,,
-d91e90c9-9ce6-4c3c-9d2e-967f5f1333c0,insurance.casino,resell,76,39,9,"Spaceship, Inc.",26/08/2025 00:45,26/08/2026 00:45
-09b48e78-d05e-427e-ba99-87646221fff6,insurance.center,resell,76,39,9,Squarespace Domains II LLC,27/05/2021 13:16,27/05/2027 13:16
-aea6127f-bd20-4eb2-94f7-1c99312534a5,insurance.cfd,resell,76,39,9,Namecheap,15/07/2022 22:27,15/07/2026 23:59
-d96c1d0d-ad69-45a0-bc85-ed008dab42ae,insurance.charity,available,76,39,9,,,
-b27abe4d-b1ef-44d0-b4c2-3dee1e049019,insurance.chat,resell,76,39,9,"NameCheap, Inc.",20/05/2015 17:13,20/05/2026 17:13
-6f3f1ba2-d4e2-4697-8aa4-9a7d83328250,insurance.christmas,available,76,39,9,,,
-f888ddd8-63db-4812-aced-1f22a01ae86c,insurance.church,expiring,76,39,9,Tucows Domains Inc.,03/01/2020 18:44,03/01/2026 18:44
-2dc0356d-9bc3-45f9-827a-e6c18684c22b,insurance.cleaning,available,76,39,9,,,
-0332ecf5-f992-4c64-bcbb-061d485824a6,insurance.click,resell,76,39,9,Gandi SAS,05/07/2020 11:16,05/07/2032 11:16
-2596064c-0fc4-43db-8d12-7f5eeb1fc434,insurance.clinic,resell,76,39,9,"NameCheap, Inc.",04/03/2023 12:48,04/03/2026 12:48
-1edb4811-2415-4e3a-a3d1-e77974aad792,insurance.cloud,premium,76,39,9,,,
-c96b168d-4029-45e7-a355-da9a6d8ff315,insurance.club,resell,76,39,9,"GoDaddy.com, LLC",19/07/2019 21:27,19/07/2026 21:27
-f2e04115-c6b4-446a-af51-3eeff4067421,insurance.codes,premium,76,39,9,,,
-b1c019fb-6beb-4f74-9fed-f9ff0321262e,insurance.college,premium,76,39,9,,,
-59174380-c44a-4751-ba80-115008d571be,insurance.company,resell,76,39,9,"Sav.com, LLC",21/06/2015 16:00,21/06/2026 16:00
-c7667f3a-2e93-470e-8aca-8d617f30436b,insurance.condos,premium,76,39,9,,,
-8ec4fa49-428e-49c1-b8e6-414077326c36,insurance.contact,resell,76,39,9,"NameCheap, Inc.",07/12/2020 10:31,07/12/2026 10:31
-e2d18d19-6411-4c95-94c8-6de2148bb235,insurance.cooking,available,76,39,9,,,
-55ef88eb-77a4-4b74-ac34-27cbf3969a81,insurance.cool,resell,76,39,9,"DNSPod, Inc.",21/11/2018 16:24,21/11/2026 16:24
-dbe62708-68ae-4b38-85ff-404b8b6bed11,insurance.country,available,76,39,9,,,
-68642e77-72fa-4873-8ff1-e00218c0204c,insurance.coupons,resell,76,39,9,"Sav.com, LLC - 2",13/01/2025 15:15,13/01/2026 15:15
-3b71d855-fcce-4172-b7dd-9b58951cc0c6,insurance.creditcard,expiring,76,39,9,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,18/12/2024 14:32,18/12/2025 14:32
-adbfc862-490f-4138-b72a-3cfe53ea0bff,insurance.cricket,premium,76,39,9,,,
-1fc3baef-a30d-4ca1-a87b-305814c05e98,insurance.cv,premium,76,39,9,,,
-a83beb32-e67e-46e9-b777-529a4e496b38,insurance.cyou,premium,76,39,9,,,
-71d5ef08-1f53-41c3-83b7-9bf7f250eb46,insurance.dad,premium,76,39,9,,,
-32bc8775-59f0-4e8c-b872-a4bff556d006,insurance.dance,available,76,39,9,,,
-af65602d-af8c-49bd-ac02-99aef73a823f,insurance.date,premium,76,39,9,,,
-0e7f0074-d064-4c33-bb7e-b38909921f15,insurance.day,premium,76,39,9,,,
-b06e2e5c-9274-4cad-b6da-c8cc54bd4ccb,insurance.deal,premium,76,39,9,,,
-03affd0c-3b81-4b0f-a28d-d82bba204bbf,insurance.degree,premium,76,39,9,,,
-86ce429e-56ce-4f94-992d-a9ca3c23fede,insurance.dentist,premium,76,39,9,,,
-c5b08c56-cb6f-45df-9165-3a859bcdae38,insurance.design,premium,76,39,9,,,
-e4c23b5f-8411-43b4-9a37-9521a1b8d79c,insurance.dev,premium,76,39,9,,,
-07c86692-5123-442d-8a04-fb6efb072228,insurance.diet,available,76,39,9,,,
-d7d79068-7968-4895-b376-76ae4e013526,insurance.direct,resell,76,39,9,"GoDaddy.com, LLC",15/10/2016 17:45,15/10/2026 17:45
-5c35e5a0-b969-41eb-afa2-8e6c257221ee,insurance.diy,premium,76,39,9,,,
-43a77584-0f50-4fc5-92d4-92bb941e3457,insurance.doctor,resell,76,39,9,"GoDaddy.com, LLC",20/02/2024 23:18,20/02/2026 23:18
-0ff7d9d5-4955-43df-a230-af9236f6548f,insurance.dog,premium,76,39,9,,,
-66a92050-d0b8-4ee6-b043-d275898374d8,insurance.download,premium,76,39,9,,,
-84dbfdb5-e8ac-4bb9-84dc-5a1c5b3c499b,insurance.email,expired,76,39,9,"Chengdu West Dimension Digital Technology Co., Ltd.",03/10/2018 21:20,03/10/2025 21:20
-70c4d043-2a68-483c-826b-26be486b1724,insurance.energy,resell,76,39,9,"Spaceship, Inc.",14/03/2025 22:41,14/03/2026 22:41
-123d5bcd-2e53-4f66-9477-aaea6bc0833e,insurance.engineer,premium,76,39,9,,,
-0d8d2218-fdd9-40ca-aa26-ac3c560151ad,insurance.engineering,resell,76,39,9,"Sav.com, LLC - 28",30/03/2025 15:15,30/03/2026 15:15
-3efc75d2-979a-426a-bd5d-b4897f9be40d,insurance.enterprises,expiring,76,39,9,Porkbun LLC,27/12/2021 13:15,27/12/2025 13:15
-11dcd61b-0ab8-49a5-a5a2-fde4aa00240a,insurance.equipment,resell,76,39,9,Dynadot Inc,21/09/2025 17:00,21/09/2026 17:00
-49125e1b-27f1-4802-84cc-b1d57b035d4a,insurance.estate,resell,76,39,9,"GoDaddy.com, LLC",01/09/2025 01:10,01/09/2030 01:10
-b8a7fdd4-ba26-4f44-82c2-51f657d8aa9e,insurance.expert,premium,76,39,9,,,
-0e4a6bcf-607f-4755-8ff1-9cdf019f8944,insurance.fail,premium,76,39,9,,,
-d94ba955-1090-4aad-ae89-b68e435f7eca,insurance.family,premium,76,39,9,,,
-f16c0db1-63a1-41db-bcae-64ac95a8200c,insurance.fan,premium,76,39,9,,,
-d55cd297-e283-4e68-b753-42c790ec1f91,insurance.fans,premium,76,39,9,,,
-3950f68c-8244-4126-b3d2-b75e75532fec,insurance.farm,resell,76,39,9,"GoDaddy.com, LLC",20/04/2014 22:12,20/04/2026 22:12
-c84ac583-49d2-4018-a6d9-3678025e4d42,insurance.fashion,expired,76,39,9,"NameCheap, Inc.",05/10/2024 15:25,05/10/2025 15:25
-d9db58dd-3240-4745-b7d8-2f0a6dbd953e,insurance.fish,premium,76,39,9,,,
-35691ed5-4bee-4f0f-81ee-bd6ce2e58279,insurance.fishing,premium,76,39,9,,,
-272a72e1-1f49-4344-929b-a0f07c706ab8,insurance.fitness,resell,76,39,9,"GoDaddy.com, LLC",11/04/2018 17:49,11/04/2026 17:49
-c7a621fa-71bb-415b-981a-32184b6e4305,insurance.flights,premium,76,39,9,,,
-6caee020-ff03-4cb5-b9ff-89041bb42874,insurance.florist,available,76,39,9,,,
-272ea468-be47-4ce2-bed2-dfce4c1f5e5a,insurance.flowers,available,76,39,9,,,
-3d2a99ef-18d0-4ce8-951a-8cb38c06de7d,insurance.foo,premium,76,39,9,,,
-951e0c0e-69f7-48bc-a676-81238356efeb,insurance.food,premium,76,39,9,,,
-9a18cf19-4225-497d-b848-102ec2609282,insurance.forsale,premium,76,39,9,,,
-3ddebbdb-3bd0-4820-a4ce-81ed32863017,insurance.foundation,premium,76,39,9,,,
-1d6188f3-e9b3-4025-8122-5def8bc05497,insurance.free,premium,76,39,9,,,
-beaead44-e609-442f-89a7-6ac2ec104657,insurance.fun,premium,76,39,9,,,
-e84954e0-1b8b-4798-ac60-2ebff54e7361,insurance.furniture,premium,76,39,9,,,
-8170fe70-5493-4e4e-aa8d-dc975fb0aea1,insurance.futbol,available,76,39,9,,,
-b3693b44-0145-4f45-9172-52f4b6c70e24,insurance.gallery,premium,76,39,9,,,
-f2684181-3d1b-4d82-8961-5e0b7db0bbad,insurance.garden,expired,76,39,9,Sav.com LLC,22/09/2021 00:27,22/09/2025 00:27
-f76b951b-2236-4088-8a99-9f69ea0a3d31,insurance.gay,premium,76,39,9,,,
-5cdd2c49-c60c-4864-aa29-a798c2a36332,insurance.gifts,premium,76,39,9,,,
-e3588ed7-7ded-4aba-9bbc-c14bcd4d3554,insurance.gives,premium,76,39,9,,,
-a6fb87b2-9b37-4339-b60f-00be3b1c3cb8,insurance.giving,premium,76,39,9,,,
-ccfb662e-4e39-40fd-8402-3cbc7572a004,insurance.glass,premium,76,39,9,,,
-7998e606-8ede-487b-aea8-3d574cd772c9,insurance.global,premium,76,39,9,,,
-21d76340-c071-4729-b876-97ea7e728a66,insurance.gmbh,available,76,39,9,,,
-024eb854-217f-4d89-bfed-6e90c1c39eb9,insurance.gold,resell,76,39,9,"Chengdu West Dimension Digital Technology Co., Ltd.",05/02/2018 15:42,05/02/2027 15:42
-9d88bb65-475e-43a8-bef3-1e0106e981a2,insurance.gratis,premium,76,39,9,,,
-438eb888-e50d-4929-a437-9e0c3050a913,insurance.green,premium,76,39,9,,,
-e5a0bafd-a996-4087-9b74-dfce52407f93,insurance.guide,premium,76,39,9,,,
-6068a873-fde4-4bd1-b60e-6c1d6303109b,insurance.guitars,available,76,39,9,,,
-a711f154-c6ea-49f6-af00-20b2a51f8f16,insurance.guru,resell,76,39,9,Dynadot Inc,09/07/2025 23:16,09/07/2026 23:16
-4c4c5a13-cf45-40d4-8cbb-5321631184ef,insurance.hair,premium,76,39,9,,,
-4f0c900c-60e4-43c7-b4e7-433e319d0930,insurance.haus,resell,76,39,9,Dynadot Inc,07/10/2024 17:09,07/10/2026 17:09
-23283a65-5ab1-491a-8f30-1caffed72d58,insurance.health,resell,76,39,9,"GoDaddy.com, LLC",07/11/2023 23:15,07/11/2026 23:15
-91ea6e61-10c4-4351-93a9-f90b0cff5141,insurance.hiphop,premium,76,39,9,,,
-0612aac1-be0b-4796-8e3a-0fcadcd140e2,insurance.hiv,premium,76,39,9,,,
-c2cfb11b-3936-4776-98b5-9451861cc90a,insurance.hockey,available,76,39,9,,,
-b86931e3-3167-4e14-b4ce-37e868aa4573,insurance.holdings,resell,76,39,9,"GoDaddy.com, LLC",05/02/2014 16:00,05/02/2026 16:00
-190d45a4-8111-4f2a-81b5-966da021d7ac,insurance.holiday,resell,76,39,9,"Sav.com, LLC",28/07/2025 17:07,28/07/2026 17:07
-dde469db-7e38-4043-891e-f94620cc9ad4,insurance.homes,resell,76,39,9,"Global Domains International, Inc.",09/09/2019 18:28,09/09/2026 23:59
-956e0ea2-f6db-4018-92b3-b35f815e9c08,insurance.hospital,expired,76,39,9,"Internet Invest, Ltd. dba Imena.ua",24/09/2024 08:06,24/09/2025 08:06
-027026ae-f912-4e47-821c-668565435dfd,insurance.host,premium,76,39,9,,,
-0c02b718-5fd6-42ec-b606-0ef37ca42555,insurance.hosting,available,76,39,9,,,
-e0fedb37-b15f-4027-96b6-381064e2d1f7,insurance.hot,premium,76,39,9,,,
-c8f60479-6752-4212-945e-c80ee7f93cb9,insurance.house,resell,76,39,9,Porkbun LLC,14/01/2025 19:15,14/01/2026 19:15
-1548a50f-802a-4111-889d-0a3536e2900e,insurance.im,premium,76,39,9,,,
-e8ec2028-cf93-40d6-9db6-09795a4544d5,insurance.immo,resell,76,39,9,"Sav.com, LLC",31/10/2024 11:45,31/10/2026 11:45
-e60200c9-596a-4906-84b5-5ee91c75a30a,insurance.industries,resell,76,39,9,"GoDaddy.com, LLC",07/04/2024 21:11,07/04/2026 21:11
-3913ff51-c775-4176-8459-b28a8c689ae1,insurance.ing,premium,76,39,9,,,
-59059909-cd3a-476a-a459-dc26490c11d5,insurance.ink,resell,76,39,9,"NameCheap, Inc.",02/07/2014 16:05,02/07/2026 23:59
-e91c9f94-d227-47dd-81a5-0b7330c53145,insurance.institute,expiring,76,39,9,"GoDaddy.com, LLC",20/12/2022 03:28,20/12/2025 03:28
-eff8ec74-e6af-49c1-85ab-4a2c77ddf073,insurance.investments,premium,76,39,9,,,
-0c06ead4-592d-452d-a345-1b474cbfd5c5,insurance.irish,premium,76,39,9,,,
-e7399f60-a5c4-47e3-ab05-0268b2ccc586,insurance.it,expiring,76,39,9,,22/12/1999 00:00,23/12/2025 00:00
-7c975dde-a767-435a-abc8-793ef8998d97,insurance.jetzt,premium,76,39,9,,,
-9ff090a9-9582-4d94-900b-da8798626f05,insurance.juegos,available,76,39,9,,,
-fc9411a7-3bd7-426d-a615-bb1eb03c7d77,insurance.kaufen,available,76,39,9,,,
-7078f81c-ac75-42f7-8103-aa762f20f1c6,insurance.kids,premium,76,39,9,,,
-4ee85709-1f7d-44d1-b600-2742c1a54538,insurance.kim,premium,76,39,9,,,
-e0ef126d-f981-405e-bb7b-82c29c45710f,insurance.kitchen,premium,76,39,9,,,
-0adddaf4-c5b9-4115-af45-ac3a5e76717c,insurance.la,resell,76,39,9,TLD Registrar Solutions Ltd,21/03/2013 00:16,21/03/2026 23:59
-f59728eb-8d5e-4a6a-81f4-77355e617e9f,insurance.law,resell,76,39,9,"GoDaddy.com, LLC",14/08/2020 09:04,14/08/2026 09:04
-b983f496-8a00-4ffb-8f7b-04bd68fefb85,insurance.lawyer,premium,76,39,9,,,
-93fade2b-2cfe-497f-a355-2a6e0be9b934,insurance.lease,premium,76,39,9,,,
-ee1f8a69-1060-4f02-be78-2237f9ae4214,insurance.lgbt,premium,76,39,9,,,
-befbbb4d-d72b-4cda-a132-19d3478f7ea9,insurance.life,resell,76,39,9,"Chengdu West Dimension Digital Technology Co., Ltd.",17/09/2019 10:11,17/09/2027 10:11
-2b45c39e-ddd4-40f3-a783-250dbc1cfc4c,insurance.lifestyle,premium,76,39,9,,,
-9318b6c8-ee07-45ab-b884-1d5969499631,insurance.lighting,available,76,39,9,,,
-6f3e8c40-7436-45ac-b181-5674d24101b6,insurance.link,resell,76,39,9,"NameSilo, LLC",14/09/2020 16:11,14/09/2032 16:11
-94f4d89b-849f-412f-b7da-225de78c802e,insurance.live,premium,76,39,9,,,
-d438a9f4-dde3-4cc2-b2fe-8ac348d29c8f,insurance.living,premium,76,39,9,,,
-24fb9068-4d55-4b37-aa88-6a7d725dc227,insurance.llc,premium,76,39,9,,,
-89e18bdf-740d-42db-ad07-8e3b2b0fa1c0,insurance.loan,premium,76,39,9,,,
-d72cc303-3ccf-4ef9-a72f-dca1a7be6a83,insurance.locker,premium,76,39,9,,,
-665d81f4-a56f-444b-ad28-e1c0f3ad694f,insurance.london,premium,76,39,9,,,
-725cb042-52c3-41c3-b74e-566dba2b6dca,insurance.love,premium,76,39,9,,,
-58c41cfe-97ce-4a32-8ebd-d4a87879f0c5,insurance.ltda,premium,76,39,9,,,
-ef5ba21f-7e3a-4359-a03e-86bb48496754,insurance.luxe,available,76,39,9,,,
-3aa32e08-b2d7-4497-862a-c86de63393c3,insurance.luxury,resell,76,39,9,"Go Daddy, LLC",18/02/2020 22:38,18/02/2026 23:59
-1da83042-19de-4b84-b5cd-b613916a509e,insurance.makeup,premium,76,39,9,,,
-dade167e-5b55-411b-b338-204296447988,insurance.mba,resell,76,39,9,"Chengdu West Dimension Digital Technology Co., Ltd.",29/01/2022 13:15,29/01/2026 13:15
-4a34946c-0f25-45f7-ba76-864687a38e8a,insurance.media,resell,76,39,9,"Sav.com, LLC",20/07/2014 21:32,20/07/2026 21:32
-d6057022-89e9-44f6-921e-2f12ee538fe4,insurance.melbourne,premium,76,39,9,,,
-91a6650a-4517-48f7-a87a-ec46df574977,insurance.meme,premium,76,39,9,,,
-fbfac39d-45b1-46a9-ae55-c66e51cc0aa4,insurance.memorial,available,76,39,9,,,
-978fa059-43c8-4c1e-9217-7ec0f7a7e820,insurance.menu,premium,76,39,9,,,
-da7906cd-6e88-4006-a50f-c37bb19b835c,insurance.moda,available,76,39,9,,,
-614b3460-0454-498c-bbf5-5f60d009f41e,insurance.moe,available,76,39,9,,,
-bf98bf51-5ac4-4c77-bc7c-fc4c8bd45070,insurance.mom,premium,76,39,9,,,
-b2fc74ab-3256-4bc5-b0da-609dffd868ab,insurance.mortgage,premium,76,39,9,,,
-f1698422-23aa-4100-b8ef-1bbe43f71989,insurance.motorcycles,premium,76,39,9,,,
-0187148d-2c24-4957-8ce9-afb1a09b6db4,insurance.mov,premium,76,39,9,,,
-c9c26932-7edd-4805-9ccb-6d3803ab96ce,insurance.movie,resell,76,39,9,"NameCheap, Inc.",10/02/2019 07:39,10/02/2026 07:39
-862455ab-b444-4ede-8143-90dcca1ec681,insurance.music,premium,76,39,9,,,
-7709c293-e0e7-4977-b7ae-4dd4b4bf936d,insurance.mx,resell,76,39,9,GoDaddy.com,10/07/2024 00:00,10/07/2026 00:00
-2d808ec2-7910-419b-bd0e-d20751f5794c,insurance.navy,available,76,39,9,,,
-77cb7f61-c992-4bcd-88e9-18b9db63cbcd,insurance.network,resell,76,39,9,"GoDaddy.com, LLC",07/12/2014 00:34,07/12/2026 00:34
-a01a76e4-cfb3-4df0-b642-1fd7c5af62ae,insurance.news,premium,76,39,9,,,
-20231406-5df8-462b-85dd-85869ebadcf9,insurance.nexus,premium,76,39,9,,,
-efd6f027-048b-4b99-9dd8-c40342a58caf,insurance.ngo,premium,76,39,9,,,
-d5ff4bfc-f86e-46f7-928a-116de72d2127,insurance.observer,premium,76,39,9,,,
-0cee8eb2-84d5-41e7-afc3-91f49e05f962,insurance.onl,premium,76,39,9,,,
-96955e13-c134-44e5-bbe2-339b0be0dabc,insurance.online,sold,76,39,9,NAME DOT STORE INC,02/04/2019 13:57,02/04/2029 23:59
-7023febe-1693-4347-b966-8d35dd6b767b,insurance.organic,available,76,39,9,,,
-f4c213bc-be41-4e37-9f3b-88ce6d1037e1,insurance.osaka,premium,76,39,9,,,
-84cf90f3-d9d0-4ad6-9312-c2b1eae1b5f3,insurance.page,premium,76,39,9,,,
-73bcde10-609c-4584-81dc-d733d82880c5,insurance.party,premium,76,39,9,,,
-59be70ac-f278-4b26-97e1-f42d57530bda,insurance.phd,premium,76,39,9,,,
-affaf027-5420-4f76-af56-0ae428e79c73,insurance.photo,premium,76,39,9,,,
-7a0d5848-99be-46bd-8126-4a2eb74318d7,insurance.photos,available,76,39,9,,,
-582de0d6-943a-44da-851d-c3d0964f16f5,insurance.pics,resell,76,39,9,Dynadot LLC,06/12/2025 20:28,06/12/2026 23:59
-bf30fc86-2337-40d7-82ce-171b67b17d1e,insurance.pictures,expired,76,39,9,"Sav.com, LLC",02/10/2024 17:07,02/10/2025 17:07
-90a1b681-f9ff-498b-a69a-6d197e93c4bd,insurance.pink,resell,76,39,9,"Spaceship, Inc.",14/09/2021 14:30,14/09/2026 14:30
-1ad1af5d-bc11-4193-85aa-e9871550074b,insurance.plus,resell,76,39,9,"Spaceship, Inc.",21/09/2023 15:15,21/09/2026 15:15
-718056d9-95a2-4715-a0a1-a949a43ad91d,insurance.poker,premium,76,39,9,,,
-25a2ae9f-65db-46cb-900c-3137c9d94360,insurance.porn,premium,76,39,9,,,
-4523fde8-6898-4343-bb19-f934e045955a,insurance.press,premium,76,39,9,,,
-0adc30d6-a9a7-4aee-8ace-75ed65b0dc58,insurance.productions,premium,76,39,9,,,
-64af650e-e46c-4e95-b66d-51bcf47f0789,insurance.prof,premium,76,39,9,,,
-cad096fc-de89-41d2-8cd2-b8f1f54a8be7,insurance.properties,resell,76,39,9,"GoDaddy.com, LLC",01/09/2025 16:13,01/09/2030 16:13
-e57f1815-129c-4181-aa5e-e982fa322703,insurance.property,premium,76,39,9,,,
-c26b71c4-6871-41ae-8388-53e790a5c9d0,insurance.protection,available,76,39,9,,,
-7342e0cb-ff44-4ab2-a0a1-782e652df398,insurance.pub,premium,76,39,9,,,
-21d1f9c9-5e08-4890-b6ac-f75a0d516a49,insurance.pw,premium,76,39,9,,,
-472e4130-2eab-4def-953d-70b2b28061e6,insurance.racing,premium,76,39,9,,,
-9ee1c830-dcbf-4797-9490-a9142d7d4f40,insurance.recipes,available,76,39,9,,,
-d7793a0d-e63a-4cc2-befc-5fac4e9eb677,insurance.rehab,premium,76,39,9,,,
-ffa6e66b-308e-4720-a5f5-06bfbac9a098,insurance.reise,premium,76,39,9,,,
-001a8411-5388-4e59-ad9b-140300062023,insurance.reisen,available,76,39,9,,,
-ca5234ea-2649-4f7c-84d5-665db7c67495,insurance.rent,premium,76,39,9,,,
-205c1b19-1900-4778-8ed2-24f08054ea5c,insurance.rentals,premium,76,39,9,,,
-cd0b29dc-21dd-4ada-8894-1ee9f0707f99,insurance.repair,resell,76,39,9,"Sav.com, LLC",16/06/2021 23:18,16/06/2026 23:18
+3aa32e08-b2d7-4497-862a-c86de63393c3,insurance.luxury,resell,76,37,9,"Go Daddy, LLC",18/02/2020 22:38,18/02/2026 23:59
+1da83042-19de-4b84-b5cd-b613916a509e,insurance.makeup,premium,76,37,9,,,
+dade167e-5b55-411b-b338-204296447988,insurance.mba,resell,76,37,9,"Chengdu West Dimension Digital Technology Co., Ltd.",29/01/2022 13:15,29/01/2026 13:15
+4a34946c-0f25-45f7-ba76-864687a38e8a,insurance.media,resell,76,37,9,"Sav.com, LLC",20/07/2014 21:32,20/07/2026 21:32
+d6057022-89e9-44f6-921e-2f12ee538fe4,insurance.melbourne,premium,76,37,9,,,
+91a6650a-4517-48f7-a87a-ec46df574977,insurance.meme,premium,76,37,9,,,
+fbfac39d-45b1-46a9-ae55-c66e51cc0aa4,insurance.memorial,available,76,37,9,,,
+978fa059-43c8-4c1e-9217-7ec0f7a7e820,insurance.menu,premium,76,37,9,,,
+da7906cd-6e88-4006-a50f-c37bb19b835c,insurance.moda,available,76,37,9,,,
+614b3460-0454-498c-bbf5-5f60d009f41e,insurance.moe,available,76,37,9,,,
+bf98bf51-5ac4-4c77-bc7c-fc4c8bd45070,insurance.mom,premium,76,37,9,,,
+b2fc74ab-3256-4bc5-b0da-609dffd868ab,insurance.mortgage,premium,76,37,9,,,
+f1698422-23aa-4100-b8ef-1bbe43f71989,insurance.motorcycles,premium,76,37,9,,,
+0187148d-2c24-4957-8ce9-afb1a09b6db4,insurance.mov,premium,76,37,9,,,
+c9c26932-7edd-4805-9ccb-6d3803ab96ce,insurance.movie,resell,76,37,9,"NameCheap, Inc.",10/02/2019 07:39,10/02/2026 07:39
+862455ab-b444-4ede-8143-90dcca1ec681,insurance.music,premium,76,37,9,,,
+7709c293-e0e7-4977-b7ae-4dd4b4bf936d,insurance.mx,resell,76,37,9,GoDaddy.com,10/07/2024 00:00,10/07/2026 00:00
+2d808ec2-7910-419b-bd0e-d20751f5794c,insurance.navy,available,76,37,9,,,
+77cb7f61-c992-4bcd-88e9-18b9db63cbcd,insurance.network,resell,76,37,9,"GoDaddy.com, LLC",07/12/2014 00:34,07/12/2026 00:34
+a01a76e4-cfb3-4df0-b642-1fd7c5af62ae,insurance.news,premium,76,37,9,,,
+20231406-5df8-462b-85dd-85869ebadcf9,insurance.nexus,premium,76,37,9,,,
+efd6f027-048b-4b99-9dd8-c40342a58caf,insurance.ngo,premium,76,37,9,,,
+d5ff4bfc-f86e-46f7-928a-116de72d2127,insurance.observer,premium,76,37,9,,,
+0cee8eb2-84d5-41e7-afc3-91f49e05f962,insurance.onl,premium,76,37,9,,,
+96955e13-c134-44e5-bbe2-339b0be0dabc,insurance.online,sold,76,37,9,NAME DOT STORE INC,02/04/2019 13:57,02/04/2029 23:59
+7023febe-1693-4347-b966-8d35dd6b767b,insurance.organic,available,76,37,9,,,
+f4c213bc-be41-4e37-9f3b-88ce6d1037e1,insurance.osaka,premium,76,37,9,,,
+84cf90f3-d9d0-4ad6-9312-c2b1eae1b5f3,insurance.page,premium,76,37,9,,,
+73bcde10-609c-4584-81dc-d733d82880c5,insurance.party,premium,76,37,9,,,
+59be70ac-f278-4b26-97e1-f42d57530bda,insurance.phd,premium,76,37,9,,,
+affaf027-5420-4f76-af56-0ae428e79c73,insurance.photo,premium,76,37,9,,,
+7a0d5848-99be-46bd-8126-4a2eb74318d7,insurance.photos,available,76,37,9,,,
+582de0d6-943a-44da-851d-c3d0964f16f5,insurance.pics,resell,76,37,9,Dynadot LLC,06/12/2025 20:28,06/12/2026 23:59
+bf30fc86-2337-40d7-82ce-171b67b17d1e,insurance.pictures,expired,76,37,9,"Sav.com, LLC",02/10/2024 17:07,02/10/2025 17:07
+90a1b681-f9ff-498b-a69a-6d197e93c4bd,insurance.pink,resell,76,37,9,"Spaceship, Inc.",14/09/2021 14:30,14/09/2026 14:30
+1ad1af5d-bc11-4193-85aa-e9871550074b,insurance.plus,resell,76,37,9,"Spaceship, Inc.",21/09/2023 15:15,21/09/2026 15:15
+718056d9-95a2-4715-a0a1-a949a43ad91d,insurance.poker,premium,76,37,9,,,
+25a2ae9f-65db-46cb-900c-3137c9d94360,insurance.porn,premium,76,37,9,,,
+4523fde8-6898-4343-bb19-f934e045955a,insurance.press,premium,76,37,9,,,
+0adc30d6-a9a7-4aee-8ace-75ed65b0dc58,insurance.productions,premium,76,37,9,,,
+64af650e-e46c-4e95-b66d-51bcf47f0789,insurance.prof,premium,76,37,9,,,
+cad096fc-de89-41d2-8cd2-b8f1f54a8be7,insurance.properties,resell,76,37,9,"GoDaddy.com, LLC",01/09/2025 16:13,01/09/2030 16:13
+e57f1815-129c-4181-aa5e-e982fa322703,insurance.property,premium,76,37,9,,,
+c26b71c4-6871-41ae-8388-53e790a5c9d0,insurance.protection,available,76,37,9,,,
+7342e0cb-ff44-4ab2-a0a1-782e652df398,insurance.pub,premium,76,37,9,,,
+21d1f9c9-5e08-4890-b6ac-f75a0d516a49,insurance.pw,premium,76,37,9,,,
+472e4130-2eab-4def-953d-70b2b28061e6,insurance.racing,premium,76,37,9,,,
+9ee1c830-dcbf-4797-9490-a9142d7d4f40,insurance.recipes,available,76,37,9,,,
+d7793a0d-e63a-4cc2-befc-5fac4e9eb677,insurance.rehab,premium,76,37,9,,,
+ffa6e66b-308e-4720-a5f5-06bfbac9a098,insurance.reise,premium,76,37,9,,,
+001a8411-5388-4e59-ad9b-140300062023,insurance.reisen,available,76,37,9,,,
+ca5234ea-2649-4f7c-84d5-665db7c67495,insurance.rent,premium,76,37,9,,,
+205c1b19-1900-4778-8ed2-24f08054ea5c,insurance.rentals,premium,76,37,9,,,
+cd0b29dc-21dd-4ada-8894-1ee9f0707f99,insurance.repair,resell,76,37,9,"Sav.com, LLC",16/06/2021 23:18,16/06/2026 23:18
+b0b07ce3-f3a3-49c0-b2fb-32d110fedd73,insurance.republican,expiring,76,37,9,"Nicnames, Inc.",11/01/2025 08:16,11/01/2026 08:16
+5f9d439e-8f85-401f-b636-6edbdec02bbc,insurance.rest,premium,76,37,9,,,
+2e2b92ba-c635-47e6-9608-287f32c194e6,insurance.review,premium,76,37,9,,,
+41058657-b11a-48a4-a9b2-d134290983e8,insurance.reviews,premium,76,37,9,,,
+3abb126b-d2ea-42f2-b8e4-573563e23208,insurance.rich,available,76,37,9,,,
+960e5876-7f81-4adc-9e38-204bd8c4a2f6,insurance.rocks,resell,76,37,9,"GoDaddy.com, LLC",12/12/2024 05:25,12/12/2026 05:25
+65e52158-e822-4fa0-99b2-35c907b85332,insurance.rodeo,premium,76,37,9,,,
+e869f643-d00e-4738-bc63-71f9a88a2efa,insurance.rsvp,premium,76,37,9,,,
+bbaff6c0-8d7e-427e-86e3-f07a181da4bc,insurance.run,resell,76,37,9,"DNSPod, Inc.",04/11/2019 23:23,04/11/2026 23:23
+3ae86a74-a965-4d83-a4ae-a276c8012af0,insurance.sarl,resell,76,37,9,"GoDaddy.com, LLC",10/10/2025 16:04,10/10/2026 16:04
+91abb693-5c08-4dc4-8d83-017a309a720d,insurance.schule,available,76,37,9,,,
+b4cb14cd-ba96-460e-84c0-cd295ee10c47,insurance.science,premium,76,37,9,,,
+92e1a883-b317-4d07-92c1-30d7d11b7461,insurance.security,available,76,37,9,,,
+58d85516-79cc-406c-a38f-d42cb59563db,insurance.sexy,available,76,37,9,,,
+bfcb6910-8291-4a23-99d4-1ec80e11d28a,insurance.shiksha,premium,76,37,9,,,
+39b73acf-5ce7-4acb-8137-5a659a251650,insurance.shoes,premium,76,37,9,,,
+a808eb07-fdff-4eb0-8e6d-afdf23ba9eb1,insurance.shopping,premium,76,37,9,,,
+41de0f5b-7344-4e98-bae8-031791ac3452,insurance.show,resell,76,37,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/07/2015 16:07,29/07/2026 16:07
+5286d341-476f-4fa5-ac12-32829fb4861e,insurance.site,premium,76,37,9,,,
+8e14da46-fbe1-4cae-9faa-aa5f5e18fbbc,insurance.ski,premium,76,37,9,,,
+16da8ee0-8216-4b42-a66f-95f83947fa8b,insurance.skin,premium,76,37,9,,,
+d4030dd4-bd2b-465c-81fa-f37716db3fb3,insurance.soccer,available,76,37,9,,,
+8cac8ad9-e5c3-4f64-be37-ea0bfdeaea7c,insurance.social,resell,76,37,9,"Spaceship, Inc.",28/03/2023 15:15,28/03/2026 15:15
+222da527-0ed8-4adf-882d-ac79f041bbb0,insurance.software,premium,76,37,9,,,
+d3963f0e-79c7-4a39-8fd9-863fe824b3a6,insurance.soy,premium,76,37,9,,,
+7bc57694-47d6-436e-912f-ee47653a9945,insurance.space,premium,76,37,9,,,
+b7c00b4f-6625-4cba-9afc-ab9049b30f25,insurance.spot,premium,76,37,9,,,
+c84bbd01-2e0f-4a8f-bb08-6cace1de29f9,insurance.srl,available,76,37,9,,,
+8c884bdf-fa86-430b-8052-e4d7d375a5ed,insurance.storage,available,76,37,9,,,
+95be00f5-11d9-4b0c-ab6b-ab9e7e86dbc2,insurance.store,sold,76,37,9,NAME DOT STORE INC,02/04/2019 14:09,02/04/2029 23:59
+317b51a3-c04e-4ac0-a8c1-40bc2e1eae82,insurance.stream,premium,76,37,9,,,
+8f27600f-0468-4f9d-90b7-6d8fd9dfde14,insurance.sucks,premium,76,37,9,,,
+74c9b110-b568-44ee-8cd3-8e05729517e7,insurance.supplies,available,76,37,9,,,
+ead5c6b5-725c-44ce-924f-aefcb2d202d4,insurance.supply,resell,76,37,9,Porkbun LLC,02/06/2020 06:13,02/06/2026 06:13
+f2286915-2de2-4587-a9ab-90ade2611cea,insurance.support,expiring,76,37,9,"Global Domains International, Inc. DBA DomainCostClub.com",11/01/2023 15:15,11/01/2026 15:15
+76455878-f5f8-4eda-9f5f-6a262fd1450c,insurance.surf,premium,76,37,9,,,
+04570ab6-fab3-4c45-9683-e23e86cb6940,insurance.surgery,premium,76,37,9,,,
+7cf39caa-730e-499e-8242-9ba3d959ce07,insurance.sydney,premium,76,37,9,,,
+2743947c-3096-4856-af73-74bffe6672c5,insurance.talk,premium,76,37,9,,,
+26065b61-09d6-47c7-a932-4f861d13c5fd,insurance.tax,premium,76,37,9,,,
+15a550cc-cd68-494f-9696-fac7dcae4fd0,insurance.tech,sold,76,37,9,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
+3a45b6df-584b-448c-ad0a-2c637a4f2f99,insurance.technology,resell,76,37,9,"Spaceship, Inc.",29/09/2021 17:00,29/09/2026 17:00
+22d28bde-4921-4495-8b1d-1a9cb155e8f6,insurance.tennis,available,76,37,9,,,
+6bda5780-96fa-4f52-9933-90a00fd69713,insurance.theatre,available,76,37,9,,,
+da2244dd-3596-4233-b0ef-5a0e82890cb5,insurance.tickets,available,76,37,9,,,
+4f0df013-72a3-40f9-8c84-f0e1e367b785,insurance.tienda,available,76,37,9,,,
+7e63afe0-35fc-40f5-844d-8f8a2fe46541,insurance.tips,resell,76,37,9,Dynadot Inc,21/02/2014 12:04,21/02/2026 12:04
+7ea9ef8a-eebd-4220-b411-99f1557e493b,insurance.tires,resell,76,37,9,Dynadot Inc,30/08/2025 11:57,30/08/2026 11:57
+38d07903-dc4b-4330-ade9-132cf9a5464b,insurance.to,expiring,76,37,9,Government of Kingdom of Tonga,04/01/2015 07:25,04/01/2026 07:25
+a396072b-ce5b-4fb4-ace6-82ef2764aa93,insurance.top,resell,76,37,9,阿里云计算有限公司,09/03/2016 02:37,09/03/2026 02:37
+5b394b05-4138-4510-944e-ca51106e64e8,insurance.tours,resell,76,37,9,"Sav.com, LLC - 23",15/03/2025 15:15,15/03/2026 15:15
+2f772b43-f72d-4b2b-a0f8-197fff94306b,insurance.town,premium,76,37,9,,,
+77d9855b-da1d-4fbf-a3a0-7946d482a968,insurance.trade,resell,76,37,9,Porkbun,29/07/2019 12:49,29/07/2030 12:49
+9e62b805-4803-4ae6-a142-5dc756a71807,insurance.training,expiring,76,37,9,"GoDaddy.com, LLC",27/12/2019 20:17,27/12/2025 20:17
+01306da3-a082-4315-8118-7ea159a9624e,insurance.tube,expired,76,37,9,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
+17059203-18b6-4813-b032-30c909be4fee,insurance.uno,premium,76,37,9,,,
+376fe960-3386-4039-b27a-e99c5c615e7b,insurance.vana,available,76,37,9,,,
+b77d995c-4de4-4241-85db-aa2ddcc66f9c,insurance.vet,premium,76,37,9,,,
+ac82f68a-b6c9-4f44-b12a-018264b117f5,insurance.viajes,available,76,37,9,,,
+c54e47fe-e5a8-4c22-99e3-69dbd12aab5a,insurance.villas,premium,76,37,9,,,
+dc332252-1e75-4e3e-8912-b9fb28e42277,insurance.vin,resell,76,37,9,"Spaceship, Inc.",21/01/2025 23:53,21/01/2026 23:53
+dce8be7a-1bbf-4a95-a3fd-b9fe771c5e87,insurance.vodka,available,76,37,9,,,
+ee2d9b4f-a86c-4751-87a1-3aa90402165b,insurance.vote,expiring,76,37,9,"Spaceship, Inc.",02/01/2022 14:45,02/01/2026 14:45
+156b75a3-0542-4b57-9dda-7c7c7bee6f32,insurance.voting,available,76,37,9,,,
+ced05299-fa3c-47af-ab55-fea0579baa43,insurance.voto,resell,76,37,9,"Spaceship, Inc.",18/07/2025 19:22,18/07/2026 19:22
+57171f6d-13c4-492e-bf60-707be45e3a7d,insurance.voyage,premium,76,37,9,,,
+69977ef9-1d04-4668-9cf2-e2b755575a07,insurance.watch,premium,76,37,9,,,
+828f1023-d46d-4532-a44c-8cfae3594673,insurance.webcam,premium,76,37,9,,,
+4974e6cd-cc6c-4483-af2a-f1c7e5a0c219,insurance.win,premium,76,37,9,,,
+e4b105a5-982c-4e8a-b849-bb462c139e1f,insurance.work,resell,76,37,9,"GoDaddy.com, LLC",15/08/2020 01:59,15/08/2026 01:59
+bb899dd2-053f-449a-a8b9-9c08fea2706c,insurance.works,premium,76,37,9,,,
+4cb9251a-51d1-4fa7-9b89-feec7fdcef74,insurance.world,resell,76,37,9,"Global Domains International, Inc. DBA DomainCostClub.com",28/03/2019 11:20,28/03/2026 11:20
+85495931-8c4f-4ad0-9ce1-b274439a822c,insurance.wtf,resell,76,37,9,"Spaceship, Inc.",14/04/2018 19:32,14/04/2026 19:32
+a7291665-6f65-4596-b533-9ca6408ba08c,insurance.xyz,premium,76,37,9,,,
+aef34377-e5b1-48be-a8a3-3a968558e52e,insurance.yachts,premium,76,37,9,,,
+3b4a194b-e37f-42e1-b637-5af1ca971180,insurance.zip,premium,76,37,9,,,
+3f31af33-6221-4604-9af0-b046415911a7,insurance.ac,resell,76,37,9,"Sav.com, LLC - 3",29/04/2023 15:15,29/04/2026 15:15
+b24b3ce7-89bd-493a-b024-0a94099952b4,insurance.academy,resell,76,37,9,"Sav.com, LLC",30/09/2023 17:22,30/09/2026 17:22
+eb860c25-b41a-49a5-b2a0-808f9b2439a4,insurance.accountant,premium,76,37,9,,,
+e660b939-44a8-4aa7-bb97-941b921c1ae7,insurance.accountants,premium,76,37,9,,,
+f9ca5245-ffe7-4e11-9475-c4a44c10243b,insurance.actor,available,76,37,9,,,
+b1aed8d5-b317-47c7-9248-9c60dc90f6d9,insurance.adult,premium,76,37,9,,,
+a7f150a0-bb05-4dbb-a1c2-6c97fdaf6b74,insurance.agency,premium,76,37,9,,,
+8359af88-3d87-4b21-9349-245888d99eaa,insurance.airforce,available,76,37,9,,,
+c6943d6a-b99a-4e34-ae90-680829dbea4e,insurance.apartments,resell,76,37,9,"Sav.com, LLC",09/02/2022 03:34,09/02/2026 03:34
+30c9dc4e-03ee-454f-aeaf-f5c854bd8997,insurance.app,resell,76,37,9,GrepApps Technology Inc.,17/07/2025 00:15,17/07/2026 00:15
+1d4d2245-a5f3-4c9e-8754-3398eeebaeae,insurance.archi,premium,76,37,9,,,
+b7bc9dec-7a4b-47a0-b32d-78058682d005,insurance.army,premium,76,37,9,,,
+70f1e8ab-f048-4d72-99e6-9f45d8eb01d2,insurance.asia,resell,76,37,9,Dynadot Inc,10/05/2010 02:35,10/05/2026 02:35
+087b2a89-ada7-4348-b9c8-dce618374dcb,insurance.at,resell,76,37,9,Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ),,
+55092d97-e90c-4be3-ab24-5a9b24e7c980,insurance.attorney,premium,76,37,9,,,
+3e793767-ea43-4c37-8c58-088e874f1da0,insurance.auction,premium,76,37,9,,,
+ab8a7a4b-e84b-4ee5-811e-da5dab68a155,insurance.audio,available,76,37,9,,,
+929d743a-d8ec-492c-ad50-d9fb480655fc,insurance.auto,available,76,37,9,,,
+7805748b-8289-498d-862c-bedfc55cb039,insurance.baby,premium,76,37,9,,,
+7da5d4ed-d98e-4cea-9788-24bab07cae8d,insurance.band,premium,76,37,9,,,
+cd93bcff-104c-440c-9c74-cf539360da80,insurance.bar,premium,76,37,9,,,
+58692025-6b25-4b89-90db-f4e0f0a66793,insurance.bayern,premium,76,37,9,,,
+bcf351fc-6819-4549-944e-e36d791d0b1f,insurance.beauty,premium,76,37,9,,,
+a38d0e36-14e4-4d22-a876-9e72ad1b26f2,insurance.beer,premium,76,37,9,,,
+68922959-f12e-4f5e-b00f-dabb10012945,insurance.berlin,resell,76,37,9,,11/07/2016 15:15,11/07/2026 15:15
+5deb110e-71a9-41dc-8751-607b06f051de,insurance.bet,expiring,76,37,9,"NameCheap, Inc.",14/01/2024 17:11,14/01/2026 17:11
+9933dd29-db2d-4f65-a18e-b0e579649e68,insurance.bid,resell,76,37,9,Porkbun,26/07/2019 14:18,26/07/2026 14:18
+5656fe00-9599-4921-8e36-9d00c1fc76c5,insurance.black,resell,76,37,9,"GoDaddy.com, LLC",22/07/2024 17:00,22/07/2026 17:00
+e13c696c-a857-4c7a-8ac7-c09a54164dc2,insurance.blackfriday,available,76,37,9,,,
+ea5847bd-9b09-4178-9d2b-9aac0cc3abce,insurance.blog,premium,76,37,9,,,
+a38bb4d4-01c9-4fd8-a2ae-18f6179d9d51,insurance.boats,premium,76,37,9,,,
+58bab068-c94a-4a1e-8667-95cd167b29bc,insurance.boo,premium,76,37,9,,,
+784776a6-9e53-4878-9cc1-e892eda84f2a,insurance.boutique,expired,76,37,9,"Sav.com, LLC",09/10/2022 20:12,09/10/2025 20:12
+866ba32d-67ca-491e-9556-130ac44fe3e5,insurance.build,premium,76,37,9,,,
+3e88c207-758c-41e0-a42f-2bf4d6f6debb,insurance.builders,premium,76,37,9,,,
+d5f6c0d5-2412-4783-bd73-85a5ea82bcef,insurance.camera,available,76,37,9,,,
+f2d9aa17-1a8f-4264-b3cf-8cbf4ece7776,insurance.camp,premium,76,37,9,,,
+290cd175-264f-4035-9d24-a9eacf7021b3,insurance.car,available,76,37,9,,,
+a55c1e51-ae6c-45fb-b7e2-937d6ac7ef37,insurance.cards,premium,76,37,9,,,
+75922083-d8cb-439a-b713-e10b9837f16f,insurance.cars,available,76,37,9,,,
+16ed66dd-df3b-483f-94da-37d341658581,insurance.casa,premium,76,37,9,,,
+d91e90c9-9ce6-4c3c-9d2e-967f5f1333c0,insurance.casino,resell,76,37,9,"Spaceship, Inc.",26/08/2025 00:45,26/08/2026 00:45
+09b48e78-d05e-427e-ba99-87646221fff6,insurance.center,resell,76,37,9,Squarespace Domains II LLC,27/05/2021 13:16,27/05/2027 13:16
+aea6127f-bd20-4eb2-94f7-1c99312534a5,insurance.cfd,resell,76,37,9,Namecheap,15/07/2022 22:27,15/07/2026 23:59
+d96c1d0d-ad69-45a0-bc85-ed008dab42ae,insurance.charity,available,76,37,9,,,
+b27abe4d-b1ef-44d0-b4c2-3dee1e049019,insurance.chat,resell,76,37,9,"NameCheap, Inc.",20/05/2015 17:13,20/05/2026 17:13
+6f3f1ba2-d4e2-4697-8aa4-9a7d83328250,insurance.christmas,available,76,37,9,,,
+f888ddd8-63db-4812-aced-1f22a01ae86c,insurance.church,expiring,76,37,9,Tucows Domains Inc.,03/01/2020 18:44,03/01/2026 18:44
+2dc0356d-9bc3-45f9-827a-e6c18684c22b,insurance.cleaning,available,76,37,9,,,
+0332ecf5-f992-4c64-bcbb-061d485824a6,insurance.click,resell,76,37,9,Gandi SAS,05/07/2020 11:16,05/07/2032 11:16
+2596064c-0fc4-43db-8d12-7f5eeb1fc434,insurance.clinic,resell,76,37,9,"NameCheap, Inc.",04/03/2023 12:48,04/03/2026 12:48
+1edb4811-2415-4e3a-a3d1-e77974aad792,insurance.cloud,premium,76,37,9,,,
+c96b168d-4029-45e7-a355-da9a6d8ff315,insurance.club,resell,76,37,9,"GoDaddy.com, LLC",19/07/2019 21:27,19/07/2026 21:27
+f2e04115-c6b4-446a-af51-3eeff4067421,insurance.codes,premium,76,37,9,,,
+a166a0bf-37fd-4e48-b726-6d56d7039e79,insurance.coffee,resell,76,37,9,Porkbun LLC,28/08/2020 12:42,28/08/2026 12:42
+b1c019fb-6beb-4f74-9fed-f9ff0321262e,insurance.college,premium,76,37,9,,,
+59174380-c44a-4751-ba80-115008d571be,insurance.company,resell,76,37,9,"Sav.com, LLC",21/06/2015 16:00,21/06/2026 16:00
+c7667f3a-2e93-470e-8aca-8d617f30436b,insurance.condos,premium,76,37,9,,,
+8ec4fa49-428e-49c1-b8e6-414077326c36,insurance.contact,sold,76,37,9,"NameCheap, Inc.",07/12/2020 10:31,07/12/2026 10:31
+e2d18d19-6411-4c95-94c8-6de2148bb235,insurance.cooking,available,76,37,9,,,
+55ef88eb-77a4-4b74-ac34-27cbf3969a81,insurance.cool,resell,76,37,9,"DNSPod, Inc.",21/11/2018 16:24,21/11/2026 16:24
+dbe62708-68ae-4b38-85ff-404b8b6bed11,insurance.country,available,76,37,9,,,
+68642e77-72fa-4873-8ff1-e00218c0204c,insurance.coupons,expiring,76,37,9,"Sav.com, LLC - 2",13/01/2025 15:15,13/01/2026 15:15
+3b71d855-fcce-4172-b7dd-9b58951cc0c6,insurance.creditcard,expiring,76,37,9,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,18/12/2024 14:32,18/12/2025 14:32
+adbfc862-490f-4138-b72a-3cfe53ea0bff,insurance.cricket,premium,76,37,9,,,
+1fc3baef-a30d-4ca1-a87b-305814c05e98,insurance.cv,premium,76,37,9,,,
+a83beb32-e67e-46e9-b777-529a4e496b38,insurance.cyou,premium,76,37,9,,,
+71d5ef08-1f53-41c3-83b7-9bf7f250eb46,insurance.dad,premium,76,37,9,,,
+32bc8775-59f0-4e8c-b872-a4bff556d006,insurance.dance,available,76,37,9,,,
+af65602d-af8c-49bd-ac02-99aef73a823f,insurance.date,premium,76,37,9,,,
+0e7f0074-d064-4c33-bb7e-b38909921f15,insurance.day,premium,76,37,9,,,
+b06e2e5c-9274-4cad-b6da-c8cc54bd4ccb,insurance.deal,premium,76,37,9,,,
+03affd0c-3b81-4b0f-a28d-d82bba204bbf,insurance.degree,premium,76,37,9,,,
+9e11652e-2561-49c4-91e6-06bbc3b9ae10,insurance.dental,expiring,76,37,9,"Name.com, Inc.",14/01/2025 15:47,14/01/2026 15:47
+86ce429e-56ce-4f94-992d-a9ca3c23fede,insurance.dentist,premium,76,37,9,,,
+c5b08c56-cb6f-45df-9165-3a859bcdae38,insurance.design,premium,76,37,9,,,
+e4c23b5f-8411-43b4-9a37-9521a1b8d79c,insurance.dev,premium,76,37,9,,,
+07c86692-5123-442d-8a04-fb6efb072228,insurance.diet,available,76,37,9,,,
+d7d79068-7968-4895-b376-76ae4e013526,insurance.direct,resell,76,37,9,"GoDaddy.com, LLC",15/10/2016 17:45,15/10/2026 17:45
+5c35e5a0-b969-41eb-afa2-8e6c257221ee,insurance.diy,premium,76,37,9,,,
+43a77584-0f50-4fc5-92d4-92bb941e3457,insurance.doctor,resell,76,37,9,"GoDaddy.com, LLC",20/02/2024 23:18,20/02/2026 23:18
+0ff7d9d5-4955-43df-a230-af9236f6548f,insurance.dog,premium,76,37,9,,,
+66a92050-d0b8-4ee6-b043-d275898374d8,insurance.download,premium,76,37,9,,,
+84dbfdb5-e8ac-4bb9-84dc-5a1c5b3c499b,insurance.email,expired,76,37,9,"Chengdu West Dimension Digital Technology Co., Ltd.",03/10/2018 21:20,03/10/2025 21:20
+70c4d043-2a68-483c-826b-26be486b1724,insurance.energy,resell,76,37,9,"Spaceship, Inc.",14/03/2025 22:41,14/03/2026 22:41
+123d5bcd-2e53-4f66-9477-aaea6bc0833e,insurance.engineer,premium,76,37,9,,,
+0d8d2218-fdd9-40ca-aa26-ac3c560151ad,insurance.engineering,resell,76,37,9,"Sav.com, LLC - 28",30/03/2025 15:15,30/03/2026 15:15
+3efc75d2-979a-426a-bd5d-b4897f9be40d,insurance.enterprises,expiring,76,37,9,Porkbun LLC,27/12/2021 13:15,27/12/2025 13:15
+11dcd61b-0ab8-49a5-a5a2-fde4aa00240a,insurance.equipment,resell,76,37,9,Dynadot Inc,21/09/2025 17:00,21/09/2026 17:00
+49125e1b-27f1-4802-84cc-b1d57b035d4a,insurance.estate,resell,76,37,9,"GoDaddy.com, LLC",01/09/2025 01:10,01/09/2030 01:10
+b8a7fdd4-ba26-4f44-82c2-51f657d8aa9e,insurance.expert,premium,76,37,9,,,
+0e4a6bcf-607f-4755-8ff1-9cdf019f8944,insurance.fail,premium,76,37,9,,,
+d94ba955-1090-4aad-ae89-b68e435f7eca,insurance.family,premium,76,37,9,,,
+f16c0db1-63a1-41db-bcae-64ac95a8200c,insurance.fan,premium,76,37,9,,,
+d55cd297-e283-4e68-b753-42c790ec1f91,insurance.fans,premium,76,37,9,,,
+3950f68c-8244-4126-b3d2-b75e75532fec,insurance.farm,resell,76,37,9,"GoDaddy.com, LLC",20/04/2014 22:12,20/04/2026 22:12
+c84ac583-49d2-4018-a6d9-3678025e4d42,insurance.fashion,expired,76,37,9,"NameCheap, Inc.",05/10/2024 15:25,05/10/2025 15:25
+d9db58dd-3240-4745-b7d8-2f0a6dbd953e,insurance.fish,premium,76,37,9,,,
+35691ed5-4bee-4f0f-81ee-bd6ce2e58279,insurance.fishing,premium,76,37,9,,,
+272a72e1-1f49-4344-929b-a0f07c706ab8,insurance.fitness,resell,76,37,9,"GoDaddy.com, LLC",11/04/2018 17:49,11/04/2026 17:49
+c7a621fa-71bb-415b-981a-32184b6e4305,insurance.flights,premium,76,37,9,,,
+6caee020-ff03-4cb5-b9ff-89041bb42874,insurance.florist,available,76,37,9,,,
+272ea468-be47-4ce2-bed2-dfce4c1f5e5a,insurance.flowers,available,76,37,9,,,
+3d2a99ef-18d0-4ce8-951a-8cb38c06de7d,insurance.foo,premium,76,37,9,,,
+951e0c0e-69f7-48bc-a676-81238356efeb,insurance.food,premium,76,37,9,,,
+9a18cf19-4225-497d-b848-102ec2609282,insurance.forsale,premium,76,37,9,,,
+3ddebbdb-3bd0-4820-a4ce-81ed32863017,insurance.foundation,premium,76,37,9,,,
+1d6188f3-e9b3-4025-8122-5def8bc05497,insurance.free,premium,76,37,9,,,
+beaead44-e609-442f-89a7-6ac2ec104657,insurance.fun,premium,76,37,9,,,
+e84954e0-1b8b-4798-ac60-2ebff54e7361,insurance.furniture,premium,76,37,9,,,
+8170fe70-5493-4e4e-aa8d-dc975fb0aea1,insurance.futbol,available,76,37,9,,,
+b3693b44-0145-4f45-9172-52f4b6c70e24,insurance.gallery,premium,76,37,9,,,
+f2684181-3d1b-4d82-8961-5e0b7db0bbad,insurance.garden,premium,76,37,9,,,
+f76b951b-2236-4088-8a99-9f69ea0a3d31,insurance.gay,premium,76,37,9,,,
+5cdd2c49-c60c-4864-aa29-a798c2a36332,insurance.gifts,premium,76,37,9,,,
+e3588ed7-7ded-4aba-9bbc-c14bcd4d3554,insurance.gives,premium,76,37,9,,,
+a6fb87b2-9b37-4339-b60f-00be3b1c3cb8,insurance.giving,premium,76,37,9,,,
+ccfb662e-4e39-40fd-8402-3cbc7572a004,insurance.glass,premium,76,37,9,,,
+7998e606-8ede-487b-aea8-3d574cd772c9,insurance.global,premium,76,37,9,,,
+21d76340-c071-4729-b876-97ea7e728a66,insurance.gmbh,available,76,37,9,,,
+024eb854-217f-4d89-bfed-6e90c1c39eb9,insurance.gold,resell,76,37,9,"Chengdu West Dimension Digital Technology Co., Ltd.",05/02/2018 15:42,05/02/2027 15:42
+b39172bf-ab21-40eb-9514-b89ba6d95595,insurance.golf,expiring,76,37,9,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,11/01/2025 15:15,11/01/2026 15:15
+9d88bb65-475e-43a8-bef3-1e0106e981a2,insurance.gratis,premium,76,37,9,,,
+438eb888-e50d-4929-a437-9e0c3050a913,insurance.green,premium,76,37,9,,,
+e5a0bafd-a996-4087-9b74-dfce52407f93,insurance.guide,premium,76,37,9,,,
+6068a873-fde4-4bd1-b60e-6c1d6303109b,insurance.guitars,available,76,37,9,,,
+a711f154-c6ea-49f6-af00-20b2a51f8f16,insurance.guru,resell,76,37,9,Dynadot Inc,09/07/2025 23:16,09/07/2026 23:16
+4c4c5a13-cf45-40d4-8cbb-5321631184ef,insurance.hair,premium,76,37,9,,,
+4f0c900c-60e4-43c7-b4e7-433e319d0930,insurance.haus,resell,76,37,9,Dynadot Inc,07/10/2024 17:09,07/10/2026 17:09
+23283a65-5ab1-491a-8f30-1caffed72d58,insurance.health,resell,76,37,9,"GoDaddy.com, LLC",07/11/2023 23:15,07/11/2026 23:15
+91ea6e61-10c4-4351-93a9-f90b0cff5141,insurance.hiphop,premium,76,37,9,,,
+0612aac1-be0b-4796-8e3a-0fcadcd140e2,insurance.hiv,premium,76,37,9,,,
+c2cfb11b-3936-4776-98b5-9451861cc90a,insurance.hockey,available,76,37,9,,,
+b86931e3-3167-4e14-b4ce-37e868aa4573,insurance.holdings,resell,76,37,9,"GoDaddy.com, LLC",05/02/2014 16:00,05/02/2026 16:00
+190d45a4-8111-4f2a-81b5-966da021d7ac,insurance.holiday,resell,76,37,9,"Sav.com, LLC",28/07/2025 17:07,28/07/2026 17:07
+dde469db-7e38-4043-891e-f94620cc9ad4,insurance.homes,resell,76,37,9,"Global Domains International, Inc.",09/09/2019 18:28,09/09/2026 23:59
+956e0ea2-f6db-4018-92b3-b35f815e9c08,insurance.hospital,premium,76,37,9,,,
+027026ae-f912-4e47-821c-668565435dfd,insurance.host,premium,76,37,9,,,
+0c02b718-5fd6-42ec-b606-0ef37ca42555,insurance.hosting,available,76,37,9,,,
+e0fedb37-b15f-4027-96b6-381064e2d1f7,insurance.hot,premium,76,37,9,,,
+c8f60479-6752-4212-945e-c80ee7f93cb9,insurance.house,expiring,76,37,9,Porkbun LLC,14/01/2025 19:15,14/01/2026 19:15
+1548a50f-802a-4111-889d-0a3536e2900e,insurance.im,premium,76,37,9,,,
+e8ec2028-cf93-40d6-9db6-09795a4544d5,insurance.immo,resell,76,37,9,"Sav.com, LLC",31/10/2024 11:45,31/10/2026 11:45
+e60200c9-596a-4906-84b5-5ee91c75a30a,insurance.industries,resell,76,37,9,"GoDaddy.com, LLC",07/04/2024 21:11,07/04/2026 21:11
+3913ff51-c775-4176-8459-b28a8c689ae1,insurance.ing,premium,76,37,9,,,
+59059909-cd3a-476a-a459-dc26490c11d5,insurance.ink,resell,76,37,9,"NameCheap, Inc.",02/07/2014 16:05,02/07/2026 23:59
+e91c9f94-d227-47dd-81a5-0b7330c53145,insurance.institute,expiring,76,37,9,"GoDaddy.com, LLC",20/12/2022 03:28,20/12/2025 03:28
+eff8ec74-e6af-49c1-85ab-4a2c77ddf073,insurance.investments,premium,76,37,9,,,
+0c06ead4-592d-452d-a345-1b474cbfd5c5,insurance.irish,premium,76,37,9,,,
+e7399f60-a5c4-47e3-ab05-0268b2ccc586,insurance.it,expiring,76,37,9,,22/12/1999 00:00,23/12/2025 00:00
+7c975dde-a767-435a-abc8-793ef8998d97,insurance.jetzt,premium,76,37,9,,,
+9ff090a9-9582-4d94-900b-da8798626f05,insurance.juegos,available,76,37,9,,,
+fc9411a7-3bd7-426d-a615-bb1eb03c7d77,insurance.kaufen,available,76,37,9,,,
+7078f81c-ac75-42f7-8103-aa762f20f1c6,insurance.kids,premium,76,37,9,,,
+4ee85709-1f7d-44d1-b600-2742c1a54538,insurance.kim,premium,76,37,9,,,
+e0ef126d-f981-405e-bb7b-82c29c45710f,insurance.kitchen,premium,76,37,9,,,
+0adddaf4-c5b9-4115-af45-ac3a5e76717c,insurance.la,resell,76,37,9,TLD Registrar Solutions Ltd,21/03/2013 00:16,21/03/2026 23:59
+f59728eb-8d5e-4a6a-81f4-77355e617e9f,insurance.law,resell,76,37,9,"GoDaddy.com, LLC",14/08/2020 09:04,14/08/2026 09:04
+b983f496-8a00-4ffb-8f7b-04bd68fefb85,insurance.lawyer,premium,76,37,9,,,
+93fade2b-2cfe-497f-a355-2a6e0be9b934,insurance.lease,premium,76,37,9,,,
+ee1f8a69-1060-4f02-be78-2237f9ae4214,insurance.lgbt,premium,76,37,9,,,
+befbbb4d-d72b-4cda-a132-19d3478f7ea9,insurance.life,resell,76,37,9,"Chengdu West Dimension Digital Technology Co., Ltd.",17/09/2019 10:11,17/09/2027 10:11
+2b45c39e-ddd4-40f3-a783-250dbc1cfc4c,insurance.lifestyle,premium,76,37,9,,,
+9318b6c8-ee07-45ab-b884-1d5969499631,insurance.lighting,available,76,37,9,,,
+6f3e8c40-7436-45ac-b181-5674d24101b6,insurance.link,resell,76,37,9,"NameSilo, LLC",14/09/2020 16:11,14/09/2032 16:11
+94f4d89b-849f-412f-b7da-225de78c802e,insurance.live,premium,76,37,9,,,
+d438a9f4-dde3-4cc2-b2fe-8ac348d29c8f,insurance.living,premium,76,37,9,,,
+24fb9068-4d55-4b37-aa88-6a7d725dc227,insurance.llc,premium,76,37,9,,,
+89e18bdf-740d-42db-ad07-8e3b2b0fa1c0,insurance.loan,premium,76,37,9,,,
+d72cc303-3ccf-4ef9-a72f-dca1a7be6a83,insurance.locker,premium,76,37,9,,,
+65e1c939-6ed7-4d5e-bd00-be6a0be1f74f,insurance.lol,expiring,76,37,9,"XYZ.com, LLC",11/01/2025 02:31,11/01/2026 23:59
+665d81f4-a56f-444b-ad28-e1c0f3ad694f,insurance.london,premium,76,37,9,,,
+725cb042-52c3-41c3-b74e-566dba2b6dca,insurance.love,premium,76,37,9,,,
+58c41cfe-97ce-4a32-8ebd-d4a87879f0c5,insurance.ltda,premium,76,37,9,,,
+ef5ba21f-7e3a-4359-a03e-86bb48496754,insurance.luxe,available,76,37,9,,,
 83c0cb92-edc4-4384-be1e-fbb36f74402f,lifeinsurance.ai,resell,58,88,14,Hyper Limited,16/12/2017 04:00,06/02/2027 04:00
 40464736-3d4f-46f4-a8c1-a75d8cea0d82,lifeinsurance.co,resell,58,88,14,Hello Internet Corp.,24/02/2010 23:19,23/02/2026 23:59
 2dd813c5-d129-4db4-aac9-8100bb7d9bc2,lifeinsurance.io,resell,58,88,14,Dynadot10 LLC,24/07/2019 10:11,24/07/2026 10:11
@@ -990,12 +999,3 @@ e54801a1-a074-44e9-8e95-288854d0f00e,risk.quest,resell,62,27,4,"Porkbun, LLC",19
 b5f18a5b-f65b-4944-98f0-04ee897b5200,risk.realty,available,62,27,4,,,
 a61cc1e1-810a-4b8e-99f9-8aa6cad869d7,risk.recipes,available,62,27,4,,,
 0bc62357-1d7e-4c61-a90e-6685d4a900ec,risk.red,sold,62,27,4,OVH SAS,13/12/2017 15:33,13/12/2026 15:33
-a7667ebb-e451-4ad0-8541-4c357739b667,risk.rehab,available,62,27,4,,,
-9690428a-8330-4406-b9fe-57393948ad91,risk.reise,available,62,27,4,,,
-dff6d3e5-e5bd-47f7-8566-84a67e1da59c,risk.reisen,available,62,27,4,,,
-f69cd15d-de80-48ee-9bbc-d3ac78228c69,risk.rent,available,62,27,4,,,
-e24b7761-6b54-46b9-8d45-f55ac6cc3267,risk.rentals,available,62,27,4,,,
-99c8b1fe-f8f5-431a-b6c5-545de666f493,risk.repair,available,62,27,4,,,
-1f788f59-bebe-41ab-a75f-af025712a35a,risk.report,resell,62,27,4,Porkbun LLC,04/09/2025 20:50,04/09/2026 20:50
-9a5e4463-aa33-42a7-a4c2-8f085972baf6,risk.republican,available,62,27,4,,,
-64e31068-99d5-48d1-9ecc-59f439c5e7f8,risk.restaurant,available,62,27,4,,,
