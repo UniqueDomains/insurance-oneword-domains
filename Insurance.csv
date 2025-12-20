@@ -1,4 +1,11 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+24fb9068-4d55-4b37-aa88-6a7d725dc227,insurance.llc,premium,76,37,9,,,
+89e18bdf-740d-42db-ad07-8e3b2b0fa1c0,insurance.loan,premium,76,37,9,,,
+d72cc303-3ccf-4ef9-a72f-dca1a7be6a83,insurance.locker,premium,76,37,9,,,
+65e1c939-6ed7-4d5e-bd00-be6a0be1f74f,insurance.lol,expiring,76,37,9,"XYZ.com, LLC",11/01/2025 02:31,11/01/2026 23:59
+665d81f4-a56f-444b-ad28-e1c0f3ad694f,insurance.london,premium,76,37,9,,,
+725cb042-52c3-41c3-b74e-566dba2b6dca,insurance.love,premium,76,37,9,,,
+58c41cfe-97ce-4a32-8ebd-d4a87879f0c5,insurance.ltda,premium,76,37,9,,,
 ef5ba21f-7e3a-4359-a03e-86bb48496754,insurance.luxe,available,76,37,9,,,
 3aa32e08-b2d7-4497-862a-c86de63393c3,insurance.luxury,resell,76,37,9,"Go Daddy, LLC",18/02/2020 22:38,18/02/2026 23:59
 1da83042-19de-4b84-b5cd-b613916a509e,insurance.makeup,premium,76,37,9,,,
@@ -297,13 +304,6 @@ befbbb4d-d72b-4cda-a132-19d3478f7ea9,insurance.life,resell,76,37,9,"Chengdu West
 6f3e8c40-7436-45ac-b181-5674d24101b6,insurance.link,resell,76,37,9,"NameSilo, LLC",14/09/2020 16:11,14/09/2032 16:11
 94f4d89b-849f-412f-b7da-225de78c802e,insurance.live,premium,76,37,9,,,
 d438a9f4-dde3-4cc2-b2fe-8ac348d29c8f,insurance.living,premium,76,37,9,,,
-24fb9068-4d55-4b37-aa88-6a7d725dc227,insurance.llc,premium,76,37,9,,,
-89e18bdf-740d-42db-ad07-8e3b2b0fa1c0,insurance.loan,premium,76,37,9,,,
-d72cc303-3ccf-4ef9-a72f-dca1a7be6a83,insurance.locker,premium,76,37,9,,,
-65e1c939-6ed7-4d5e-bd00-be6a0be1f74f,insurance.lol,expiring,76,37,9,"XYZ.com, LLC",11/01/2025 02:31,11/01/2026 23:59
-665d81f4-a56f-444b-ad28-e1c0f3ad694f,insurance.london,premium,76,37,9,,,
-725cb042-52c3-41c3-b74e-566dba2b6dca,insurance.love,premium,76,37,9,,,
-58c41cfe-97ce-4a32-8ebd-d4a87879f0c5,insurance.ltda,premium,76,37,9,,,
 83c0cb92-edc4-4384-be1e-fbb36f74402f,lifeinsurance.ai,resell,58,88,14,Hyper Limited,16/12/2017 04:00,06/02/2027 04:00
 40464736-3d4f-46f4-a8c1-a75d8cea0d82,lifeinsurance.co,resell,58,88,14,Hello Internet Corp.,24/02/2010 23:19,23/02/2026 23:59
 2dd813c5-d129-4db4-aac9-8100bb7d9bc2,lifeinsurance.io,resell,58,88,14,Dynadot10 LLC,24/07/2019 10:11,24/07/2026 10:11

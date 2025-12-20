@@ -21,6 +21,13 @@ If you want to search & filters the complete database of [Insurance one word dom
 
 | Domain                | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
 | --------------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| insurance.llc         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.loan        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.locker      | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.lol         | expiring  | 76       | 37%    | 9      | XYZ.com, LLC                                        | 11/01/2025 02:31 | 11/01/2026 23:59 |
+| insurance.london      | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.love        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
+| insurance.ltda        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
 | insurance.luxe        | available | 76       | 37%    | 9      |                                                     |                  |                  |
 | insurance.luxury      | resell    | 76       | 37%    | 9      | Go Daddy, LLC                                       | 18/02/2020 22:38 | 18/02/2026 23:59 |
 | insurance.makeup      | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
@@ -44,13 +51,6 @@ If you want to search & filters the complete database of [Insurance one word dom
 | insurance.news        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
 | insurance.nexus       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
 | insurance.ngo         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
-| insurance.observer    | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
-| insurance.onl         | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
-| insurance.online      | sold      | 76       | 37%    | 9      | NAME DOT STORE INC                                  | 02/04/2019 13:57 | 02/04/2029 23:59 |
-| insurance.organic     | available | 76       | 37%    | 9      |                                                     |                  |                  |
-| insurance.osaka       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
-| insurance.page        | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
-| insurance.party       | premium   | 76       | 37%    | 9      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Insurance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [Insurance one word dom
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
