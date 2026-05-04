@@ -1,22 +1,22 @@
-# Insurance One-Word Domains (9,554)
+# Insurance Keyword Domains (6,982)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C554%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C982%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of insurance one-word domains from Unique Domains.
+This selection covers 6,982 domain names tied to the insurance keyword across 505 TLDs. Updated daily. Median ask is about $2,013, so comparison here is mainly about TLD quality, renewal fit, and whether the keyword use feels commercially credible.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,554 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,982 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,554 domains
+**Public extract:** 1,000 rows · **Live catalog:** 6,982 domains · **Median ask:** $2,012.77 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Insurance`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| insurance.camera     | available | $72.98      | —             | 76             | 44     | 9      | namecheap        |
-| policy.xyz           | resell    | $228,721.20 | $20.99        | 98             | 26     | 6      | Dynadot LLC      |
-| insurance.university | premium   | $82.50      | —             | 80             | 43     | 9      | name.com         |
-| insurance.hamburg    | available | $59.99      | —             | 80             | 43     | 9      | name.com         |
-| policy.me            | resell    | $5,750      | $27.99        | 98             | 26     | 6      | Spaceship, Inc.  |
-| insurance.trading    | premium   | $1,250      | —             | 80             | 43     | 9      | name.com         |
-| insurance.desi       | available | $22.98      | —             | 80             | 43     | 9      | namecheap        |
-| insurance.pics       | resell    | —           | —             | 76             | 44     | 9      | Dynadot LLC      |
-| insurance.shop       | premium   | $12,500     | —             | 80             | 43     | 9      | name.com         |
-| insurance.barcelona  | available | $38.98      | —             | 80             | 43     | 9      | namecheap        |
-| insurance.black      | resell    | —           | —             | 76             | 44     | 9      | GoDaddy.com, LLC |
-| insurance.moi        | premium   | $375        | —             | 80             | 43     | 9      | name.com         |
-| insurance.voting     | available | $1,448      | —             | 76             | 43     | 9      | namecheap        |
-| insurance.zone       | resell    | —           | —             | 80             | 43     | 9      | Porkbun LLC      |
-| insurance.mobile     | premium   | $1,250      | —             | 80             | 43     | 9      | name.com         |
-| insurance.vodka      | available | $38.98      | —             | 76             | 43     | 9      | namecheap        |
-| insurance.services   | resell    | —           | —             | 80             | 43     | 9      | Porkbun LLC      |
-| insurance.forex      | premium   | $1,250      | —             | 80             | 43     | 9      | name.com         |
-| insurance.viajes     | available | $57.98      | —             | 76             | 43     | 9      | namecheap        |
-| insurance.salon      | resell    | —           | —             | 80             | 43     | 9      | Dynadot Inc      |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| policy.construction  | premium   | —         | —             | 98             | 26     | 6      | —                |
+| policy.pictures      | premium   | —         | —             | 98             | 26     | 6      | —                |
+| insurance.camera     | available | $72.98    | —             | 76             | 44     | 9      | namecheap        |
+| policy.me            | resell    | $5,750    | $27.99        | 98             | 26     | 6      | Spaceship, Inc.  |
+| insurance.university | premium   | $82.50    | —             | 80             | 43     | 9      | name.com         |
+| insurance.hamburg    | available | $59.99    | —             | 80             | 43     | 9      | name.com         |
+| insurance.pics       | resell    | —         | —             | 76             | 44     | 9      | Dynadot LLC      |
+| insurance.trading    | premium   | $1,250    | —             | 80             | 43     | 9      | name.com         |
+| insurance.desi       | available | $22.98    | —             | 80             | 43     | 9      | namecheap        |
+| insurance.black      | resell    | —         | —             | 76             | 44     | 9      | GoDaddy.com, LLC |
+| insurance.shop       | premium   | $12,500   | —             | 80             | 43     | 9      | name.com         |
+| insurance.barcelona  | available | $38.98    | —             | 80             | 43     | 9      | namecheap        |
+| insurance.zone       | resell    | —         | —             | 80             | 43     | 9      | Porkbun LLC      |
+| insurance.moi        | premium   | $375      | —             | 80             | 43     | 9      | name.com         |
+| insurance.voting     | available | $1,448    | —             | 76             | 43     | 9      | namecheap        |
+| insurance.services   | resell    | —         | —             | 80             | 43     | 9      | Porkbun LLC      |
+| insurance.mobile     | premium   | $1,250    | —             | 80             | 43     | 9      | name.com         |
+| insurance.vodka      | available | $38.98    | —             | 76             | 43     | 9      | namecheap        |
+| insurance.salon      | resell    | —         | —             | 80             | 43     | 9      | Dynadot Inc      |
+| insurance.forex      | premium   | $1,250    | —             | 80             | 43     | 9      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,554 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 6,982 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is broad rather than narrow: insurance-related domains spread across 505 TLDs, with examples such as health.rsvp, guarantee.plus, home.security, premium.world, and life.uno. That mix means the main decision is not just price. It is whether the extension supports trust in an insurance context. When comparing these domains, start with commercial clarity, then check if the TLD is likely to be understood by customers, partners, or buyers. With a median ask near $2,013, the better names in this selection are the ones where keyword meaning, extension, and renewal burden are all aligned.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize TLDs that support trust in insurance use cases
+- Use the $2,013 median ask as a first-pass pricing anchor
+- Check renewal burden on nonstandard extensions before buying
+- Avoid combinations that weaken credibility or invite confusion
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Insurance One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Insurance Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
