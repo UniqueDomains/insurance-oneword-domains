@@ -300,6 +300,7 @@ e57f1815-129c-4181-aa5e-e982fa322703,insurance.property,premium,,,76,37,9,,,
 17059203-18b6-4813-b032-30c909be4fee,insurance.uno,premium,,,76,37,9,,,
 ced05299-fa3c-47af-ab55-fea0579baa43,insurance.voto,resell,,,76,37,9,"Spaceship, Inc.",18/07/2025 19:22,18/07/2026 19:22
 3903cae6-529c-4156-bfaa-e2323d78b017,coverage.barcelona,available,38.98,,76,18,8,namecheap,,
+6eeecde2-b56b-4121-ac04-765b07f4a699,coverage.cfd,premium,,,76,18,8,,,
 1ba9ce87-43be-4073-9db2-7f8988284f8f,coverage.channel,premium,73.75,,76,18,8,name.com,,
 0a585cda-742e-4101-9b3a-a5a2a2ccf7f1,coverage.desi,available,22.98,,76,18,8,namecheap,,
 0d2433bf-a0fa-4a6b-b4f5-93e267909b0f,coverage.eco,available,64.99,,76,18,8,name.com,,
@@ -998,4 +999,3 @@ e493a4c3-6ac7-4259-8ee8-216598d8e54e,policy.sbs,premium,,,98,26,6,,,
 817c2874-dbdb-466f-9115-1c1610cddbac,policy.services,resell,,,98,26,6,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24
 8da2c151-2ec7-4bee-b7f1-7bfd0728cb61,policy.sexy,premium,,,98,26,6,,,
 dd30e06f-0b05-4c94-92c0-85d82402c7bd,policy.shiksha,premium,,,98,26,6,,,
-26bbcbbd-74db-4244-8f6c-be6576743855,policy.shoes,premium,,,98,26,6,,,
