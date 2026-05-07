@@ -64,10 +64,10 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| policy.construction  | premium   | —         | —             | 98             | 26     | 6      | —                |
-| policy.pictures      | premium   | —         | —             | 98             | 26     | 6      | —                |
+| policy.construction  | premium   | —         | —             | 98             | 29     | 6      | —                |
+| policy.pictures      | premium   | —         | —             | 98             | 29     | 6      | —                |
 | insurance.camera     | available | $72.98    | —             | 76             | 44     | 9      | namecheap        |
-| policy.me            | resell    | $5,750    | $27.99        | 98             | 26     | 6      | Spaceship, Inc.  |
+| policy.me            | resell    | $5,750    | $27.99        | 98             | 29     | 6      | Spaceship, Inc.  |
 | insurance.university | premium   | $82.50    | —             | 80             | 43     | 9      | name.com         |
 | insurance.hamburg    | available | $59.99    | —             | 80             | 43     | 9      | name.com         |
 | insurance.pics       | resell    | —         | —             | 76             | 44     | 9      | Dynadot LLC      |
