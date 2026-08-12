@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| medical.observer    | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
 | car.ryukyu          | available | $22.98    | —             | high           | medium | 3      | namecheap        |
-| safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
-| pet.actor           | premium   | $82.50    | $82.50        | medium         | medium | 3      | name.com         |
+| dental.rent         | resell    | $29.99    | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
+| pet.apartments      | premium   | $83.99    | $82.50        | medium         | medium | 3      | name.com         |
 | pet.airforce        | available | $109.98   | $134.98       | medium         | medium | 3      | namecheap        |
-| medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.attorney        | premium   | $1,250    | $1,250        | medium         | medium | 3      | name.com         |
-| pet.archi           | available | $14.98    | $132.98       | medium         | medium | 3      | namecheap        |
-| vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.autos           | premium   | $812.50   | $20.99        | medium         | medium | 3      | name.com         |
-| pet.auto            | available | $2,070    | $2,950        | medium         | medium | 3      | namecheap        |
-| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
-| pet.bar             | premium   | $1,968.75 | $2,812.50     | medium         | medium | 3      | name.com         |
-| pet.broker          | available | $11.98    | $47.98        | medium         | medium | 3      | namecheap        |
-| pet.baby            | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
-| pet.bid             | premium   | $625      | $81.25        | medium         | medium | 3      | name.com         |
-| pet.christmas       | available | $1.80     | $49.98        | medium         | medium | 3      | namecheap        |
-| pet.cafe            | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
-| pet.bike            | premium   | $250      | $250          | medium         | medium | 3      | name.com         |
+| safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
+| pet.deal            | premium   | $1,250    | $1,250        | medium         | medium | 3      | name.com         |
 | pet.democrat        | available | $5.98     | $41.48        | medium         | medium | 3      | namecheap        |
-| pet.cheap           | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
+| medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| pet.fans            | premium   | $325      | $650          | medium         | medium | 3      | namecheap        |
+| pet.diet            | available | $108.98   | $159.98       | medium         | medium | 3      | namecheap        |
+| vehicle.casa        | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
+| pet.giving          | premium   | $37.50    | $37.50        | medium         | medium | 3      | name.com         |
+| pet.flowers         | available | $108.98   | $159.98       | medium         | medium | 3      | namecheap        |
+| vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| pet.graphics        | premium   | $123.75   | $123.75       | medium         | medium | 3      | name.com         |
+| pet.legal           | available | $9.99     | $92.99        | medium         | medium | 3      | name.com         |
+| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
+| pet.gripe           | premium   | $82.50    | $82.50        | medium         | medium | 3      | name.com         |
+| pet.maison          | available | $24.99    | $83.99        | medium         | medium | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
