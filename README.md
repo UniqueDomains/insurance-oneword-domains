@@ -16,7 +16,7 @@ This selection covers one-word insurance domain names across 506 TLDs, with a me
 
 **Public extract:** 1,000 rows · **Live catalog:** 107,587 domains · **Median ask:** $656.13 · **High-demand under $2,500:** 333
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-16
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| medical.observer    | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
 | car.ryukyu          | available | $22.98    | —             | high           | medium | 3      | namecheap        |
 | dental.rent         | resell    | $29.99    | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
-| pet.apartments      | premium   | $83.99    | $82.50        | medium         | medium | 3      | name.com         |
+| pet.actor           | premium   | $82.50    | $82.50        | medium         | medium | 3      | name.com         |
 | pet.airforce        | available | $109.98   | $134.98       | medium         | medium | 3      | namecheap        |
 | safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
+| pet.apartments      | premium   | $83.99    | $82.50        | medium         | medium | 3      | name.com         |
+| pet.archi           | available | $14.98    | $132.98       | medium         | medium | 3      | namecheap        |
+| medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| pet.cruises         | premium   | $250      | $250          | medium         | medium | 3      | name.com         |
+| pet.broker          | available | $11.98    | $47.98        | medium         | medium | 3      | namecheap        |
+| vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
 | pet.deal            | premium   | $1,250    | $1,250        | medium         | medium | 3      | name.com         |
 | pet.democrat        | available | $5.98     | $41.48        | medium         | medium | 3      | namecheap        |
-| medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.fans            | premium   | $325      | $650          | medium         | medium | 3      | namecheap        |
-| pet.diet            | available | $108.98   | $159.98       | medium         | medium | 3      | namecheap        |
-| vehicle.casa        | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
-| pet.giving          | premium   | $37.50    | $37.50        | medium         | medium | 3      | name.com         |
-| pet.flowers         | available | $108.98   | $159.98       | medium         | medium | 3      | namecheap        |
-| vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.gripe           | premium   | $82.50    | $82.50        | medium         | medium | 3      | name.com         |
-| pet.legal           | available | $9.99     | $92.99        | medium         | medium | 3      | name.com         |
 | business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
-| pet.horse           | premium   | $500      | $46.99        | medium         | medium | 3      | name.com         |
-| pet.maison          | available | $24.99    | $83.99        | medium         | medium | 3      | name.com         |
+| pet.eco             | premium   | $9,375    | $113.99       | medium         | medium | 3      | name.com         |
+| pet.diet            | available | $108.98   | $159.98       | medium         | medium | 3      | namecheap        |
+| car.trading         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| pet.engineering     | premium   | $123.75   | $123.75       | medium         | medium | 3      | name.com         |
+| pet.flowers         | available | $108.98   | $159.98       | medium         | medium | 3      | namecheap        |
+| pet.family          | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
