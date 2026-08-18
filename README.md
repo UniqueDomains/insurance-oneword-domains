@@ -1,10 +1,10 @@
-# One-Word Insurance Domain Names (107,587)
+# One-Word Insurance Domain Names (109,232)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-107%2C587%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-109%2C232%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word insurance domain names across 506 TLDs, with a median ask near $690. Updated daily, it spans carriers, InsurTech, and coverage-related brand names for quick comparison.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **107,587 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **109,232 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 107,587 domains · **Median ask:** $656.13 · **High-demand under $2,500:** 333
+**Public extract:** 1,000 rows · **Live catalog:** 109,232 domains · **Median ask:** $649.00 · **High-demand under $2,500:** 333
 
-**Last updated:** 2026-08-17
+**Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | medical.observer    | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
-| bond.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| pet.car             | available | $2,070    | $2,400        | medium         | medium | 3      | namecheap        |
 | dental.rent         | resell    | $29.99    | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
 | car.claims          | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap        |
-| bond.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
+| bond.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com         |
 | safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
 | auto.industries     | premium   | $260      | $260          | medium         | medium | 4      | namecheap        |
-| bond.ltda           | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
+| bond.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
 | medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
 | auto.llc            | premium   | $1,300    | $1,300        | medium         | medium | 4      | namecheap        |
-| bond.sarl           | available | $6.99     | $6.99         | high           | low    | 4      | namesilo         |
+| bond.ltda           | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
 | vehicle.casa        | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
 | bond.investments    | premium   | $500      | —             | high           | low    | 4      | name.com         |
-| bond.srl            | available | $31.99    | $31.99        | high           | low    | 4      | namesilo         |
+| bond.sarl           | available | $6.99     | $6.99         | high           | low    | 4      | namesilo         |
 | vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
 | bond.loan           | premium   | $6,250    | —             | high           | low    | 4      | name.com         |
-| fire.auto           | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
+| bond.srl            | available | $31.99    | $31.99        | high           | low    | 4      | namesilo         |
 | business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
 | bond.loans          | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
-| fire.car            | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
+| fire.auto           | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 107,587 live domains                       |
+| 1,000-row public sample | 109,232 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 333 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
