@@ -16,7 +16,7 @@ This selection covers one-word insurance domain names across 506 TLDs, with a me
 
 **Public extract:** 1,000 rows · **Live catalog:** 109,598 domains · **Median ask:** $648.50 · **High-demand under $2,500:** 333
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| medical.observer    | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
-| bond.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com         |
-| dental.rent         | resell    | $29.99    | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
-| car.claims          | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap        |
-| bond.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
-| safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
-| auto.industries     | premium   | $260      | $260          | medium         | medium | 4      | namecheap        |
-| bond.ltda           | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
-| medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| auto.llc            | premium   | $1,300    | $1,300        | medium         | medium | 4      | namecheap        |
-| bond.sarl           | available | $6.99     | $6.99         | high           | low    | 4      | namesilo         |
-| vehicle.casa        | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
-| bond.investments    | premium   | $500      | —             | high           | low    | 4      | name.com         |
-| bond.srl            | available | $31.99    | $31.99        | high           | low    | 4      | namesilo         |
-| vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| bond.loan           | premium   | $6,250    | —             | high           | low    | 4      | name.com         |
-| fire.auto           | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
-| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
-| bond.loans          | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
-| fire.car            | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| pet.accountants | available | $43.99    | $153.99       | medium         | medium | 3      | name.com                                                  |
+| car.furniture   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| pet.attorney    | premium   | $1,250    | $1,250        | medium         | medium | 3      | name.com                                                  |
+| pet.auto        | available | $2,070    | $2,950        | medium         | medium | 3      | namecheap                                                 |
+| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                             |
+| pet.autos       | premium   | $812.50   | $20.99        | medium         | medium | 3      | name.com                                                  |
+| pet.barcelona   | available | $38.98    | $38.98        | medium         | medium | 3      | namecheap                                                 |
+| net.services    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| pet.bargains    | premium   | $123.75   | $123.75       | medium         | medium | 3      | name.com                                                  |
+| pet.cars        | available | $2,070    | $2,950        | medium         | medium | 3      | namecheap                                                 |
+| pet.baby        | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
+| pet.bayern      | premium   | $57.54    | $50.99        | medium         | medium | 3      | name.com                                                  |
+| pet.christmas   | available | $1.80     | $49.98        | medium         | medium | 3      | namecheap                                                 |
+| pet.cheap       | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
+| pet.beer        | premium   | $500      | $46.99        | medium         | medium | 3      | name.com                                                  |
+| pet.equipment   | available | $19.99    | $41.99        | medium         | medium | 3      | name.com                                                  |
+| pet.click       | resell    | —         | —             | medium         | medium | 3      | Dynadot, LLC                                              |
+| pet.bike        | premium   | $250      | $250          | medium         | medium | 3      | name.com                                                  |
+| pet.football    | available | $19.99    | $37.99        | medium         | medium | 3      | name.com                                                  |
+| pet.clothing    | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
