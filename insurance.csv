@@ -871,6 +871,7 @@ f10a974e-5c52-4a04-89a8-22bf64c1d7cc,pet.car,available,2070,2400,medium,medium,3
 5c377939-0b7c-498f-bac5-b1a1ed344a95,analyst.industries,available,17.49,,high,low,7,name.com,,
 114750df-41b5-4798-bcfe-57c31baeff8e,travel.review,available,,,high,low,6,,,
 045fe797-3549-467f-bf76-42bad3682b66,security.investments,resell,,,high,medium,8,IONOS SE,20/08/2014 16:00,20/08/2026 16:00
+ef433130-42f6-418c-a0cd-f7eef5180910,superior.loan,premium,12500,125,medium,low,8,name.com,,
 3be274cb-880e-4aa2-b687-77265b92ec81,insurancecarrier.insure,available,9.99,,medium,low,17,name.com,,
 4df228fd-57cc-4df3-9983-24f8e60cc253,guarantee.news,available,,,high,low,9,,,
 70c1ef3b-a48d-46e8-b3b7-800008975734,carrier.claims,available,19.99,,medium,low,7,name.com,,
@@ -998,4 +999,3 @@ b4b01e35-d48a-46a5-b7c7-1a0a2e055b66,safety.doctor,resell,,,high,low,6,"Spaceshi
 41a836dc-f9bf-4cc5-b1b7-5f728873c153,medical.doctor,available,,,high,low,7,,,
 44d2b373-7aca-4ad0-a87d-30144376ded6,premium.surgery,available,54.99,54.99,high,low,7,namesilo,,
 a7b8f812-084f-4666-8d02-f6fb72cccef1,safety.hiv,available,,,high,low,6,,,
-9f1517bb-ef64-4fd5-954d-45fe96593718,medical.hiv,available,,,high,low,7,,,
