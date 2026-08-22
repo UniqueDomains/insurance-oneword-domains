@@ -1,20 +1,17 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 9661ef5a-3ac9-423f-82fc-9bf6085d8902,medical.insure,premium,123.75,123.75,high,low,7,name.com,,
 8727b866-085c-48f4-9d4f-7a52a609b5ad,company.insure,premium,118.8,118.8,high,low,7,namesilo,,
-fa953ce6-de97-40ec-817a-2eb488c99583,health.realty,available,109.99,299,high,medium,6,namesilo,,
 6534dbe2-6fed-4510-a2c6-cb0b2b1cfd1d,claim.insure,premium,78.54,78.54,high,low,5,namesilo,,
 c2b233d5-ef45-4c3b-8d94-55158578bb61,guarantee.insure,available,9.99,,high,low,9,name.com,,
 763864f5-0532-4fe4-98bd-0a1164e35bdb,vehicle.insure,premium,260,260,high,low,7,namecheap,,
 c7cc33c4-2323-47d6-b393-d8ef5c362e9c,analysis.insure,available,9.99,,high,low,8,name.com,,
 03ae0d02-1a97-4acc-9673-18b6de73a405,payment.insure,premium,118.8,118.8,high,low,7,namesilo,,
 1cf84f1c-501f-4462-b7d7-ddc2c26f19ab,management.insure,premium,520,520,high,low,10,namecheap,,
-0e2d4e36-1f72-4601-951f-4e76dfe6b984,mathematics.limited,available,14.99,,medium,low,11,name.com,,
 973821a3-2f30-490f-851e-92f1de01aa6f,business.claims,premium,1040,1040,high,medium,8,namecheap,,
 805b5ae3-7466-431e-bf11-1355d0cd0324,travel.claims,premium,1040,1040,high,medium,6,namecheap,,
 23a061c3-9d9b-4402-b52b-87fd4cc93a44,allowance.insure,available,9.99,,high,low,9,name.com,,
 21dd0be5-feb8-454c-b55b-f8cc1764a93a,strategy.insure,available,9.99,,high,medium,8,name.com,,
 ef0a0b23-00ca-4f87-97d3-d8b9d1323269,market.insure,premium,118.8,118.8,high,medium,6,namesilo,,
-876a9053-8308-40d3-9227-53bfcedc59fe,mathematics.business,premium,118.8,118.8,medium,low,11,namesilo,,
 7bfab751-c260-46b8-b325-aac373e950c6,premium.claims,available,19.99,,high,low,7,name.com,,
 f3b12f6e-3887-49b6-8e5f-93d9723a9572,company.claims,premium,118.8,118.8,high,low,7,namesilo,,
 5b1966e4-c41b-499f-b282-1d5126081d45,coverage.insure,available,,,high,low,8,,,
@@ -98,7 +95,6 @@ c58e4de9-57db-41fd-9018-00e948cce565,guarantee.investments,available,14.99,,high
 68bc9229-ffcb-4a29-9a22-ed7486411d95,premium.ltd,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/09/2019 09:03,08/09/2026 09:03
 b7d283b8-b9fb-4a73-8032-abc18184bff3,premium.ltda,available,34.99,34.99,high,low,7,namesilo,,
 5bf7ff73-0836-4f96-aae3-939ae5967af4,dental.claims,premium,3750,3750,high,low,6,name.com,,
-513a7381-cf46-4763-820f-448a94bc03d8,mathematics.maison,available,19.99,,medium,low,11,name.com,,
 45c1e63f-825b-43c4-9abf-5302962015aa,claim.financial,available,29.99,,high,low,5,name.com,,
 eb46bd60-2fc4-448e-8ff4-c07cfa89626e,guarantee.financial,premium,82.5,,high,low,9,name.com,,
 e6d7c0c5-ea39-4de9-9083-438ba925e06a,guarantee.finance,available,15.99,,high,low,9,name.com,,
@@ -160,7 +156,6 @@ ac77dc55-9cd2-4371-b251-dbc439643129,policy.company,available,,,high,low,6,,,
 0bfe37bb-e879-407d-8380-6d590f0014c4,guarantee.holdings,available,80.99,,high,low,9,name.com,,
 37e202c9-266f-46cc-a70b-e5dfb6773c06,company.loans,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",27/08/2015 01:14,27/08/2026 01:14
 89ae735c-9b99-43c5-860a-5fb389a2ce69,health.investments,premium,520,520,high,medium,6,namecheap,,
-fbb1baad-b559-482b-bbb5-00cbc8bf7b5e,mathematics.estate,available,14.99,,medium,low,11,name.com,,
 2c72b041-d0b5-49c6-9f01-f6949e7880b7,policy.business,available,3.99,,high,low,6,name.com,,
 cf0510cc-56ef-41db-a176-001d08c0abdf,company.business,premium,854,854,high,low,7,namesilo,,
 9b4d08da-27a1-468c-be24-c879a0452301,dental.industries,premium,123.75,123.75,high,low,6,name.com,,
@@ -182,12 +177,10 @@ d950e023-65ce-411c-a7d2-0decab5b4f2b,business.homes,premium,845,15.73,high,mediu
 797445db-db34-418d-8589-1a308fbae271,guarantee.business,available,3.99,,high,low,9,name.com,,
 0e83cbc4-3645-4a34-9a33-985b4f376d91,dental.finance,premium,250,250,high,low,6,name.com,,
 cc70cbb7-0191-4936-b434-7775ce4b819d,travel.homes,resell,,,high,medium,6,"Spaceship, Inc.",01/09/2022 20:39,01/09/2026 23:59
-ad536a9f-14ff-4a59-a09c-057930dcb161,motorinsurance.realty,available,179.99,,medium,low,15,name.com,,
 14752287-3edb-4e53-b6e0-3fd39dd8d3ea,actuarial.insure,available,,,medium,low,9,,,
 daea466c-4994-4bdc-a8c0-d1badb49033d,medical.com,resell,,,high,low,7,"Sea Wasp, LLC",14/07/1994 04:00,13/07/2026 04:00
 a4b27113-1971-4720-a0c8-dba4f9dbe697,health.srl,premium,54.28,30.68,high,medium,6,namesilo,,
 0bd7be2c-d59f-4eca-ad34-2f6dc8f83e27,health.sarl,available,6.99,6.99,high,medium,6,namesilo,,
-295425c9-6cd7-496b-9b7a-dde455b64b6d,mathematics.ceo,available,10.19,109.99,medium,low,11,namesilo,,
 ada64474-2a11-4305-8775-4880d22630d8,safety.realty,available,109.99,299,high,low,6,namesilo,,
 9cd45d7a-0344-476e-8f63-f5cb3a40ed8f,business.realty,premium,8190,11700,high,medium,8,namecheap,,
 be536242-e46b-4dfe-8210-5dcb158c36c3,medical.realty,premium,910,1300,high,low,7,namecheap,,
@@ -259,7 +252,6 @@ b38093ee-0458-41d0-aeaa-5a22bf5983d8,dental.ltda,premium,60,35,high,low,6,name.c
 d43e4673-e6d6-444d-93a6-e20dda491cfa,property.ltda,premium,66.3,66.3,high,low,8,namecheap,,
 6e982fe3-9450-4735-8404-bbe702ace893,dental.limited,premium,82.5,82.5,high,low,6,name.com,,
 c66d34c6-4b0e-4d0f-a39d-f545055e9f95,premium.car,available,1999.99,2199,high,low,7,namesilo,,
-4dbbe5cf-7c6e-4c19-81c3-f067840cecef,payment.engineering,resell,,,high,low,7,"GoDaddy.com, LLC",22/07/2023 19:38,22/07/2026 19:38
 ff4cd1dc-95bc-4bf1-ae2f-2992a5a0f79b,travel.immo,premium,260,260,high,medium,6,namecheap,,
 05b3494b-1b84-40f5-bd84-bc88983034fd,travel.immobilien,available,14.99,,high,medium,6,name.com,,
 a947c6aa-a470-49f0-966a-f21c8e37fd4d,travel.property,available,,,high,low,6,,,
@@ -267,7 +259,6 @@ a947c6aa-a470-49f0-966a-f21c8e37fd4d,travel.property,available,,,high,low,6,,,
 ae30f2bc-1a27-498c-bc2b-43dd215e5b66,property.holdings,resell,,,high,low,8,"Sav.com, LLC",19/04/2017 10:22,19/04/2027 10:22
 f73b65bf-02ae-4e10-b4d5-5a8d229ee34e,dental.holdings,available,80.99,84.99,high,low,6,name.com,,
 e8a98d74-b9f1-475c-8da0-d561d3ff5ffc,health.loans,premium,260,260,high,medium,6,namecheap,,
-ed56f288-05e4-4884-823e-10d5754553de,motorinsurance.estate,available,14.99,,medium,low,15,name.com,,
 b3a29a6b-8caf-4c81-a8d6-fa269676f2ea,pension.co,resell,,,high,high,7,Hello Internet Corp.,24/02/2010 23:05,23/02/2026 23:59
 06979b2a-66a3-43d5-92be-9667e079091a,policy.casa,premium,47.2,11.8,high,low,6,namesilo,,
 05fab231-7711-4471-802a-06c815b29dc9,company.maison,available,19.99,,high,low,7,name.com,,
@@ -297,7 +288,6 @@ eadc5694-40de-4831-bc85-5954d83fdcfe,travel.condos,premium,1040,1040,high,medium
 ace6e523-811f-4642-8abb-ff000588bd8c,guarantee.homes,available,1.99,,high,low,9,name.com,,
 d2911c27-1131-4ed8-9cf2-05e4065b2f5e,travel.apartments,premium,520,520,high,medium,6,namecheap,,
 b043ca4a-6f73-4d7a-be98-42417757b198,dental.money,resell,,,high,low,6,Dynadot Inc,03/07/2025 07:47,03/07/2026 07:47
-ac035e0b-556a-4d2f-9545-7c9327c2a05c,deductible.cash,available,4.98,50.98,low,low,10,namecheap,,
 ce014dff-a8cb-4784-9738-0203e4969fb0,business.rentals,premium,260,260,high,medium,8,namecheap,,
 51af0587-65b9-48f7-9029-7720b9157173,medical.rent,premium,250,250,high,low,7,name.com,,
 29b339f9-632d-437e-8074-a9cd53335913,safety.rentals,premium,242,242,high,low,6,namesilo,,
@@ -305,7 +295,6 @@ ce014dff-a8cb-4784-9738-0203e4969fb0,business.rentals,premium,260,260,high,mediu
 90e8dd42-b258-44e0-9eb6-7d046c9c2b17,safety.rent,resell,29.99,,high,low,6,"Go Daddy, LLC",18/03/2026 18:56,18/03/2027 23:59
 92a781de-c7a2-40b1-90f6-6ccc7cc6ed8a,market.holdings,resell,,,high,medium,6,"Spaceship, Inc.",17/02/2026 17:03,17/02/2027 17:03
 f88d6a46-983d-499b-8517-385108b3a9ed,life.industries,premium,260,260,high,medium,4,namecheap,,
-da957e7b-e51c-4b7f-a707-8efc2d459489,mathematics.mx,available,39.99,43.99,medium,low,11,namesilo,,
 74ad5238-6c5f-45fc-9146-401abdc9c1e1,dental.loan,premium,6250,125,high,low,6,name.com,,
 3e56402d-bd91-4c59-971b-a0f1aa12e15b,travel.rent,premium,650,650,high,medium,6,namecheap,,
 d70f8796-937f-4ab6-b431-3260d7a9a29f,travel.rentals,premium,1040,1040,high,medium,6,namecheap,,
@@ -327,8 +316,6 @@ a0eb2d68-48e9-49f8-9d81-f9ecb3ff62ef,policy.villas,available,19.99,,high,low,6,n
 8b180f36-bc18-400b-86be-008de3c90fd3,company.property,available,,,high,high,7,,,
 f1888b21-e0f2-49c5-939b-9ac4785eed1e,policy.properties,available,10.99,,high,low,6,name.com,,
 fcc2a03e-fa6d-4222-96e8-a08ace7caa31,property.company,resell,,,high,low,8,GoDaddy Online Services Cayman Islands Ltd.,23/06/2015 19:23,23/06/2026 19:23
-53516a3b-a661-47ae-968c-c3cd8bf1f9b1,policy.shop,premium,1250,,high,low,6,name.com,,
-836ac439-3790-4185-b598-c83697b31fc5,motorinsurance.llc,available,19.99,,medium,low,15,name.com,,
 39c3f139-3278-4cec-aa93-a12b73e858af,vehicle.financial,available,29.99,,high,low,7,name.com,,
 b700dc7e-48ce-46c2-a3a5-0f920d123001,premium.rent,premium,242,242,high,low,7,namesilo,,
 b8e0c935-6806-450b-8d91-a9dfb1fd69c3,property.loans,resell,,,high,low,8,"GoDaddy.com, LLC",23/11/2016 03:12,23/11/2026 03:12
@@ -354,11 +341,8 @@ cb554c37-78d9-4aaf-9e9c-e12c6eadc57c,broadcast.insure,available,9.99,,high,low,9
 6896761f-3eca-4563-a468-1e8465edde31,policy.rentals,available,14.99,,high,low,6,name.com,,
 3db821eb-b065-47be-8072-233b5ec28556,company.rentals,premium,854,854,high,low,7,namesilo,,
 1638c8e4-9a58-402b-8636-3f725ba28150,company.rent,premium,1107,1107,high,low,7,namesilo,,
-c13a8813-394b-4fb7-b111-b863d7b3f300,mathematics.vana,available,2498,,medium,low,11,namecheap,,
-f15132fa-f6d8-4f8f-b2dc-91c35e30e55a,motorinsurance.house,available,27.99,,medium,low,15,name.com,,
 6dc7e10d-76c8-4e75-8cad-a5e971a5168a,claim.estate,available,14.99,,high,low,5,name.com,,
 f011d24b-8e93-490f-9a7b-89aebe4c4f0f,guarantee.estate,available,14.99,,high,low,9,name.com,,
-23c6d5ba-a53d-471c-b469-bd1224e31e36,mathematics.dog,available,5.99,,medium,low,11,name.com,,
 067deec3-5ed8-4e38-bf97-fabe4d393d49,guarantee.immobilien,available,14.99,,high,low,9,name.com,,
 af768630-f211-4c0c-b322-c08373de9313,claim.immobilien,available,14.99,,high,low,5,name.com,,
 2e50974e-c31e-4ed9-8fdf-b38fc6fded4d,guarantee.immo,available,14.99,,high,low,9,name.com,,
@@ -368,7 +352,6 @@ dc7e0fb6-b47b-4ea6-8a94-1130be76509f,claim.properties,available,10.99,,high,low,
 585495cd-e80c-426d-8bd2-76fd709fb7cc,claim.property,available,,,high,low,5,,,
 934b1c01-b3d4-492c-b2c6-14fffe00bcee,guarantee.property,available,,,high,low,9,,,
 a034f0a5-e38e-4d24-99f5-e441f53962a8,guarantee.properties,available,10.99,,high,low,9,name.com,,
-9138f220-eac7-4e3e-9a9b-9322558f0552,motorinsurance.homes,available,1.99,,medium,low,15,name.com,,
 a78608eb-87e7-4a62-b162-75ff5aadab3e,guarantee.place,available,25.99,,high,low,9,name.com,,
 4661a371-8237-4178-b644-4772e0cab3cc,claim.land,resell,,,high,low,5,Dynadot Inc,26/07/2025 17:00,26/07/2026 17:00
 f7bc9bd6-4f22-439a-8f01-4e8e74aae693,guarantee.land,available,19.99,,high,low,9,name.com,,
@@ -388,11 +371,9 @@ a918338e-a78b-481d-a301-136440cdf237,vehicle.inc,premium,2015,2600,high,low,7,na
 f43a6878-6af7-4b72-a659-ede4828f40d2,vehicle.enterprises,available,5.99,,high,low,7,name.com,,
 8035c39a-6ba6-4a5f-8bf8-81e28681318c,vehicle.ltda,available,34.99,34.99,high,low,7,namesilo,,
 27259212-a05f-4e4c-8943-20f7fbb914f7,vehicle.limited,available,14.99,,high,low,7,name.com,,
-92eaa00b-0baa-40c1-af80-f2dda825604b,motorinsurance.investments,available,14.99,,medium,low,15,name.com,,
 e52e2a5f-0a36-415d-94f6-5233858f8d15,claim.rentals,available,14.99,,high,low,5,name.com,,
 4dbdd891-0479-42d1-acb5-14f0157cb028,guarantee.rent,available,,,high,low,9,,,
 3634bb95-8018-49d2-b71d-4672052d5658,analysis.industries,premium,128.7,128.7,high,low,8,namecheap,,
-e91a13bf-fc04-4345-b6e7-a97fa58ad1e6,mathematics.construction,available,15.99,,medium,low,11,name.com,,
 1b07ae56-2f36-4168-9ded-506c18889a6f,vehicle.holdings,available,64.99,64.99,high,low,7,namesilo,,
 321d0f5c-9119-4c95-8b94-b133024f4b18,life.sarl,available,8.98,,high,low,4,namecheap,,
 9fc9a047-d2f6-4929-b567-ce139ed02aa7,life.srl,premium,54.28,30.68,high,medium,4,namesilo,,
@@ -403,7 +384,6 @@ a5644454-e8e1-48a1-833e-1c81a59cece5,life.ltda,premium,66.3,66.3,high,medium,4,n
 f16ee844-315c-4a6c-b582-5d020b992b08,vehicle.money,available,19.99,,high,low,7,name.com,,
 a2c6ccae-45d6-4848-8e5d-7abf0d012d93,health.maison,available,19.99,,high,medium,6,name.com,,
 d49fe5b3-9926-4f40-bb4f-546f8644b0fa,health.house,resell,,,high,medium,6,"Spaceship, Inc.",08/01/2018 20:33,08/01/2027 20:33
-00fef673-cf63-401a-92c9-78e7322a07bc,mathematics.health,available,19.99,,medium,low,11,name.com,,
 92a235ea-4aa1-496d-9a59-de367c338454,vehicle.loan,premium,13000,130,high,low,7,namecheap,,
 c485d05d-7a23-4b4f-8abb-681bfa5410ca,analysis.investments,premium,260,260,high,low,8,namecheap,,
 87159107-a2a2-4ec8-8f1e-2dd806782dec,health.auto,available,1999.99,2199,high,medium,6,namesilo,,
@@ -423,9 +403,7 @@ ad236b01-358b-4aaa-9f08-11b4110fb55f,fire.financial,available,,,high,medium,4,,,
 16298903-18c1-410f-92af-4c0ebb283c02,investment.llc,premium,2500,,high,low,10,name.com,,
 1f89a1a0-163a-4013-931b-b5e0a6005003,payment.industries,premium,242,242,high,low,7,namesilo,,
 cb995a52-2d59-4ec2-bbd6-c1ce1704e4c5,insure.industries,premium,118.8,118.8,high,low,6,namesilo,,
-b070690f-37ee-493c-96e0-7b752e64b654,industry.report,resell,,,high,medium,8,Porkbun LLC,25/02/2017 00:49,25/02/2027 00:49
 7c170bab-c98e-4929-b809-2916c748a74d,life.loan,premium,6500,130,high,medium,4,namecheap,,
-63d54283-2159-4ea7-a823-366a0e1cc2e5,mathematics.school,premium,69.3,138.6,medium,low,11,namecheap,,
 d38d6074-684e-45f6-940e-93cb81dc4705,premium.management,available,14.99,,high,low,7,name.com,,
 a3bcb86a-4677-47f8-afd2-8a6573937755,vehicle.loans,premium,1040,1040,high,low,7,namecheap,,
 6f6af0af-3dfa-47c4-be3b-ab0db5d6dd94,dental.realty,available,349.99,349.99,high,low,6,name.com,,
@@ -434,23 +412,16 @@ eb8759f5-92be-4ade-aac9-070a5c27db02,health.immo,available,14.99,,high,medium,6,
 d5c0504d-ba90-4202-b965-42e81f2b902e,health.villas,premium,520,520,high,medium,6,namecheap,,
 0bc6902f-aa29-49f5-b215-884eada25ce3,health.property,available,,,high,low,6,,,
 3a5f9e94-54ef-4924-9ee8-dcb449fedf0a,travel.at,available,,,high,low,6,,,
-7138b427-dc9c-4575-a63d-22e413ea5e66,mathematics.shiksha,premium,750,,medium,low,11,name.com,,
 6a638ee6-a86c-4617-896e-e6f1edf708a2,reporting.insure,available,9.99,,medium,low,9,name.com,,
-231dc261-ede2-473b-803e-0a753759d2dd,mathematics.name,available,9.98,,medium,low,11,namecheap,,
-bc22d0ce-29d8-435e-9c00-f3db4e94cde0,loss.ryukyu,available,22.98,,medium,low,4,namecheap,,
 743739de-a6d6-4386-9706-769ea405018c,vehicle.business,resell,,,high,low,7,Dynadot Inc,30/06/2023 17:00,30/06/2030 17:00
 396c6bb1-c462-4f8c-a79c-cab24bf830a0,motorinsurance.claims,available,19.99,,medium,low,15,name.com,,
-c624755f-60b3-469f-8718-bca297c8643a,motorinsurance.healthcare,available,91.99,,medium,low,15,name.com,,
-b07d9eaf-bb94-4a26-b3c0-d1a0682776fb,mathematics.surgery,available,54.99,54.99,medium,low,11,namesilo,,
 eb65c1e2-15a1-490a-be7a-c458e58584e4,investment.co,resell,,,high,low,10,Hello Internet Corp.,24/02/2010 22:57,23/02/2027 23:59
 ccc8fc57-63df-4b2a-a420-55d6b4009810,property.house,resell,,,high,low,8,"NameCheap, Inc.",17/09/2025 15:15,17/09/2026 15:15
 9b14dc4b-af2d-4cce-bca3-6e0ccf4dd7ee,dental.maison,available,19.99,83.99,high,low,6,name.com,,
-08957414-584c-4fcd-aef8-727ca693d560,motorinsurance.inc,available,350,,medium,low,15,name.com,,
 2815a960-1a41-420e-8b64-7112d0e28a63,health.place,resell,,,high,medium,6,1API GmbH,21/09/2014 16:00,21/09/2026 16:00
 7d296e8c-f3d0-49ab-a111-8400cd86ac0e,company.management,resell,,,high,low,7,"GoDaddy.com, LLC",10/12/2022 13:42,10/12/2026 13:42
 d114b187-cdff-42f8-8705-dbe8c70451bb,finance.us,resell,,,high,high,7,GrepApps Technology Inc.,09/07/2023 00:00,09/07/2026 00:00
 dd123b09-215c-4db4-9dd2-57cebac45896,health.condos,premium,128.7,128.7,high,medium,6,namecheap,,
-392f7545-0bd3-472c-864d-b2e699cfe40f,deductible.gmbh,available,45.99,45.99,low,low,10,namesilo,,
 44e459ec-316c-4164-a0e6-4b76cc83e746,health.apartments,resell,,,high,medium,6,"Sav.com, LLC - 14",16/12/2025 15:15,16/12/2026 15:15
 55e2d312-b08a-4c4b-9558-3e17e354a3e8,payment.investments,available,14.99,,high,low,7,name.com,,
 0c9a8472-011d-4901-866f-b2f8b355415b,insure.investments,premium,118.8,118.8,high,low,6,namesilo,,
@@ -491,7 +462,6 @@ e7cbaebf-d906-4955-a5b6-0c415fee94af,retirement.industries,premium,118.8,118.8,h
 311254ec-9dd4-461a-bc5f-9618bf3a01f2,medical.fund,premium,500,500,high,low,7,name.com,,
 ccf28dfb-7d4c-476a-87e2-a8e14e71d787,analysis.gmbh,available,45.99,45.99,high,low,8,namesilo,,
 74ffc87a-464f-4db1-b3e9-0352215209ce,fire.gmbh,available,,,high,medium,4,,,
-aa23d567-d812-4603-a58a-4753674d064d,mathematics.forex,available,19.99,,medium,low,11,name.com,,
 d691745e-6b7b-47a6-a462-e524b5a80d12,fire.sarl,available,,,high,medium,4,,,
 e9633213-38d5-4a0b-adbf-662cd2a2a375,analysis.sarl,available,6.99,6.99,high,low,8,namesilo,,
 e9a7cec2-c758-4689-b203-285b7d8b5cee,analysis.srl,available,31.99,31.99,high,low,8,namesilo,,
@@ -506,7 +476,6 @@ f45e74df-16fa-4f85-9680-046e18fe13c7,dental.immo,available,14.99,45.99,high,low,
 fb8b692a-87f8-4c71-8a90-834485ce439d,dental.properties,premium,250,250,high,low,6,name.com,,
 e6ea94ea-d1ca-4598-9613-871093597683,fire.inc,premium,2061.5,2660,high,high,4,namesilo,,
 a1bdb927-3f1f-4f58-b1fd-fc38d9db9edc,analysis.inc,premium,2015,2600,high,low,8,namecheap,,
-901bf5d7-5d5a-40ea-8aad-2bea269ed199,mathematics.sucks,available,218.99,218.99,medium,low,11,namesilo,,
 9a855020-129f-42ab-8ec0-da6afcf12b78,analysis.enterprises,available,5.99,,high,low,8,name.com,,
 60bfe364-1db5-4a50-b7d0-6dca64cd1564,fire.ltda,available,34.99,34.99,high,high,4,namesilo,,
 f1164b43-7954-4918-ae6f-aa43a806fd3a,analysis.ltd,available,9.99,,high,low,8,name.com,,
@@ -514,7 +483,6 @@ f1164b43-7954-4918-ae6f-aa43a806fd3a,analysis.ltd,available,9.99,,high,low,8,nam
 a7f21009-67e7-4083-98b0-18de729878f8,analysis.ltda,available,34.99,34.99,high,low,8,namesilo,,
 c13df81e-caba-421e-9106-3807bd07db2e,fire.limited,available,,,high,medium,4,,,
 b2c0e1fa-cb0c-48a9-958d-1c7101ceda24,travel.fund,premium,520,520,high,low,6,namecheap,,
-dc12f1f6-e095-47a1-a912-8391ae6d4ceb,mathematics.town,available,9.99,,medium,low,11,name.com,,
 53c597de-90f0-48cd-aa09-38d6f67e6f83,travel.services,resell,,,high,medium,6,Porkbun LLC,09/09/2016 10:15,09/09/2026 10:15
 3eceab35-d41b-4c72-8120-a83d5b997489,analysis.holdings,available,64.99,64.99,high,low,8,namesilo,,
 5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,,,high,low,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2027 23:59
@@ -526,7 +494,6 @@ dcd0cf4c-8ba3-4abc-9bc0-b8fe015ec471,property.place,resell,,,high,low,8,"Spacesh
 ee302cd5-7911-46fa-b34e-d271a104d801,guarantee.management,available,14.99,,high,low,9,name.com,,
 b44da366-2d03-4697-a78d-4880841557be,property.condos,premium,1040,1040,high,low,8,namecheap,,
 962a698f-9985-40df-a0c5-1b2f8fecfa03,dental.condos,premium,123.75,123.75,high,low,6,name.com,,
-750fade8-b8da-49cf-9a96-795e5a048001,mathematics.wiki,resell,,,medium,low,11,"DNSPod, Inc.",10/11/2022 06:15,10/11/2026 06:15
 2da6ddc9-8d07-4016-a74d-c4cc8b64982a,business.solutions,resell,,,high,medium,8,Dynadot Inc,07/09/2019 23:01,07/09/2026 23:01
 f5a413c1-7ad0-4305-bcb2-ba4d2510c9e1,home.solutions,resell,,,high,medium,4,Porkbun LLC,29/09/2016 16:41,29/09/2026 16:41
 c701e7d7-6057-4c9e-8746-68be9cb80c0f,medical.solutions,resell,,,high,low,7,Porkbun LLC,10/09/2016 12:40,10/09/2026 12:40
@@ -543,14 +510,12 @@ fd25a015-db5a-49b3-815c-8c44d50f8d7c,medical.consulting,available,,,high,low,7,,
 fb23b407-729d-4c27-b3ea-e86112dc10c0,management.financial,premium,520,520,high,low,10,namecheap,,
 c8de051d-9fef-40d7-ad43-3bc7051a08c9,travel.solutions,resell,,,high,medium,6,Porkbun LLC,10/09/2016 12:40,10/09/2026 12:40
 b235c659-18a6-4b84-b2e2-453e3a93806e,travel.consulting,premium,1300,1300,high,medium,6,namecheap,,
-f117fa04-fc7e-416c-b629-51e3d508746c,pet.apartments,premium,83.99,82.5,medium,medium,3,name.com,,
 d4b77b12-6137-4420-a0fa-86a42a05ba6b,analysis.money,available,19.99,,high,low,8,name.com,,
 3838f20b-6979-495e-8897-427bf0c754c0,fire.money,available,,,high,medium,4,,,
 06a38ae8-c297-4031-8bdb-04b2f5437c58,safety.biz,resell,,,high,low,6,"GoDaddy.com, LLC",27/03/2002 05:47,26/03/2027 23:59
 96728479-cd00-4777-96c7-9e359924ece1,dental.rent,resell,29.99,94.99,high,low,6,"Go Daddy, LLC",27/03/2026 20:06,27/03/2027 23:59
 d8290aad-30bd-4c8d-a07a-e0d534857e79,dental.rentals,premium,250,250,high,low,6,name.com,,
 80c2ae38-fab8-45dc-becf-8bdf1091d337,allowance.llc,available,19.99,,high,low,9,name.com,,
-7c157f73-a4ea-4245-b8d4-92cdfb618b5a,company.ryukyu,available,22.98,,high,low,7,namecheap,,
 b933f46a-cd53-49d8-93e9-74ebce6f3ead,security.llc,premium,625,,high,medium,8,name.com,,
 42b034fc-ac7c-4108-b63f-d72404aa79e4,market.llc,premium,2500,,high,medium,6,name.com,,
 991d6156-5103-4d62-a8b6-c1317aef7470,strategy.llc,premium,2600,2600,high,medium,8,namecheap,,
@@ -583,12 +548,10 @@ eae62251-40b2-48de-bc88-2c105f27c0be,premium.consulting,premium,700,1400,high,lo
 19a0333c-feff-44da-8b2e-b252ed23a20e,payment.limited,premium,118.8,118.8,high,low,7,namesilo,,
 dd133a29-07ce-4528-b5ff-e00ae3cbfbfd,insure.ltda,premium,56.64,33.04,high,low,6,namesilo,,
 37efef66-cf09-40cc-9655-3b7dae0b77df,investment.ltd,resell,,,high,low,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 11:12,21/06/2026 11:12
-396696e8-eb1a-42f1-81fd-15e5a17eb82a,mathematics.viajes,available,37.99,37.99,medium,low,11,namesilo,,
 b0855275-cdaf-454e-9c10-6aaac4414862,fire.company,resell,,,high,high,4,"Spaceship, Inc.",19/09/2023 15:15,19/09/2026 15:15
 af4477a6-759c-47a4-8198-5580e518af63,business.plus,resell,,,high,medium,8,1API GmbH,13/12/2017 16:16,13/12/2026 16:16
 3c9792d9-3ac2-468c-87b1-a877cf9e79f2,home.plus,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/07/2015 16:00,08/07/2029 16:00
 793b24d2-111a-48b2-a59b-f7ce7047e8da,safety.plus,resell,,,high,low,6,"Sav.com, LLC",20/07/2015 13:03,20/07/2026 13:03
-33ba8932-ff03-42dd-8e64-0b3318ed50cd,mathematics.photography,available,9.99,,medium,low,11,name.com,,
 0d908af9-3d4e-441a-9013-33275c2e296d,analyst.claims,available,19.99,,high,low,7,name.com,,
 9ad75afb-75d6-44f3-bb45-882de0d5ff80,vehicle.homes,premium,845,15.73,high,low,7,namecheap,,
 990165e7-2f2b-454c-8683-077297493e91,payment.holdings,available,64.99,64.99,high,low,7,namesilo,,
@@ -605,12 +568,10 @@ f836e4dc-6e1f-47cb-aa78-51e5c8029510,analysis.loans,available,19.99,,high,low,8,
 eb720c80-0331-45e4-a76e-44c32c10ec5d,fire.loans,available,,,high,medium,4,,,
 fe79e195-eb1b-4f0a-95e6-6187d09b805b,allowance.co,resell,,,high,low,9,"Spaceship, Inc.",27/10/2013 16:30,26/10/2026 23:59
 06b96897-9003-46cf-a437-cf95ba569143,premium.healthcare,premium,500,,high,low,7,name.com,,
-c2f58806-8647-476a-b645-22ee1d4c3f66,mathematics.surf,available,2.19,32.49,medium,low,11,namesilo,,
 33d789a7-133e-45c0-af15-bcb406df3198,policy.capital,available,9.99,,high,low,6,name.com,,
 255b63ca-9a0f-4f2d-87e6-dc5bd5d478c1,company.capital,premium,78.54,78.54,high,low,7,namesilo,,
 e96bd7d6-382b-4ac1-a289-166569c148f0,travel.protection,available,1999.99,2049.99,high,medium,6,namesilo,,
 07c22ce9-e8c1-4dc1-b6eb-48f2ab412ece,travel.security,available,1999.99,2049.99,high,medium,6,namesilo,,
-02f9de95-49b6-4861-b7ed-3899e34c4549,mathematics.channel,premium,36.25,,medium,low,11,name.com,,
 cd2892ca-78a1-4048-98ea-67af81d089db,company.ventures,resell,,,high,low,7,Dynadot Inc,04/09/2025 17:00,04/09/2026 17:00
 55e8792d-0a11-41d5-82f4-44895149144a,policy.ventures,available,,,high,low,6,,,
 0a183d04-3efd-44d6-b562-3a76cdb4495c,allowance.investments,available,14.99,,high,low,9,name.com,,
@@ -644,7 +605,6 @@ b97a5a08-fd37-42c3-9c76-db46c54e6a9d,premium.protection,available,1999.99,2049.9
 a05aa7fb-b017-4b62-94af-b152adc446c8,making.insure,available,9.99,,high,low,6,name.com,,
 3c0416ce-6513-494e-9e22-6cf10b8b843b,business.agency,resell,,,high,medium,8,"Sav.com, LLC - 36",21/09/2023 15:15,21/09/2026 15:15
 214f780a-c8ae-4c6d-98fa-62224ec19f9e,safety.agency,resell,,,high,low,6,Porkbun LLC,11/06/2025 13:04,11/06/2026 13:04
-6f6deb59-c891-44e2-b340-04e91762f340,mathematics.kitchen,available,14.99,,medium,low,11,name.com,,
 057a309c-b034-4560-be35-2b0c595c8ca8,provider.industries,available,17.49,,high,low,8,name.com,,
 ce54f1d0-db57-430b-8948-d23d6ec2255a,coverage.industries,available,17.49,,high,low,8,name.com,,
 74b879ff-d989-4dd6-9e9b-c44c10a82031,services.industries,premium,260,260,high,low,8,namecheap,,
@@ -689,7 +649,6 @@ e50f7b94-39c6-4a34-a47e-88d609478f12,vehicle.maison,available,19.99,,high,low,7,
 af23f5c2-1fb6-4851-b367-deb30980896d,vehicle.casa,resell,17.98,,high,low,7,Sav.com LLC,29/04/2026 09:28,29/04/2027 09:28
 445d6270-9d03-43bf-b9b8-a0460b7032d6,guarantee.services,available,15.99,,high,low,9,name.com,,
 5720b287-c490-4190-9dab-3a383820bc5f,claim.services,premium,280,560,high,low,5,namecheap,,
-cd34b345-d4d2-4802-95b1-c71bee06a5f1,mathematics.food,premium,980,1400,medium,low,11,namecheap,,
 3db49722-43da-462a-803e-e3181501c67f,travel.pet,premium,1250,1250,high,medium,6,name.com,,
 75d06c1d-92de-45a1-9eac-9b53454205ed,retirement.inc,premium,2061.5,2660,high,low,10,namesilo,,
 24187c3e-2a12-4e4b-9312-8553ae137ac0,services.inc,premium,2015,2600,high,low,8,namecheap,,
@@ -729,7 +688,6 @@ b2231124-0845-4bd3-a37f-c86d1fee9bdc,healthcare.holdings,resell,,,high,low,10,Dy
 bf122afc-436d-4ab0-8ad8-6da10c0c57d9,policy.protection,available,1999.99,2049.99,high,low,6,namesilo,,
 5712408d-6130-4617-b0d1-43b8cc891525,company.security,available,1999.99,2049.99,high,low,7,namesilo,,
 00474eaf-c2c5-4c35-b7bf-cf4172bed8bd,investment.loans,available,,,high,low,10,,,
-56890cfe-488a-4600-9767-a29fd38bf756,mathematics.diy,premium,875,,medium,low,11,name.com,,
 5ae091b1-6943-45a1-80ea-958fcb0378a9,provider.co,resell,,,high,low,8,"GoDaddy.com, LLC",20/07/2010 18:02,19/07/2026 23:59
 022913c9-7fd9-4de1-be91-1ca8236fa9bd,services.co,resell,,,high,low,8,Hello Internet Corp.,25/02/2010 00:55,24/02/2027 23:59
 db923765-c84c-420e-a4ab-ba5058d9c6d1,life.casa,resell,,,high,medium,4,"Spaceship, Inc.",27/02/2023 00:01,27/02/2027 00:01
@@ -741,7 +699,6 @@ db923765-c84c-420e-a4ab-ba5058d9c6d1,life.casa,resell,,,high,medium,4,"Spaceship
 2f295afb-ef2d-4f7f-8c43-8d39c30ffedc,premium.motorcycles,premium,2500,,high,low,7,name.com,,
 7b685173-2d9e-40d8-ac76-72090613fc0c,guarantee.ventures,available,19.99,,high,low,9,name.com,,
 d31b2c49-b716-402d-bb65-c8fddf4d0d9e,claim.ventures,resell,,,high,low,5,Dynadot Inc,11/07/2025 05:02,11/07/2026 05:02
-deb0e2c7-84bd-4583-a407-ca95c9bcf93c,mathematics.clothing,available,19.99,,medium,low,11,name.com,,
 f8d56ce4-11e5-48ab-be87-fa68cf41e7b6,provider.investments,available,14.99,,high,low,8,name.com,,
 71d65edc-c8fa-4444-8340-5da46326b477,coverage.investments,available,14.99,,high,low,8,name.com,,
 3689db0d-539f-4cac-b215-f8bfa9096830,services.investments,premium,520,520,high,low,8,namecheap,,
@@ -750,7 +707,6 @@ f8d56ce4-11e5-48ab-be87-fa68cf41e7b6,provider.investments,available,14.99,,high,
 ab4a3499-8c95-48a2-a799-1c1cfbb47204,life.auto,available,1999.99,2199,high,medium,4,namesilo,,
 e9a44e31-a4c3-4d37-bb26-24d8785ce0c8,premium.press,premium,937.5,,high,low,7,name.com,,
 6827a098-97f3-4b4c-a57e-ace6b54ae355,company.news,premium,700,1400,high,low,7,namecheap,,
-548984e4-d560-45cd-b239-a013c1ce521a,mathematics.voting,available,1448,,medium,low,11,namecheap,,
 c02994f0-4503-4beb-8068-1054bdfdb690,company.dealer,premium,2170,2800,high,low,7,namecheap,,
 2b62a0a5-a52c-46dd-8ce5-2d19ef82139f,policy.dealer,premium,2170,2800,high,low,6,namecheap,,
 358c2cf8-d6d2-4dac-b838-f50c29fd53e9,premium.blog,available,,,high,low,7,,,
@@ -763,7 +719,6 @@ f119e2b2-20d9-4dbc-9499-ffb9eac93ae0,medical.store,premium,3125,12500,high,low,7
 94c8786b-f891-4ad0-9bbc-58926fa83b1a,safety.store,premium,781.25,,high,low,6,name.com,,
 e173893d-007c-4e4d-979f-378f9bfcc22e,home.store,resell,,,high,medium,4,Namify Domains Inc,23/12/2016 11:20,23/12/2029 23:59
 028742c7-9477-4f9d-ac42-7b32b8234664,business.store,premium,3125,12500,high,medium,8,name.com,,
-f604f84e-1e81-4e83-9971-3902e88a586c,pet.horse,premium,500,46.99,medium,medium,3,name.com,,
 7cd52057-fca0-4fa5-a622-978fa6def69f,public.investments,resell,,,high,low,6,"Sav.com, LLC",10/09/2025 17:11,10/09/2026 17:11
 f157a085-019b-4876-93bf-578d469a60b4,vehicle.immobilien,available,14.99,,high,low,7,name.com,,
 a3904d8d-e914-472f-9008-70fe441dca40,vehicle.properties,available,10.99,,high,low,7,name.com,,
@@ -776,7 +731,6 @@ a3904d8d-e914-472f-9008-70fe441dca40,vehicle.properties,available,10.99,,high,lo
 528006d2-97ce-4e29-aff0-18f47b1af431,services.finance,premium,260,260,high,low,8,namecheap,,
 4f96c590-1518-412a-be5d-8e54c333777f,provider.finance,available,15.99,,high,low,8,name.com,,
 14425d0c-1f6d-4590-b8c4-09dcf26561b6,industry.finance,resell,,,high,medium,8,Dynadot Inc,29/11/2023 15:15,29/11/2026 15:15
-94878dad-9afe-44c5-9d3b-dd01c321ab23,mathematics.photo,available,29.99,29.99,medium,low,11,namesilo,,
 8b1245d8-974b-44ee-9bcc-3d384745ca4f,healthcare.money,resell,,,high,low,10,"Spaceship, Inc.",11/03/2015 16:00,11/03/2027 16:00
 961d10b3-a573-42e4-83e8-535a0042ad83,guarantee.biz,resell,,,high,low,9,"GoDaddy.com, LLC",24/01/2006 17:06,23/01/2027 23:59
 9a072da4-37a4-42d6-84d9-2111c63981fe,public.financial,premium,242,242,high,low,6,namesilo,,
@@ -843,13 +797,10 @@ fb57c3f3-149e-4459-a0c1-95c396d6af09,home.health,available,,,high,low,4,,,
 d26f111c-f4b1-4edc-b7ab-7254e7e20c10,safety.health,premium,6250,,high,low,6,name.com,,
 2acfef92-3080-4307-b93e-f389ef292473,business.health,resell,,,high,medium,8,DotHealth LLC,30/07/2024 16:09,30/07/2026 16:09
 c4ef8dda-b4b3-478e-a956-f32430c8c51c,medical.health,resell,,,high,low,7,"GoDaddy.com, LLC",07/11/2023 23:39,07/11/2026 23:39
-16f23820-e5e8-4ff3-a75c-c4449b4ec937,mathematics.cfd,premium,44.8,89.6,medium,low,11,namecheap,,
 f5312f3a-22a4-4f56-8c56-5a83c33b70d1,benefit.expert,available,,,high,high,7,,,
 23453d3c-ef6e-4424-baec-52a55b11dcd2,policy.expert,premium,1040,1040,high,low,6,namecheap,,
-b0199e0f-e08d-4995-a5ed-6fbf315358e7,mathematics.rich,available,94.99,1999,medium,low,11,namesilo,,
 09e2fb96-d1b0-4622-b73f-66aed2820ebf,claim.plus,resell,,,high,low,5,"DNSPod, Inc.",27/12/2023 15:15,27/12/2026 15:15
 4cce6b22-c6eb-4086-9972-72814d21ae5c,protection.finance,resell,,,high,low,10,Dynadot Inc,20/07/2025 17:00,20/07/2026 17:00
-125de1ee-cc38-49dd-8c9e-4ec428367be8,mathematics.ong,premium,62.5,,medium,low,11,name.com,,
 c85a21d4-4fba-4822-9700-89e9a38a4e2a,allowance.holdings,available,64.99,64.99,high,low,9,namesilo,,
 90320fea-0629-42e1-a5d2-ce53a78cd64e,bond.holdings,available,,,high,low,4,,,
 cd7e4474-8be1-4511-b270-e37b44fc7304,travel.mba,premium,260,260,high,medium,6,namecheap,,
@@ -865,13 +816,11 @@ b781b317-6492-4402-8eec-b62b23e9c9fb,management.loans,available,19.99,,high,low,
 d4e4b5c1-598a-4763-8cb3-a0e8b0b7d8e0,retirement.loans,premium,500,,high,low,10,name.com,,
 4be75790-d104-46c8-ba91-9bc46af54d07,security.co,resell,114871.2,36.4,high,medium,8,"Spaceship, Inc.",24/02/2010 22:36,23/02/2027 23:59
 52e74216-8eea-4439-9612-05f74b60980a,motorinsurance.gmbh,available,47.99,,medium,low,15,name.com,,
-f10a974e-5c52-4a04-89a8-22bf64c1d7cc,pet.car,available,2070,2400,medium,medium,3,namecheap,,
 421cbf90-d2e6-4f95-be99-3dc8662d9a5c,vehicle.rent,premium,3250,3250,high,low,7,namecheap,,
 60712b65-9601-4eed-a4f8-c66c5005f00b,life.land,resell,,,high,medium,4,Porkbun LLC,09/10/2018 08:23,09/10/2026 08:23
 5c377939-0b7c-498f-bac5-b1a1ed344a95,analyst.industries,available,17.49,,high,low,7,name.com,,
 114750df-41b5-4798-bcfe-57c31baeff8e,travel.review,available,,,high,low,6,,,
 045fe797-3549-467f-bf76-42bad3682b66,security.investments,resell,,,high,medium,8,IONOS SE,20/08/2014 16:00,20/08/2026 16:00
-ef433130-42f6-418c-a0cd-f7eef5180910,superior.loan,premium,12500,125,medium,low,8,name.com,,
 3be274cb-880e-4aa2-b687-77265b92ec81,insurancecarrier.insure,available,9.99,,medium,low,17,name.com,,
 4df228fd-57cc-4df3-9983-24f8e60cc253,guarantee.news,available,,,high,low,9,,,
 70c1ef3b-a48d-46e8-b3b7-800008975734,carrier.claims,available,19.99,,medium,low,7,name.com,,
@@ -879,7 +828,6 @@ ef433130-42f6-418c-a0cd-f7eef5180910,superior.loan,premium,12500,125,medium,low,
 3cfbe885-1a5a-41be-87d1-51ce4a083b60,guarantee.dealer,premium,2170,2800,high,low,9,namecheap,,
 d021fc3a-2836-418e-9bf2-a971d0ff04d9,claim.dealer,premium,2170,2800,high,low,5,namecheap,,
 9689ddce-52a6-4e4a-96a3-1c919b121913,health.systems,premium,500,,high,medium,6,name.com,,
-541bb2f4-21fe-4db7-b400-9a2131635ac3,deductible.loan,premium,1107,116,low,low,10,namesilo,,
 5992a096-24b1-4b31-a421-e1723707158e,policy.ag,available,89,,high,low,6,name.com,,
 9e5e6db4-ed74-46b3-922e-bf090a961cdb,premium.mba,resell,,,high,low,7,Epik LLC,08/11/2020 19:49,08/11/2026 19:49
 329a5e82-89c5-4c5a-a8e6-77f0c3e24e77,benefit.store,available,,,high,high,7,,,
@@ -889,10 +837,8 @@ a4dc93f5-39c2-4c20-a9aa-623f200f0ef3,policy.store,premium,312.5,,high,low,6,name
 303b85da-e254-412b-8d8a-4c9104f28661,analysis.homes,available,1.99,15.75,high,low,8,namesilo,,
 3692dadf-c103-42ae-8fe3-47c47ef51516,pet.it,resell,,,high,high,3,,30/05/2010 09:31,13/06/2026 00:00
 5a33141f-0726-463b-9427-d3e767650694,medical.vip,resell,,,high,low,7,Go France Domains Inc,23/01/2021 00:11,23/01/2027 00:11
-584c7f48-ed79-4aeb-b24a-f4232880b4a8,mathematics.productions,available,14.99,,medium,low,11,name.com,,
 d80974e4-6fd1-45cf-823b-254fbfe6d1d1,security.finance,resell,,,high,medium,8,Dynadot Inc,30/08/2015 16:00,30/08/2026 16:00
 99d8d57f-1f05-4de5-88cd-d0b107a83e97,safety.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/04/2020 22:53,14/04/2027 22:53
-0a5595c1-b33c-44ac-86df-c626655edf11,mathematics.party,premium,625,,medium,low,11,name.com,,
 535a685d-bb50-497e-8f6a-27a3428bd36a,medical.surgery,premium,500,500,high,low,7,name.com,,
 8aeb7667-506f-4969-8cce-baa28cb98196,business.surgery,premium,128.7,128.7,high,medium,8,namecheap,,
 ccb436a9-51fc-42a3-b411-3bd7712fd17c,safety.surgery,premium,242,242,high,low,6,namesilo,,
@@ -922,7 +868,6 @@ b0093602-b28c-4852-81f7-b6499d4e5445,strategy.loan,premium,1300,130,high,medium,
 a5c3bcd0-2c62-45b2-9acf-be360c187bbc,business.foundation,premium,260,260,high,medium,8,namecheap,,
 ff622a2c-e837-4083-b2e8-d22c1d73ea71,guarantee.pet,available,19.99,,high,low,9,name.com,,
 1fb86341-9be8-43a5-8957-fee9cd454fa7,travel.surgery,premium,520,520,high,medium,6,namecheap,,
-4cb2f0a3-821d-49b0-a857-b77c8c67ccea,claim.vegas,resell,,,high,low,5,Dynadot Inc,02/12/2024 14:00,02/12/2026 14:00
 41212621-55bc-4917-918b-4c47207f4991,bond.cash,available,,,high,low,4,,,
 8a56d4b3-13ea-4204-891b-8a60357bbd57,market.cash,resell,,,high,medium,6,"Spaceship, Inc.",03/02/2021 23:18,03/02/2027 23:18
 cc044601-d388-456c-b664-4ef6f170e286,strategy.cash,resell,,,high,medium,8,"NameCheap, Inc.",06/02/2025 02:50,06/02/2027 02:50
@@ -953,7 +898,6 @@ e95554bf-398c-45e5-97c4-bb8b5919a7c3,analysis.realty,available,109.99,299,high,l
 997a350c-b77c-4f72-8f45-dae18f73f420,travel.foundation,available,,,high,low,6,,,
 a28ceb1c-5810-4947-a151-2298cb07c91c,provider.inc,premium,2061.5,2660,high,low,8,namesilo,,
 ea3f1b91-f938-4c5c-b7a5-867c98b64d41,coverage.inc,premium,2061.5,2660,high,low,8,namesilo,,
-435ce742-9156-4c78-bde7-6b93f887bbaa,pet.cv,premium,2609.75,87.75,medium,medium,3,namecheap,,
 44d7b8cc-c2d3-46b9-a477-c993e5b6b7ad,services.enterprises,available,5.99,,high,low,8,name.com,,
 985c7d21-8a58-4daf-a17f-49dd42278ff6,coverage.enterprises,available,5.99,,high,low,8,name.com,,
 6076417d-6d2c-4a6d-a4d9-f562e166ba6b,provider.enterprises,available,5.99,,high,low,8,name.com,,
@@ -981,7 +925,6 @@ f2c55339-273c-4b40-bee4-136dfe7121b2,policy.mba,available,19.99,,high,low,6,name
 aeb2ea91-91c1-4886-b22c-ee81af4115a1,bond.company,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",21/03/2023 17:00,21/03/2027 17:00
 685604b5-03f2-4259-bea9-08fe47d73eb8,public.srl,premium,54.28,30.68,high,low,6,namesilo,,
 952f378f-1905-44e5-90c3-c3981dac71e9,public.sarl,available,6.99,6.99,high,low,6,namesilo,,
-ff64fe5c-eb40-4107-8013-6b2589d48513,motor.house,resell,,,high,low,5,Porkbun LLC,31/03/2016 10:08,31/03/2027 10:08
 54b3cbc7-2119-4885-af8d-847cfeea8071,analyst.investments,premium,242,242,high,low,7,namesilo,,
 ecb6c40c-2ad6-4fbd-8ab9-75ab15657ab5,policy.health,premium,1107,71.4,high,low,6,namesilo,,
 c717dc0a-16ee-42c3-b34c-3b2e660b700a,company.health,premium,6250,,high,low,7,name.com,,
@@ -999,3 +942,60 @@ b4b01e35-d48a-46a5-b7c7-1a0a2e055b66,safety.doctor,resell,,,high,low,6,"Spaceshi
 41a836dc-f9bf-4cc5-b1b7-5f728873c153,medical.doctor,available,,,high,low,7,,,
 44d2b373-7aca-4ad0-a87d-30144376ded6,premium.surgery,available,54.99,54.99,high,low,7,namesilo,,
 a7b8f812-084f-4666-8d02-f6fb72cccef1,safety.hiv,available,,,high,low,6,,,
+9f1517bb-ef64-4fd5-954d-45fe96593718,medical.hiv,available,,,high,low,7,,,
+1e0b229c-3c7d-4cfb-b129-8935eb6533a3,home.hiv,available,,,high,low,4,,,
+82da1403-f21c-455b-9b07-b484f85d92eb,business.hiv,available,,,high,medium,8,,,
+85a233f2-e141-4205-a6fa-56838d63f6a6,services.holdings,premium,128.7,128.7,high,low,8,namecheap,,
+cf53158e-040c-4b07-8a59-2305baa72122,provider.holdings,available,64.99,64.99,high,low,8,namesilo,,
+35baf276-0f80-438f-a2a0-0f2709cd1533,coverage.holdings,available,64.99,64.99,high,low,8,namesilo,,
+5b5568c7-476d-40d6-a5f1-7bb40498b000,fund.industries,premium,242,242,high,low,4,namesilo,,
+c01e35af-4380-4bbb-bf44-44673994baa6,company.review,available,,,high,high,7,,,
+ca170be5-ce2b-4bc8-bdf6-a234b4294e71,policy.review,premium,6250,,high,low,6,name.com,,
+290b245d-8e89-4f1c-a165-c32d86609bbb,allowance.loans,available,19.99,,high,low,9,name.com,,
+2bcf72c8-af5e-4dc0-b3d7-1682d31a6670,strategy.loans,resell,,,high,medium,8,"NameCheap, Inc.",06/02/2025 02:50,06/02/2027 02:50
+a248c1be-d3d2-47a6-a14f-819b3f7996ef,bond.loans,premium,854,854,high,low,4,namesilo,,
+4525fdcb-a137-43d1-a354-9e19e19f464f,safety.asia,resell,,,high,low,6,"Spaceship, Inc.",19/11/2022 01:08,19/11/2026 01:08
+a993597b-d7bf-423b-b2bb-e3cfd46a57bf,home.asia,available,,,high,low,4,,,
+fe4a832a-c17a-4d69-9372-991a096af11a,medical.asia,resell,,,high,low,7,"GoDaddy.com, LLC",15/12/2009 07:03,15/12/2026 07:03
+3b3c67fa-6f06-4d42-a626-1b09efebb820,premium.law,available,95.99,95.99,high,low,7,namesilo,,
+f4d448ec-6392-4380-97d5-0ed56c0c9651,fire.casa,premium,47.2,11.8,high,high,4,namesilo,,
+51a10f61-43da-4388-bdbd-975bafd42aeb,analysis.maison,available,19.99,,high,low,8,name.com,,
+d6401d5b-86e5-4ce3-9cc6-151d926c7f31,fire.maison,available,,,high,medium,4,,,
+77bf56f9-aa3d-4359-8bf6-3daca87e4df1,analysis.casa,available,2.19,12.99,high,low,8,namesilo,,
+e408cf83-f31d-4130-83a8-740c5f1be639,analysis.house,available,27.99,,high,low,8,name.com,,
+b01f000b-b37b-41c0-9fae-85e5e3fcd090,premium.foundation,resell,,,high,low,7,"Spaceship, Inc.",23/11/2023 15:15,23/11/2026 15:15
+e11c7495-d3d4-44fb-b0b6-5808bc3b64da,travel.doctor,resell,,,high,medium,6,"Go China Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
+1fffb9f9-56be-4a00-b58c-fd878041d371,health.capital,resell,,,high,medium,6,Dynadot Inc,02/09/2015 16:00,02/09/2026 16:00
+fc86e81e-d0d7-42de-8166-d5f63293323d,travel.hiv,available,,,high,low,6,,,
+0122ead1-eb27-415c-92a9-e7fe5c61a780,travel.asia,available,,,high,low,6,,,
+f8ce92d0-971f-41e0-9ff2-82c174f6af2c,industry.investments,resell,,,medium,medium,8,"Sav.com, LLC",12/09/2021 17:15,12/09/2026 17:15
+f7377eb1-4509-435f-ae7b-30ef818019b3,health.consulting,available,,,high,low,6,,,
+4fa304ce-796c-4391-a9f5-7db74e96ec04,mathematics.sarl,available,6.99,6.99,medium,low,11,namesilo,,
+3c4a8419-b864-4836-b362-2a4040f75db4,premium.mortgage,premium,3125,,high,low,7,name.com,,
+5de06156-e6cc-4dfc-a2ba-2f3c1303be6e,fire.auto,available,1999.99,2199,high,high,4,namesilo,,
+3b96fae2-0e80-46f3-8f24-2efb286f1c31,analysis.auto,available,1999.99,2199,high,low,8,namesilo,,
+cc9534a4-17da-46a8-9835-4fbab17cc803,medical.hospital,resell,,,high,low,7,Dot Holding Inc.,22/03/2017 16:00,22/03/2030 16:00
+5616b574-a7ce-4785-9ef8-1181ca78a891,safety.hospital,available,57.99,57.99,high,low,6,namesilo,,
+162bac06-2810-4f1c-bc3d-0c90a23e0ceb,company.ceo,premium,499,,high,low,7,name.com,,
+73510bac-fdec-4354-bf7f-c95109701f6f,analysis.car,available,1999.99,2199,high,low,8,namesilo,,
+8d80dc87-411f-4614-9a33-96c0bf074bc5,fire.car,available,1999.99,2199,high,high,4,namesilo,,
+2f78bf70-2267-4a45-b25c-6d7ffa35db67,dental.systems,premium,500,500,high,low,6,name.com,,
+f131fd7e-487a-4081-8feb-e1999f36e77c,property.systems,resell,,,high,low,8,Dynadot Inc,02/06/2020 16:20,02/06/2030 16:20
+f5e90af6-8d37-4512-8c14-55d43ebd0611,guarantee.ag,available,89,,high,low,9,name.com,,
+18fc04b5-e46c-4074-8248-6468e3bc3eb7,medical.esq,premium,811.25,811.25,high,low,7,name.com,,
+c4c153e7-b3cb-455c-ae2e-fd3aae48a4ed,safety.esq,premium,811.25,,high,low,6,name.com,,
+1a2c1b54-e364-4a41-8b19-4bb9042fc976,medical.lawyer,available,,,high,low,7,,,
+34de93af-ef27-4f4d-b532-4099692b2664,safety.lawyer,premium,1107,1107,high,low,6,namesilo,,
+800d0344-22e8-4b91-a2da-83f914643516,business.lawyer,available,,,high,medium,8,,,
+cd1357ce-bcb7-409a-95eb-62c8c2970f7d,business.attorney,available,,,high,medium,8,,,
+938e7326-4b49-4596-9eb8-3722a0070851,medical.attorney,available,,,high,low,7,,,
+826c5efc-5799-451c-ab7b-bbc7e3ec5ad9,home.esq,available,,,high,low,4,,,
+fc0fd750-a767-4f5b-8750-9865a39c873a,home.attorney,premium,1107,1107,high,medium,4,namesilo,,
+3e7cbb47-30c5-45fc-982b-f4be1f0914aa,home.lawyer,premium,1107,1107,high,medium,4,namesilo,,
+2a971f1a-e3ca-4d11-b286-7c87d1226daa,business.esq,premium,1688.7,1688.7,high,medium,8,namecheap,,
+3107b89e-af07-4032-aabc-5749dc461185,safety.attorney,premium,1107,1107,high,low,6,namesilo,,
+39e36c17-d609-4bbc-9fcb-affdbe90287b,claim.store,premium,156.25,,high,low,5,name.com,,
+ea8f095a-a400-468b-9669-bdda15857e06,finance.store,premium,781.25,3125,high,high,7,name.com,,
+0e587d30-b40f-48b5-9f89-7b04f09191fb,guarantee.store,premium,312.5,,high,low,9,name.com,,
+11a22af6-dc78-427b-9eda-4cda55f77cfa,payment.homes,premium,41.3,41.3,high,low,7,namesilo,,
+fc54adb3-cf1e-4457-8d17-ec4a29bef71c,insure.homes,premium,812.5,,high,low,6,name.com,,
