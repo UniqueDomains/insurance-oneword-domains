@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| car.ryukyu          | available | $22.98    | —             | high           | medium | 3      | namecheap        |
+| medical.observer    | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
+| bond.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| dental.rent         | resell    | $29.99    | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
+| car.claims          | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap        |
+| bond.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
 | safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
-| pet.actor           | premium   | $82.50    | $82.50        | medium         | medium | 3      | name.com         |
-| pet.archi           | available | $14.98    | $132.98       | medium         | medium | 3      | namecheap        |
+| auto.industries     | premium   | $260      | $260          | medium         | medium | 4      | namecheap        |
+| bond.ltda           | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
 | medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.autos           | premium   | $812.50   | $20.99        | medium         | medium | 3      | name.com         |
-| pet.broker          | available | $11.98    | $47.98        | medium         | medium | 3      | namecheap        |
+| auto.llc            | premium   | $1,300    | $1,300        | medium         | medium | 4      | namecheap        |
+| bond.sarl           | available | $6.99     | $6.99         | high           | low    | 4      | namesilo         |
+| vehicle.casa        | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
+| bond.investments    | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| bond.srl            | available | $31.99    | $31.99        | high           | low    | 4      | namesilo         |
 | vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.bar             | premium   | $1,968.75 | $2,812.50     | medium         | medium | 3      | name.com         |
-| pet.democrat        | available | $5.98     | $41.48        | medium         | medium | 3      | namecheap        |
+| bond.loan           | premium   | $6,250    | —             | high           | low    | 4      | name.com         |
+| fire.auto           | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
 | business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
-| pet.bid             | premium   | $625      | $81.25        | medium         | medium | 3      | name.com         |
-| pet.gmbh            | available | $47.98    | $56.98        | medium         | medium | 3      | namecheap        |
-| pet.baby            | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
-| pet.blackfriday     | premium   | $390      | $390          | medium         | medium | 3      | namecheap        |
-| pet.hiv             | available | $184.99   | $184.99       | medium         | medium | 3      | name.com         |
-| pet.cafe            | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
-| pet.boats           | premium   | $812.50   | $20.99        | medium         | medium | 3      | name.com         |
-| pet.holiday         | available | $9.99     | $83.99        | medium         | medium | 3      | name.com         |
-| pet.church          | resell    | —         | —             | medium         | medium | 3      | Porkbun LLC      |
+| bond.loans          | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
+| fire.car            | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
