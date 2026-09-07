@@ -16,7 +16,7 @@ This selection covers one-word insurance domain names across 506 TLDs, with a me
 
 **Public extract:** 1,000 rows · **Live catalog:** 115,104 domains · **Median ask:** $637.65 · **High-demand under $2,500:** 323
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | medical.observer    | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
-| bond.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| pet.car             | available | $2,070    | $2,400        | medium         | medium | 3      | namecheap        |
 | dental.rent         | resell    | $29.99    | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
 | car.claims          | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap        |
-| bond.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
+| bond.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com         |
 | safety.rent         | resell    | $29.99    | —             | high           | low    | 6      | Go Daddy, LLC    |
-| auto.industries     | premium   | $260      | $260          | medium         | medium | 4      | namecheap        |
-| bond.ltda           | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
+| pet.apartments      | premium   | $83.99    | $82.50        | medium         | medium | 3      | name.com         |
+| bond.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
 | medical.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| auto.llc            | premium   | $1,300    | $1,300        | medium         | medium | 4      | namecheap        |
-| bond.sarl           | available | $6.99     | $6.99         | high           | low    | 4      | namesilo         |
+| pet.cv              | premium   | $2,609.75 | $87.75        | medium         | medium | 3      | namecheap        |
+| bond.ltda           | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
 | vehicle.casa        | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
-| bond.investments    | premium   | $500      | —             | high           | low    | 4      | name.com         |
-| bond.srl            | available | $31.99    | $31.99        | high           | low    | 4      | namesilo         |
+| pet.gripe           | premium   | $82.50    | $82.50        | medium         | medium | 3      | name.com         |
+| bond.sarl           | available | $6.99     | $6.99         | high           | low    | 4      | namesilo         |
 | vehicle.co          | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| bond.loan           | premium   | $6,250    | —             | high           | low    | 4      | name.com         |
-| fire.auto           | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
+| pet.horse           | premium   | $500      | $46.99        | medium         | medium | 3      | name.com         |
+| bond.srl            | available | $31.99    | $31.99        | high           | low    | 4      | namesilo         |
 | business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
-| bond.loans          | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
-| fire.car            | available | $1,999.99 | $2,199        | high           | high   | 4      | namesilo         |
+| auto.industries     | premium   | $260      | $260          | medium         | medium | 4      | namecheap        |
+| fire.ltda           | available | $34.99    | $34.99        | high           | high   | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
