@@ -1,10 +1,10 @@
-# One-Word Insurance Domain Names (118,969)
+# One-Word Insurance Domain Names (13,852)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-118%2C969%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C852%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word insurance domain names across 506 TLDs, with a median ask near $690. Updated daily, it spans carriers, InsurTech, and coverage-related brand names for quick comparison.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **118,969 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,852 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 118,969 domains · **Median ask:** $622.01 · **High-demand under $2,500:** 323
+**Public extract:** 1,000 rows · **Live catalog:** 13,852 domains · **Median ask:** $1,287.25 · **High-demand under $2,500:** 125
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| medical.observer    | premium   | $1,000      | $1,000        | high           | low    | 7      | name.com         |
-| car.ryukyu          | available | $22.98      | —             | high           | medium | 3      | namecheap        |
-| dental.rent         | resell    | $29.99      | $94.99        | high           | low    | 6      | Go Daddy, LLC    |
-| pet.apartments      | premium   | $83.99      | $82.50        | medium         | medium | 3      | name.com         |
-| pet.airforce        | available | $109.98     | $134.98       | medium         | medium | 3      | namecheap        |
-| medical.co          | resell    | $172,500    | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.deal            | premium   | $1,250      | $1,250        | medium         | medium | 3      | name.com         |
-| pet.car             | available | $2,070      | $2,400        | medium         | medium | 3      | namecheap        |
-| vehicle.casa        | resell    | $17.98      | —             | high           | low    | 7      | Sav.com LLC      |
-| pet.fans            | premium   | $325        | $650          | medium         | medium | 3      | namecheap        |
-| pet.democrat        | available | $5.98       | $41.48        | medium         | medium | 3      | namecheap        |
-| vehicle.co          | resell    | $172,500    | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| pet.giving          | premium   | $37.50      | $37.50        | medium         | medium | 3      | name.com         |
-| pet.diet            | available | $108.98     | $159.98       | medium         | medium | 3      | namecheap        |
-| business.apartments | resell    | $72.98      | —             | high           | medium | 8      | Sav.com, LLC     |
-| pet.gripe           | premium   | $82.50      | $82.50        | medium         | medium | 3      | name.com         |
-| pet.legal           | available | $9.99       | $92.99        | medium         | medium | 3      | name.com         |
-| security.co         | resell    | $114,871.20 | $36.40        | high           | medium | 8      | Spaceship, Inc.  |
-| pet.horse           | premium   | $500        | $46.99        | medium         | medium | 3      | name.com         |
-| pet.maison          | available | $24.99      | $83.99        | medium         | medium | 3      | name.com         |
+| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| premium.press     | premium   | $937.50     | —             | high           | low    | 7      | name.com                                     |
+| premium.supplies  | premium   | $78.54      | $78.54        | high           | low    | 7      | namesilo                                     |
+| policy.lawyer     | available | $62.99      | $62.99        | high           | low    | 6      | namesilo                                     |
+| premium.video     | premium   | $1,750      | $3,500        | high           | low    | 7      | namecheap                                    |
+| policy.furniture  | available | $39.99      | —             | high           | low    | 6      | name.com                                     |
+| policy.im         | available | —           | —             | high           | low    | 6      | —                                            |
+| policy.help       | resell    | —           | —             | high           | low    | 6      | Porkbun, LLC                                 |
+| policy.immobilien | available | $14.99      | —             | high           | low    | 6      | name.com                                     |
+| claim.car         | available | $1,999.99   | $2,199        | high           | low    | 5      | namesilo                                     |
+| policy.me         | resell    | $5,750      | $27.99        | high           | low    | 6      | Spaceship, Inc.                              |
+| claim.claims      | premium   | $78.54      | $78.54        | high           | low    | 5      | namesilo                                     |
+| claim.cars        | available | $1,999.99   | $2,199        | high           | low    | 5      | namesilo                                     |
+| policy.xyz        | resell    | $228,721.20 | $20.99        | high           | low    | 6      | Dynadot LLC                                  |
+| claim.insure      | premium   | $78.54      | $78.54        | high           | low    | 5      | namesilo                                     |
+| claim.financial   | available | $29.99      | —             | high           | low    | 5      | name.com                                     |
+| claim.cash        | resell    | —           | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| claim.loan        | premium   | $625        | —             | high           | low    | 5      | name.com                                     |
+| claim.loans       | available | $19.99      | —             | high           | low    | 5      | name.com                                     |
+| policy.asia       | resell    | —           | —             | high           | low    | 6      | DNSPod, Inc.                                 |
+| claim.motorcycles | premium   | $812.50     | —             | high           | low    | 5      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 118,969 live domains                       |
+| 1,000-row public sample | 13,852 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 323 high-demand names under $2,500         |
+| Basic exported fields   | 125 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
