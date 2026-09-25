@@ -1,4 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+76a88894-8601-49c3-897e-158c378c3b0a,insurance.realty,available,109.99,299,high,medium,9,namesilo,,,
+2d86995d-7e60-4ed9-90ef-590b6cfe045b,insurance.shop,premium,12500,,high,medium,9,name.com,,,
 eff8ec74-e6af-49c1-85ab-4a2c77ddf073,insurance.investments,premium,520,520,high,medium,9,namecheap,,,
 89e18bdf-740d-42db-ad07-8e3b2b0fa1c0,insurance.loan,premium,3250,130,high,medium,9,namecheap,,,
 929d743a-d8ec-492c-ad50-d9fb480655fc,insurance.auto,available,1999.99,2199,high,medium,9,namesilo,,,
@@ -21,8 +23,10 @@ c26b71c4-6871-41ae-8388-53e790a5c9d0,insurance.protection,available,1999.99,2049
 24fb9068-4d55-4b37-aa88-6a7d725dc227,insurance.llc,premium,3250,3250,high,medium,9,namecheap,,,
 1ad1af5d-bc11-4193-85aa-e9871550074b,insurance.plus,resell,,,high,medium,9,"Spaceship, Inc.",21/09/2023 15:15,21/09/2026 15:15,
 b0b07ce3-f3a3-49c0-b2fb-32d110fedd73,insurance.republican,available,5.99,,high,medium,9,name.com,,,
-58c41cfe-97ce-4a32-8ebd-d4a87879f0c5,insurance.ltda,premium,66.3,66.3,high,medium,9,namecheap,,,
 1edb4811-2415-4e3a-a3d1-e77974aad792,insurance.cloud,premium,25000,25000,high,medium,9,name.com,,,
+58c41cfe-97ce-4a32-8ebd-d4a87879f0c5,insurance.ltda,premium,66.3,66.3,high,medium,9,namecheap,,,
+3ae86a74-a965-4d83-a4ae-a276c8012af0,insurance.sarl,resell,,,high,medium,9,"GoDaddy.com, LLC",10/10/2025 16:04,10/10/2026 16:04,
+c84bbd01-2e0f-4a8f-bb08-6cace1de29f9,insurance.srl,premium,54.28,30.68,high,medium,9,namesilo,,,
 c8f60479-6752-4212-945e-c80ee7f93cb9,insurance.house,premium,82.5,,high,medium,9,name.com,,,
 16ed66dd-df3b-483f-94da-37d341658581,insurance.casa,premium,2600,13,high,medium,9,namecheap,,,
 f59728eb-8d5e-4a6a-81f4-77355e617e9f,insurance.law,resell,,,high,medium,9,"GoDaddy.com, LLC",14/08/2020 09:04,14/08/2027 09:04,20/09/2026 21:09
@@ -33,9 +37,7 @@ dce8be7a-1bbf-4a95-a3fd-b9fe771c5e87,insurance.vodka,available,32.49,32.49,high,
 58d85516-79cc-406c-a38f-d42cb59563db,insurance.sexy,available,2749.99,2749.99,high,medium,9,namesilo,,,
 e60200c9-596a-4906-84b5-5ee91c75a30a,insurance.industries,resell,,,high,medium,9,"GoDaddy.com, LLC",07/04/2024 21:11,07/04/2027 21:11,
 3efc75d2-979a-426a-bd5d-b4897f9be40d,insurance.enterprises,resell,,,high,medium,9,"Sav.com, LLC - 23",29/03/2026 15:15,29/03/2027 15:15,
-3ae86a74-a965-4d83-a4ae-a276c8012af0,insurance.sarl,resell,,,high,medium,9,"GoDaddy.com, LLC",10/10/2025 16:04,10/10/2026 16:04,
 b86931e3-3167-4e14-b4ce-37e868aa4573,insurance.holdings,premium,78.54,78.54,high,medium,9,namesilo,,,
-c84bbd01-2e0f-4a8f-bb08-6cace1de29f9,insurance.srl,premium,54.28,30.68,high,medium,9,namesilo,,,
 ca5234ea-2649-4f7c-84d5-665db7c67495,insurance.rent,premium,650,650,high,medium,9,namecheap,,,
 e8ec2028-cf93-40d6-9db6-09795a4544d5,insurance.immo,resell,,,high,medium,9,"Sav.com, LLC",31/10/2024 11:45,31/10/2026 11:45,
 c6943d6a-b99a-4e34-ae90-680829dbea4e,insurance.apartments,resell,,,high,medium,9,"Sav.com, LLC",09/02/2022 03:34,09/02/2027 03:34,
@@ -114,6 +116,7 @@ d4030dd4-bd2b-465c-81fa-f37716db3fb3,insurance.soccer,available,19.99,,high,medi
 adbfc862-490f-4138-b72a-3cfe53ea0bff,insurance.cricket,premium,3250,130,high,medium,9,namecheap,,,
 d55cd297-e283-4e68-b753-42c790ec1f91,insurance.fans,premium,130,130,high,medium,9,namecheap,,,
 8170fe70-5493-4e4e-aa8d-dc975fb0aea1,insurance.futbol,available,17.99,17.99,high,medium,9,namesilo,,,
+2743947c-3096-4856-af73-74bffe6672c5,insurance.talk,premium,650,650,high,medium,9,namecheap,,,
 09b48e78-d05e-427e-ba99-87646221fff6,insurance.center,resell,,,high,medium,9,Squarespace Domains II LLC,27/05/2021 13:16,27/05/2027 13:16,
 f76b951b-2236-4088-8a99-9f69ea0a3d31,insurance.gay,premium,780,780,high,medium,9,namecheap,,,
 d7793a0d-e63a-4cc2-befc-5fac4e9eb677,insurance.rehab,premium,1300,1300,high,medium,9,namecheap,,,
@@ -130,9 +133,10 @@ af65602d-af8c-49bd-ac02-99aef73a823f,insurance.date,premium,390,65,high,medium,9
 eb860c25-b41a-49a5-b2a0-808f9b2439a4,insurance.accountant,premium,650,84.5,high,medium,9,namecheap,,,
 e660b939-44a8-4aa7-bb97-941b921c1ae7,insurance.accountants,premium,128.7,128.7,high,medium,9,namecheap,,,
 9933dd29-db2d-4f65-a18e-b0e579649e68,insurance.bid,resell,,,high,medium,9,Dynadot Inc,26/07/2019 14:18,26/07/2027 14:18,20/09/2026 00:16
+85495931-8c4f-4ad0-9ce1-b274439a822c,insurance.wtf,resell,,,high,medium,9,"Spaceship, Inc.",14/04/2018 19:32,14/04/2027 19:32,
 8f27600f-0468-4f9d-90b7-6d8fd9dfde14,insurance.sucks,premium,13650,13650,high,medium,9,namecheap,,,
 3e793767-ea43-4c37-8c58-088e874f1da0,insurance.auction,premium,1300,1300,high,medium,9,namecheap,,,
-2743947c-3096-4856-af73-74bffe6672c5,insurance.talk,premium,650,650,high,medium,9,namecheap,,,
+582de0d6-943a-44da-851d-c3d0964f16f5,insurance.pics,resell,,,high,medium,9,Dynadot LLC,06/12/2025 20:28,06/12/2026 23:59,
 2e2b92ba-c635-47e6-9608-287f32c194e6,insurance.review,premium,6500,130,high,medium,9,namecheap,,,
 5f9d439e-8f85-401f-b636-6edbdec02bbc,insurance.rest,premium,1462.5,2925,high,medium,9,namecheap,,,
 d5f6c0d5-2412-4783-bd73-85a5ea82bcef,insurance.camera,available,21.99,,high,medium,9,name.com,,,
@@ -142,7 +146,6 @@ beaead44-e609-442f-89a7-6ac2ec104657,insurance.fun,premium,1625,6500,high,medium
 fc9411a7-3bd7-426d-a615-bb1eb03c7d77,insurance.kaufen,available,5.99,26.99,high,medium,9,namesilo,,,
 aef34377-e5b1-48be-a8a3-3a968558e52e,insurance.yachts,premium,845,15.73,high,medium,9,namecheap,,,
 1fa3d507-d7fe-4114-b069-0dfead9162a9,insurance.hamburg,available,59.99,,high,medium,9,name.com,,,
-85495931-8c4f-4ad0-9ce1-b274439a822c,insurance.wtf,resell,,,high,medium,9,"Spaceship, Inc.",14/04/2018 19:32,14/04/2027 19:32,
 5cdd2c49-c60c-4864-aa29-a798c2a36332,insurance.gifts,premium,42.9,42.9,high,medium,9,namecheap,,,
 3b4a194b-e37f-42e1-b637-5af1ca971180,insurance.zip,premium,1298.7,1298.7,high,medium,9,namecheap,,,
 84cf90f3-d9d0-4ad6-9312-c2b1eae1b5f3,insurance.page,premium,1298.7,1298.7,high,medium,9,namecheap,,,
@@ -222,7 +225,6 @@ da7906cd-6e88-4006-a50f-c37bb19b835c,insurance.moda,available,19.99,,high,medium
 a83beb32-e67e-46e9-b777-529a4e496b38,insurance.cyou,premium,143.65,574.6,high,medium,9,namecheap,,,
 1fc3baef-a30d-4ca1-a87b-305814c05e98,insurance.cv,premium,1301.53,9.75,high,medium,9,namecheap,,,
 d6057022-89e9-44f6-921e-2f12ee538fe4,insurance.melbourne,premium,8633.82,8633.82,high,medium,9,namecheap,,,
-582de0d6-943a-44da-851d-c3d0964f16f5,insurance.pics,resell,,,high,medium,9,Dynadot LLC,06/12/2025 20:28,06/12/2026 23:59,
 bfcb6910-8291-4a23-99d4-1ec80e11d28a,insurance.shiksha,premium,2600,2600,high,medium,9,namecheap,,,
 bb899dd2-053f-449a-a8b9-9c08fea2706c,insurance.works,premium,520,520,high,medium,9,namecheap,,,
 21d1f9c9-5e08-4890-b6ac-f75a0d516a49,insurance.pw,premium,6500,6500,high,medium,9,namecheap,,,
@@ -285,112 +287,615 @@ f4c213bc-be41-4e37-9f3b-88ce6d1037e1,insurance.osaka,available,,,high,low,9,,,,
 978fa059-43c8-4c1e-9217-7ec0f7a7e820,insurance.menu,available,,,high,low,9,,,,
 91ea6e61-10c4-4351-93a9-f90b0cff5141,insurance.hiphop,available,,,high,low,9,,,,
 0e4a6bcf-607f-4755-8ff1-9cdf019f8944,insurance.fail,premium,85.8,85.8,high,low,9,namecheap,,,
+862455ab-b444-4ede-8143-90dcca1ec681,insurance.music,available,,,high,low,9,,,,
 e5a0bafd-a996-4087-9b74-dfce52407f93,insurance.guide,available,,,high,low,9,,,,
 17059203-18b6-4813-b032-30c909be4fee,insurance.uno,available,,,high,low,9,,,,
 0332ecf5-f992-4c64-bcbb-061d485824a6,insurance.click,resell,,,high,low,9,Gandi SAS,05/07/2020 11:16,05/07/2032 11:16,
 41058657-b11a-48a4-a9b2-d134290983e8,insurance.reviews,available,,,high,low,9,,,,
 f2684181-3d1b-4d82-8961-5e0b7db0bbad,insurance.garden,available,,,high,low,9,,,,
-862455ab-b444-4ede-8143-90dcca1ec681,insurance.music,available,,,high,low,9,,,,
 1548a50f-802a-4111-889d-0a3536e2900e,insurance.im,available,,,high,low,9,,,,
-76a88894-8601-49c3-897e-158c378c3b0a,insurance.realty,available,109.99,299,high,medium,9,namesilo,,,
-2d86995d-7e60-4ed9-90ef-590b6cfe045b,insurance.shop,premium,12500,,high,medium,9,name.com,,,
+6eeecde2-b56b-4121-ac04-765b07f4a699,coverage.cfd,available,1.49,,high,low,8,name.com,,,
+4efea681-114f-4dd5-b541-2cadca2eb4ee,insured.loans,available,17.48,144.98,high,low,7,namecheap,,,22/08/2026 07:42
+9077a19c-fe22-42dc-9e9d-fb6f9c023f5c,insured.rent,available,5,81.98,high,low,7,namecheap,,,22/08/2026 07:42
+95af34da-d07d-47e0-9e84-c255dcb08c55,insured.date,premium,375,62.5,high,low,7,name.com,,,22/08/2026 07:42
+a8215194-fb6d-4935-a8d8-9c76d04defcb,insured.ngo,available,16.99,16.99,high,low,7,name.com,,,22/08/2026 07:42
+847a4646-91e4-4a79-af91-4f5fd8bdc2a5,insured.rodeo,available,12.99,12.99,high,low,7,namesilo,,,22/08/2026 07:42
+7e39ed83-5a01-40af-be3d-80d54d5a1e15,insured.exchange,available,5.98,49.98,high,low,7,namecheap,,,22/08/2026 07:42
+c1942cf5-ba83-45a6-ad6b-938760ecf8ff,insured.charity,available,5.99,40.99,high,low,7,name.com,,,22/08/2026 07:42
+de638121-016f-4fb2-904c-dd220f694ce7,insured.meme,premium,62.5,62.5,high,low,7,name.com,,,22/08/2026 07:42
+03b050e9-5729-46c3-863b-1dc0006e6da1,insured.lighting,available,14.99,33.99,high,low,7,name.com,,,22/08/2026 07:42
+9f613251-1bc3-4ad9-aa94-53215c11d1ad,insured.living,available,1.8,48.98,high,low,7,namecheap,,,22/08/2026 07:42
+cd2f1cf5-05e4-46cd-b20a-180a645a76bb,insured.boats,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 07:42
+058a76ff-311a-4f31-9c95-ec10ac6c19d4,insured.vip,premium,1107,17.7,high,low,7,namesilo,,,22/08/2026 07:42
+e799e197-fd92-4ba6-828f-b6ee54756c35,insured.financial,available,17.48,66.98,high,low,7,namecheap,,,22/08/2026 07:42
+8d909999-0500-4aa6-b088-eedebfd0ce5a,insured.vote,available,23.98,119.98,high,low,7,namecheap,,,22/08/2026 07:42
+c6fd446f-07f0-4aa0-8332-d09edebac061,insured.menu,available,27.99,27.99,high,low,7,namesilo,,,22/08/2026 07:42
+6d743f4c-f496-4322-b18a-b14d1ed5146b,insured.promo,available,11.98,33.48,high,low,7,namecheap,,,22/08/2026 07:42
+60258f5a-721e-4487-b70a-d0470e872476,insured.tips,available,12.98,42.48,high,low,7,namecheap,,,22/08/2026 07:42
+c2748f9e-fe93-4b36-a84c-d345828f7dbe,insured.style,available,7.98,49.98,high,low,7,namecheap,,,22/08/2026 07:42
+91ed1b16-0dae-42d5-8af6-8f99847943cc,insured.academy,available,8.48,59.98,high,low,7,namecheap,,,22/08/2026 07:42
+d1ea0b5b-4f6a-43ba-90ea-4eb15eb33166,insured.bz,available,21.98,26.98,high,low,7,namecheap,,,22/08/2026 07:42
+ad95822b-203e-4d46-ad0b-9aa2612b564a,insured.cleaning,available,75.49,75.49,high,low,7,namesilo,,,22/08/2026 07:42
+8d33d7e2-47aa-4026-811a-88f38ae83a51,insured.diamonds,available,54.99,54.99,high,low,7,namesilo,,,22/08/2026 07:42
+e85eb589-f367-4810-a7cf-e139378eeebd,insured.link,premium,437.5,437.5,high,low,7,name.com,,,22/08/2026 07:42
 5b1966e4-c41b-499f-b282-1d5126081d45,coverage.insure,available,,,high,low,8,,,,
-53516a3b-a661-47ae-968c-c3cd8bf1f9b1,policy.shop,premium,1250,,high,low,6,name.com,,,
+0128faee-4ea1-4daf-b3c1-acf9c837954d,insured.coach,available,11.98,95.98,high,low,7,namecheap,,,22/08/2026 07:42
+10c4d615-e637-4262-89b0-f90be6295958,insured.solar,available,9.99,83.99,high,low,7,name.com,,,22/08/2026 07:42
+1e8d5870-3f93-4c10-a205-9dc5306f776c,insured.lawyer,available,62.99,62.99,high,low,7,namesilo,,,22/08/2026 07:42
+0c58f8ef-d9e9-4d49-9255-ab41381cf703,pet.hair,premium,812.5,812.5,high,medium,3,name.com,,,09/08/2026 17:52
+92554d8c-3a7e-4af9-ad13-c90eb5c7ea56,insured.systems,available,11.98,47.48,high,low,7,namecheap,,,22/08/2026 07:42
+c797d64f-f795-4048-b6eb-6b36f0eb834e,insured.guru,available,2.98,54.98,high,low,7,namecheap,,,22/08/2026 07:42
+bf607004-dda7-4bca-857e-3e29199a874f,insured.cooking,available,32.49,32.49,high,low,7,namesilo,,,22/08/2026 07:42
+beb9f2ab-205a-4a22-bb2b-b10c464390e8,pet.download,premium,625,81.25,high,medium,3,name.com,,,09/08/2026 17:52
+6fc4d144-2ed1-4d38-9b94-88ba8e5c180e,insured.barcelona,available,38.98,38.98,high,low,7,namecheap,,,22/08/2026 07:42
+3f2278f4-5e7d-4565-a633-9574763023db,insured.immo,available,14.99,45.99,high,low,7,name.com,,,22/08/2026 07:42
+b08940a6-ee92-42e4-99f1-d65f7de4cfd3,insured.surf,available,1.98,43.98,high,low,7,namecheap,,,22/08/2026 07:42
+bf3f0d0d-e4d7-4e9a-aa9b-b5f2ea883aed,insured.land,available,5.98,54.98,high,low,7,namecheap,,,22/08/2026 07:42
+ea2a084d-a262-4e26-adfc-4c425a17506d,insured.ski,available,39.99,86.99,high,low,7,name.com,,,22/08/2026 07:42
+9fae024f-76da-41b1-a554-7883a13a8c24,insured.kim,available,5.98,32.98,high,low,7,namecheap,,,22/08/2026 07:42
+4772e3b4-3676-4464-9dd4-8365f4c1aba1,pet.pics,resell,,,high,medium,3,1API GmbH,15/04/2014 16:00,15/04/2027 23:59,09/08/2026 17:52
+f2a90395-41b3-4cda-b340-534c34d86cb3,pet.buzz,premium,250,125,high,medium,3,name.com,,,09/08/2026 17:52
+8a8d2fa3-adac-455a-8e67-476f1dac4f7a,pet.clothing,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",30/04/2026 15:15,30/04/2027 15:15,09/08/2026 17:52
+c51d47cc-8af8-4a26-a970-b9eb7b66ac43,deductible.dealer,premium,2015,2600,high,low,10,namecheap,,,13/08/2026 22:27
+45adc0f8-8b4a-40ad-a58d-8cd0f107802e,insured.irish,available,5.98,31.98,high,low,7,namecheap,,,22/08/2026 07:42
+f52b834a-80bb-444a-8f4b-9263f544f98a,deductible.money,available,11.98,38.98,high,low,10,namecheap,,,13/08/2026 22:27
+b8cd7228-172b-4e26-a88f-036cf159ca02,insured.juegos,available,368.98,478.98,high,low,7,namecheap,,,22/08/2026 07:42
+ddee1387-f828-4b4c-980a-0643b774a443,insured.hot,premium,116,116,high,low,7,namesilo,,,22/08/2026 07:42
+6ee98142-4786-45c7-b145-016c10f639f5,pet.credit,premium,500,500,high,medium,3,name.com,,,09/08/2026 17:52
+caae3abe-4eed-46d1-b50a-b20e0882dd81,insured.training,available,8.98,53.98,high,low,7,namecheap,,,22/08/2026 07:42
+ce838cdc-0acf-49f0-a1d9-788d1b23c1e2,pet.channel,premium,623.75,623.75,high,medium,3,name.com,,,09/08/2026 17:52
+da30be6d-5348-47d8-93bd-84032ae8b220,insured.democrat,available,5.98,41.48,high,low,7,namecheap,,,22/08/2026 07:42
+e7e3bcf3-2f82-47ce-bd08-5a5b4ca2ddf2,insured.shoes,available,34.98,81.98,high,low,7,namecheap,,,22/08/2026 07:42
+6076d29c-0dfc-4f83-aa7b-dd9da50447d0,pet.lighting,premium,26,26,high,medium,3,namecheap,,,09/08/2026 17:52
+14f2aa37-8331-44dc-96ba-f855faa1cf6c,pet.quest,premium,812.5,20.99,high,medium,3,name.com,,,09/08/2026 17:52
+b580a906-ab1c-4362-a5e8-b4e50d841904,pet.tips,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+adeca8e9-f9d1-46b5-acb9-de1f6eb5bde0,claim.ong,available,18.98,24.98,high,low,5,namecheap,,,25/09/2026 09:04
+beba864d-3088-4f03-9294-b3385b4c8e6e,insured.vision,available,9.99,50.99,high,low,7,name.com,,,22/08/2026 07:42
+e75fcbaf-416a-4a05-93c7-28859d92f672,pet.football,available,19.99,37.99,high,medium,3,name.com,,,09/08/2026 17:52
+4c2935ed-9ae0-4746-8da1-3721160b2bb7,pet.wedding,premium,500,46.99,high,medium,3,name.com,,,09/08/2026 17:52
+7f4f704d-58bf-4678-ae3b-fc86e1f0f9cc,pet.fish,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+6f4a5f00-1a88-4d79-8984-7e4997831584,pet.gold,resell,,,high,medium,3,"DNSPod, Inc.",02/05/2020 08:10,02/05/2027 08:10,09/08/2026 17:52
+2a7159d4-75d4-412a-838c-87654eb03d0b,insured.esq,premium,61.25,61.25,high,low,7,name.com,,,22/08/2026 07:42
+df0026c1-9e6c-452d-bd33-5b12299dfbba,risk.vc,resell,,,high,low,4,"NameCheap, Inc.",26/11/2023 01:13,26/11/2026 01:13,08/09/2026 12:49
+fcbd7886-5b14-403b-a961-6c55e52c5c92,insured.navy,available,41.99,41.99,high,low,7,namesilo,,,22/08/2026 07:42
+8d8d3651-e481-46f5-ab11-7488353ee0e4,pet.moda,premium,123.75,123.75,high,medium,3,name.com,,,09/08/2026 17:52
+794a15e8-9284-4d54-b5fa-76daddccfcbb,pet.bayern,premium,57.54,50.99,high,medium,3,name.com,,,09/08/2026 17:52
+98caafdf-f376-400d-bade-48bde656cf05,insured.photo,available,29.99,29.99,high,low,7,namesilo,,,22/08/2026 07:42
+528f4196-fa97-44cb-9c7c-1aa19df3a328,pet.club,resell,,,high,medium,3,"GoDaddy.com, LLC",19/12/2014 07:38,18/12/2026 23:59,09/08/2026 17:52
+169ff1f3-cb95-4fd4-8d07-8f7d512a18a7,pet.host,premium,3125,6250,high,medium,3,name.com,,,09/08/2026 17:52
+a8a053d6-9f76-4216-af50-38e7dee6096a,insured.holiday,available,9.99,83.99,high,low,7,name.com,,,22/08/2026 07:42
+1cff767c-9093-4772-949b-c681c8ba64a5,insured.capital,available,8.98,89.98,high,low,7,namecheap,,,22/08/2026 07:42
+8acf662c-23d5-4a6d-8596-8bb9ebbdb02f,pet.diy,premium,875,1250,high,medium,3,name.com,,,09/08/2026 17:52
+315de7b0-2836-44f5-b0c0-2461abc8c7e3,pet.how,premium,686.25,686.25,high,medium,3,name.com,,,09/08/2026 17:52
+e6e85c41-b6de-4d16-8e84-2b6ad1fb0ab4,retirement.gg,available,82.98,,high,low,10,namecheap,,,
+84631df7-5cc6-410c-983f-04ae012aa3a1,claim.energy,resell,,,high,low,5,"Sav.com, LLC - 30",23/05/2026 15:15,23/05/2027 15:15,24/09/2026 07:46
+9db98348-8ec7-4a65-bcf4-6b9ab22f8740,superior.hockey,available,14.99,77.99,high,low,8,name.com,,,21/08/2026 09:12
+345c1ea3-bfe8-4a2b-9eac-5001afb5c80c,premium.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 08:11
+51220dec-cca3-49bc-8dd8-1bddd8adfbdd,insured.giving,available,5.99,40.99,high,low,7,name.com,,,22/08/2026 07:42
+527633fc-941f-427f-adad-fcbabe7c5f9e,pet.works,premium,500,500,high,medium,3,name.com,,,09/08/2026 17:52
+0a181d0f-1d8a-4566-831c-8ebd4559e960,insured.company,premium,15.34,15.34,high,low,7,namesilo,,,22/08/2026 07:42
+8b6e814b-7c3c-468a-a4e8-f29f96551a4a,pet.london,premium,674.58,59.99,high,medium,3,name.com,,,09/08/2026 17:52
+e1a98069-cb32-4484-be56-a9a799613d03,pet.bargains,premium,123.75,123.75,high,medium,3,name.com,,,09/08/2026 17:52
+828c39af-758c-43b7-97ab-3e4e91e37ebc,pet.voting,available,1398,1448,high,medium,3,namecheap,,,09/08/2026 17:52
+4f065fc0-9753-456c-bb60-d63db68084d5,insured.software,available,11.98,56.98,high,low,7,namecheap,,,22/08/2026 07:42
+6431cdb0-688c-4b02-b776-851747b07498,insured.lifestyle,available,1.8,48.98,high,low,7,namecheap,,,22/08/2026 07:42
+006da609-90e9-43f5-8b98-bf2b2522dda3,insured.soccer,available,19.99,37.99,high,low,7,name.com,,,22/08/2026 07:42
+618af0d6-3e38-4f05-931b-cd41691d38ca,pet.restaurant,premium,123.75,123.75,high,medium,3,name.com,,,09/08/2026 17:52
+68b2c58f-14d5-44f0-8b8b-44ee25becf89,insured.broker,available,11.98,47.98,high,low,7,namecheap,,,22/08/2026 07:42
+283d56b0-8f73-45d0-9281-0d7db372ba7e,insured.free,premium,116,116,high,low,7,namesilo,,,22/08/2026 07:42
+f8e55aae-2460-42a1-a6a7-b36213f2a01e,pet.surgery,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+e164bf58-f2cf-410d-b72a-b60c878030d3,insured.cam,available,2.98,22.98,high,low,7,namecheap,,,22/08/2026 07:42
+805b0adb-417a-434b-8286-4c7042c71d3b,insured.supply,available,25.99,25.99,high,low,7,namesilo,,,22/08/2026 07:42
+621c4b8f-dda7-44b2-a2d8-42cf51bf899f,insured.vacations,available,9.99,50.99,high,low,7,name.com,,,22/08/2026 07:42
+7ac57b22-1bda-4f4e-a6ef-ebdc4d956356,superior.rich,available,94.99,1999,high,low,8,namesilo,,,21/08/2026 09:12
+2029868e-fdaa-4d13-84c4-942d97c24ff4,superior.date,premium,375,62.5,high,low,8,name.com,,,21/08/2026 09:12
+517abd7d-d35a-4d02-9476-1a40d65d2f43,pet.free,premium,3125,3125,high,medium,3,name.com,,,09/08/2026 17:52
+5965d230-4c15-401c-8261-ec841109e6d5,superior.osaka,available,32.98,41.98,high,low,8,namecheap,,,21/08/2026 09:12
+bf906b9a-fc53-4faf-ae9f-084e2a24e90b,pet.poker,available,5.98,85.98,high,medium,3,namecheap,,,09/08/2026 17:52
+fe1ec482-401a-426e-8a68-89173b99d7a5,auto.city,resell,,,high,medium,4,"Spaceship, Inc.",02/06/2026 16:23,02/06/2027 16:23,24/09/2026 06:55
+12240094-c731-4ec9-9fb5-d7ad81d0bd88,deductible.horse,available,32.49,32.49,high,low,10,namesilo,,,13/08/2026 22:27
+806cad4a-ea2f-4221-b9ca-ef4aa420c506,insured.engineer,available,17.99,56.99,high,low,7,name.com,,,22/08/2026 07:42
+f6d86f6a-5492-4fb5-98f4-b27a83cc0ac8,superior.giving,available,5.99,40.99,high,low,8,name.com,,,21/08/2026 09:12
+26f61f60-b2e5-4743-81e6-0c7cc29ba627,superior.protection,available,1999.99,2049.99,high,low,8,namesilo,,,21/08/2026 09:12
+fef7d67c-bb0a-445e-9013-c3a7da1c3632,superior.limited,available,14.99,52.99,high,low,8,name.com,,,21/08/2026 09:12
+73ef3cd9-52ee-48b2-bef2-fc0712cb650a,pet.srl,available,49.99,49.99,high,medium,3,name.com,,,09/08/2026 17:52
+fa71ab75-3957-4aa9-ae98-ab13313e0981,property.ryukyu,available,22.98,,high,low,8,namecheap,,,
+0be7cfcd-1803-4d47-90ae-79c993f2d50b,superior.coffee,premium,78.54,78.54,high,low,8,namesilo,,,21/08/2026 09:12
+9083fee8-c545-460f-a0b3-7b9adc2f2b80,superior.holdings,available,64.99,64.99,high,low,8,namesilo,,,21/08/2026 09:12
+81bb1d3f-9995-4353-9065-742b46cf72ab,deductible.surgery,available,54.99,54.99,high,low,10,namesilo,,,13/08/2026 22:27
+688f8fb2-7774-4011-a912-e33e1b8a97e9,insured.glass,available,72.99,72.99,high,low,7,namesilo,,,22/08/2026 07:42
+e4e0c8be-410c-4b7b-a0f3-5f08e85ffdcd,pet.builders,premium,82.5,82.5,high,medium,3,name.com,,,09/08/2026 17:52
+89ad6774-50e2-43f1-ac23-58df2063ba91,superior.tours,available,5.98,81.98,high,low,8,namecheap,,,21/08/2026 09:12
+a8c7e97d-0952-4297-bed2-689f8b6d5621,superior.motorcycles,available,1.8,19.98,high,low,8,namecheap,,,21/08/2026 09:12
+6903eddf-aae5-4e26-a05d-a90cd610845e,pet.energy,resell,,,high,medium,3,Dynadot Inc,14/06/2026 17:00,14/06/2027 17:00,09/08/2026 17:52
+09d9e2b0-0f4c-4eb7-bc2f-2bc924d588ce,superior.republican,available,5.98,43.98,high,low,8,namecheap,,,21/08/2026 09:12
+a7c9d701-9285-4f28-87f0-27838bb531e8,insured.credit,available,9.48,131.98,high,low,7,namecheap,,,22/08/2026 07:42
+91ddf870-387a-47fe-9411-166c83547a49,deductible.rsvp,available,12.98,16.98,high,low,10,namecheap,,,13/08/2026 22:27
+a82432d2-96f4-4792-ad0c-853a8c56834c,pet.green,premium,1875,1875,high,medium,3,name.com,,,09/08/2026 17:52
+c9cf5b72-3140-44ad-b95c-6248294e16f6,pet.rsvp,premium,623.75,623.75,high,medium,3,name.com,,,09/08/2026 17:52
+5d173c43-f829-40d6-a731-41f224e107c5,superior.lease,available,14.99,71.99,high,low,8,name.com,,,21/08/2026 09:12
+9de991a7-a409-4a7f-a351-baf4c4337ab5,superior.voyage,available,9.99,83.99,high,low,8,name.com,,,21/08/2026 09:12
+9c6b74cd-4510-41bb-954c-920013e8b645,superior.hamburg,available,59.99,59.99,high,low,8,name.com,,,21/08/2026 09:12
+4526e0fe-9408-4597-92a7-f03085f8fa68,insured.prof,premium,61.25,61.25,high,low,7,name.com,,,22/08/2026 07:42
+2086d32a-d679-4eae-8198-301e57a5667c,insured.pics,available,1.8,40.98,high,low,7,namecheap,,,22/08/2026 07:42
+c22e3942-b0cc-4486-b057-4fcd3321bcad,insured.ooo,premium,1250000,311.25,high,low,7,name.com,,,22/08/2026 07:42
+76b8da40-79c0-4cc3-bca5-2303d091628f,property.finance,resell,,,high,low,8,Porkbun LLC,18/11/2016 06:49,18/11/2026 06:49,
+ac6ace2f-ba02-4220-8b29-0df8878c9ec5,insured.name,available,8.98,9.98,high,low,7,namecheap,,,22/08/2026 07:42
+33e39d45-0384-459e-b938-f36853300eea,deductible.news,available,8.98,41.48,high,low,10,namecheap,,,13/08/2026 22:27
+2b3bc1b1-3c3c-405f-9eb7-b90c8654bf30,deductible.review,available,11.99,11.99,high,low,10,namesilo,,,13/08/2026 22:27
+88ffde51-a53b-4d8c-9c9c-347f514d1b49,deductible.date,available,5.25,6.25,high,low,10,namesilo,,,13/08/2026 22:27
+2d8d2e04-70b3-40d7-a7fb-0445d89d4ea8,deductible.consulting,available,8.48,67.98,high,low,10,namecheap,,,13/08/2026 22:27
+b0e139bb-6320-4156-bcb3-8d79a387fb31,deductible.ong,available,16.99,16.99,high,low,10,name.com,,,13/08/2026 22:27
+9777ce88-7ddf-4900-80e7-2558227f01b0,superior.boutique,available,2.98,41.98,high,low,8,namecheap,,,21/08/2026 09:12
+c7d934d8-0580-4e1f-ae05-7a5d2a96abc9,deductible.sydney,available,44.98,54.98,high,low,10,namecheap,,,13/08/2026 22:27
+a6a07f0e-6ad5-4aee-a160-4b9a23f3e2b0,insured.graphics,available,22.98,31.98,high,low,7,namecheap,,,22/08/2026 07:42
+93207122-66e9-47f1-88c6-52e7a5c31e62,deductible.christmas,available,1.8,49.98,high,low,10,namecheap,,,13/08/2026 22:27
+251afbe8-3032-4612-84f4-ce7b76b70d30,life.foundation,resell,,,high,medium,4,"Sav.com, LLC",25/04/2026 00:28,25/04/2027 00:28,18/09/2026 21:26
+a06e2f35-8b71-4211-9a4b-3796b9118cbc,pet.guitars,available,108.98,159.98,high,medium,3,namecheap,,,09/08/2026 17:52
+43676160-c334-41ed-8ef0-274cb82f499e,superior.boo,premium,161.25,161.25,high,low,8,name.com,,,21/08/2026 09:12
+20717389-db68-4459-8c24-b2c05d47027c,insured.college,available,5,81.98,high,low,7,namecheap,,,22/08/2026 07:42
+b8c90480-0892-4b7e-b926-a8608e78ce6f,deductible.maison,available,24.99,83.99,high,low,10,name.com,,,13/08/2026 22:27
+681dc50a-22fd-4532-a2d8-6aa49edb1adb,insured.lat,available,1.8,40.98,high,low,7,namecheap,,,22/08/2026 07:42
+3971b1ac-85e7-43de-8d55-95da25164e2c,superior.sarl,available,6.98,8.98,high,low,8,namecheap,,,21/08/2026 09:12
+f2717bc4-0a6b-453f-a040-45a593dca41f,pet.gallery,premium,41.99,41.25,high,medium,3,name.com,,,09/08/2026 17:52
+70c12ac2-a38a-41cf-91ec-9e4b17a9d7d7,deductible.studio,available,14.98,52.98,high,low,10,namecheap,,,13/08/2026 22:27
+4c02386c-2e21-4e1a-bbfb-34794f56e3dd,superior.plumbing,premium,78.54,78.54,high,low,8,namesilo,,,21/08/2026 09:12
+764343c2-1a99-4a0e-829b-409b45b46b1e,deductible.kiwi,available,31.98,35.68,high,low,10,namecheap,,,13/08/2026 22:27
+1bf265e4-9a22-4d3f-9b93-cc694291ee17,superior.discount,available,7.99,43.99,high,low,8,name.com,,,21/08/2026 09:12
+e75d54d4-c06d-40ed-b0c1-7b840fd2a6b4,insured.market,available,44.49,44.49,high,low,7,namesilo,,,22/08/2026 07:42
+3f1298c7-3ffc-49e5-8b39-ce99ed7e4196,insured.cat,available,26.98,38.98,high,low,7,namecheap,,,22/08/2026 07:42
+a3e3ca2d-a71f-4907-a82e-2a06c162ad29,superior.network,resell,,,high,low,8,"Spaceship, Inc.",11/02/2020 09:45,11/02/2027 09:45,21/08/2026 09:12
+643b20dd-171b-4fab-8e89-2e59da91fe24,insured.consulting,available,8.48,67.98,high,low,7,namecheap,,,22/08/2026 07:42
+698ef55b-05df-4c91-bb66-c9021189c088,car.recipes,available,8.99,77.99,high,medium,3,namesilo,,,25/09/2026 09:02
+d6f5cb4e-6079-4d66-bc86-0bfb1b150714,superior.desi,available,19.98,22.98,high,low,8,namecheap,,,21/08/2026 09:12
+cab01065-ea46-41f7-abf1-bb46ae82d187,superior.gratis,available,23.99,23.99,high,low,8,namesilo,,,21/08/2026 09:12
+90d64c38-c187-4762-9a1b-15b8685f9d69,insured.dentist,premium,242,242,high,low,7,namesilo,,,22/08/2026 07:42
+1baeed90-bb60-4c51-b53e-7fc8f9565693,deductible.design,available,12.98,68.98,high,low,10,namecheap,,,13/08/2026 22:27
+c0b100a3-b4cc-443e-8674-b6455f606dad,insured.info,resell,,,high,low,7,"GoDaddy.com, LLC",30/11/2015 10:08,30/11/2026 10:08,22/08/2026 07:42
+211b6139-06ba-4edf-85d7-e40f347192c6,pet.run,resell,,,high,medium,3,"Chengdu West Dimension Digital Technology Co., Ltd.",19/02/2024 01:36,19/02/2027 01:36,09/08/2026 17:52
+8905d6d1-94f5-4c7c-b691-8d27c91d4194,insured.bayern,available,34.99,34.99,high,low,7,namesilo,,,22/08/2026 07:42
+9826997f-ec75-4569-b16e-dc2db696a0dc,superior.hospital,available,55.98,71.98,high,low,8,namecheap,,,21/08/2026 09:12
+13d63480-8a51-4069-81ad-236d77ecf35f,insured.day,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 07:42
+8fc70a3d-92b1-4afb-8574-1286ffb42edf,deductible.you,available,22.99,22.99,high,low,10,namesilo,,,13/08/2026 22:27
+ada55cb3-89ce-4580-9a7a-53baf0d75d60,insured.talk,premium,71.4,71.4,high,low,7,namesilo,,,22/08/2026 07:42
+123f9305-7e0e-4f9d-94d8-1f383c83203f,deductible.yachts,available,1.8,19.98,high,low,10,namecheap,,,13/08/2026 22:27
+49300a98-546f-4bdd-86d7-51edc5f0ea1c,superior.bz,available,21.98,26.98,high,low,8,namecheap,,,21/08/2026 09:12
+0dc0592d-3e9c-44ac-92fb-085f945a11f2,deductible.coupons,available,2.98,59.98,high,low,10,namecheap,,,13/08/2026 22:27
+e0052b27-ae27-4820-b116-a3c72422482c,insured.immobilien,available,14.99,48.99,high,low,7,name.com,,,22/08/2026 07:42
+569ec491-7045-434f-8548-5d12729f9269,superior.lgbt,available,11.98,93.98,high,low,8,namecheap,,,21/08/2026 09:12
+c6aa6c90-7a12-441c-8c71-2c1a256889cd,superior.express,available,9.98,49.98,high,low,8,namecheap,,,21/08/2026 09:12
+3fa555bf-a834-4ece-b912-5eb0fe2f4495,insured.quest,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 07:42
+96442eed-e90e-4f2e-b1c4-db6fabbdfed8,insured.degree,available,14.99,64.99,high,low,7,name.com,,,22/08/2026 07:42
+aba1761f-90cd-4fe7-999f-dcaabdaea489,pet.film,premium,625,625,high,medium,3,name.com,,,09/08/2026 17:52
+8532b514-b1bc-49e3-abf2-53e8837e951c,superior.luxury,available,49.99,49.99,high,low,8,name.com,,,21/08/2026 09:12
+6d9ba275-66eb-46c4-b78d-789d375c6831,deductible.tours,available,5.98,81.98,high,low,10,namecheap,,,13/08/2026 22:27
+082c4e02-fbd2-416d-a798-7a6fa7fa6f2d,deductible.guru,available,2.98,54.98,high,low,10,namecheap,,,13/08/2026 22:27
+683b9095-831d-4783-aad2-a9845233cba1,deductible.homes,available,1.8,19.98,high,low,10,namecheap,,,13/08/2026 22:27
+ebf2e40f-9e8f-448f-9e29-2970ee539f08,superior.fit,resell,,,high,low,8,"GoDaddy.com, LLC",17/08/2020 09:35,17/08/2027 09:35,21/08/2026 09:12
+0a951ab4-b8bc-4d11-87b8-538e5cfa3393,insured.deals,available,5.99,50.99,high,low,7,name.com,,,22/08/2026 07:42
+37cc9067-d2db-40fa-af3c-e9749a622603,deductible.film,available,65.99,65.99,high,low,10,namesilo,,,13/08/2026 22:27
+36bdf8bc-7103-4ea3-ac69-cf43e1fddb4b,insured.de,resell,,,high,low,7,,,,22/08/2026 07:42
+d017bf58-0771-4ba6-83d0-0b9946538b43,superior.wedding,available,32.49,32.49,high,low,8,namesilo,,,21/08/2026 09:12
+2685fa6a-c4d7-4a83-97c0-7134447674e5,insured.industries,available,17.49,65.99,high,low,7,name.com,,,22/08/2026 07:42
+462abf2e-7810-4735-a159-224b9615bffc,deductible.diy,available,4.98,51.98,high,low,10,namecheap,,,13/08/2026 22:27
+d57b4564-d9c3-42c7-98e6-4911a2f8e801,deductible.press,available,4.99,86.99,high,low,10,namesilo,,,13/08/2026 22:27
+f055ac29-9300-4bf2-949b-1e7537e7f6fb,deductible.vodka,available,32.49,32.49,high,low,10,namesilo,,,13/08/2026 22:27
+1dad69f5-e138-4010-b0f5-cbb695d69498,insured.boo,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 07:42
+ab3ca057-d770-48a0-80eb-b0737cf09649,pet.soccer,available,19.99,37.99,high,medium,3,name.com,,,09/08/2026 17:52
+f0adaf0a-2c13-4675-a5bd-b9e6b054ad43,pet.properties,premium,1000,1000,high,medium,3,name.com,,,09/08/2026 17:52
+2599f445-8824-47b7-943a-e3541f182f10,deductible.fyi,available,6.98,9.68,high,low,10,namecheap,,,13/08/2026 22:27
+5ef04d2a-c6fb-4511-890c-6150d580aec8,pet.republican,available,5.98,43.98,high,medium,3,namecheap,,,09/08/2026 17:52
+9775edab-9f46-433c-a278-58af7796f416,superior.futbol,available,5.98,21.98,high,low,8,namecheap,,,21/08/2026 09:12
+ffcbc4aa-f107-4a8f-87a0-dd3c99ce1183,deductible.protection,available,1999.99,2049.99,high,low,10,namesilo,,,13/08/2026 22:27
+c6e9bd85-ffbe-4cfa-a679-d1a6a9df36cb,pet.hamburg,available,59.99,59.99,high,medium,3,name.com,,,09/08/2026 17:52
+17582b18-7c04-44ac-85b0-cab19730b2fa,pet.forex,available,11.98,133.98,high,medium,3,namecheap,,,09/08/2026 17:52
+5e3b7cd0-14fd-4384-a391-c8468d01cbab,superior.stream,available,5.25,6.25,high,low,8,namesilo,,,21/08/2026 09:12
+2cfd0cd4-282a-497b-8aad-b36901182e08,pet.homes,premium,812.5,20.99,high,medium,3,name.com,,,09/08/2026 17:52
+57d8979f-0e2f-4e4e-a700-373b9fe643e0,deductible.reisen,available,3.99,20.99,high,low,10,namesilo,,,13/08/2026 22:27
+38eb5187-ab19-41a8-8a6b-1749bd080fbc,superior.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,21/08/2026 09:12
+fcd93849-6e4b-4f96-b674-6928686fa2e6,insured.enterprises,available,5.99,50.99,high,low,7,name.com,,,22/08/2026 07:42
+d7221d93-8b81-4441-aa5a-0aeaf17782ec,pet.llc,premium,3125,3125,high,medium,3,name.com,,,09/08/2026 17:52
+fc6aa429-4a60-4eac-971e-9455bed08c57,deductible.toys,available,14.98,82.48,high,low,10,namecheap,,,13/08/2026 22:27
+4728853a-6f7f-4177-834d-fa8e6e277ac8,superior.charity,available,5.99,40.99,high,low,8,name.com,,,21/08/2026 09:12
+bcdce190-1cb7-4e6a-8a71-777e0069b863,insured.beauty,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 07:42
+2d91cad0-2686-41d7-95a7-4b3bf8096816,insured.sexy,available,2749.99,2749.99,high,low,7,namesilo,,,22/08/2026 07:42
+00b84c2e-2b99-4af4-8e07-a9a6a4831d5f,insured.jewelry,available,19.99,84.99,high,low,7,name.com,,,22/08/2026 07:42
+11bae6cf-35d1-41a8-97a9-2897bb1d32cf,deductible.energy,available,5.98,155.98,high,low,10,namecheap,,,13/08/2026 22:27
+736cc301-79d0-4492-8dd6-5dbbbc450ce2,pet.auto,available,2070,2950,high,medium,3,namecheap,,,09/08/2026 17:52
+83dfe825-e676-4f64-bf61-07470b74ebb2,insured.art,premium,131.2,83.3,high,low,7,namesilo,,,22/08/2026 07:42
+a1103dc8-0d8d-4bf2-a7ff-3635ae077a3d,deductible.cfd,available,1.39,26.98,high,low,10,namecheap,,,13/08/2026 22:27
+6211fed8-af0a-48ec-bcc7-1ebcfbc097d0,insured.photography,available,6.98,46.48,high,low,7,namecheap,,,22/08/2026 07:42
+fb00684c-5515-4783-8efe-acec6c925706,pet.news,premium,650,1300,high,medium,3,namecheap,,,09/08/2026 17:52
+93f772c1-916f-4e81-b481-e0be6a35c868,superior.camp,available,11.99,77.99,high,low,8,name.com,,,21/08/2026 09:12
+46ff4c75-4428-4733-8f1b-21b83cab5fae,pet.cheap,resell,,,high,medium,3,"Spaceship, Inc.",22/02/2026 17:45,22/02/2027 17:45,09/08/2026 17:52
+f1c6dcb1-ecfd-4362-b9c1-1e94e84bc159,insured.security,available,1999.99,2049.99,high,low,7,namesilo,,,22/08/2026 07:42
+63913111-2164-4b2e-aa31-b04545093493,superior.accountant,premium,116,29.5,high,low,8,namesilo,,,21/08/2026 09:12
+37b0a2c0-4975-4285-9b55-4dcd9ec9c44c,insured.study,premium,53.92,53.92,high,low,7,namesilo,,,22/08/2026 07:42
+4a9e4b0d-4b0a-4e9c-b931-79fb17e2ae68,insured.family,available,9.99,50.99,high,low,7,name.com,,,22/08/2026 07:42
+3becd655-2eb5-4c1c-9663-b7bf48c858c6,insured.sucks,available,218.99,218.99,high,low,7,namesilo,,,22/08/2026 07:42
+a5de0f46-102c-4e7e-afef-5ee2c74bd2a2,insured.fitness,available,3.48,54.98,high,low,7,namecheap,,,22/08/2026 07:42
+f14669b5-5f48-4c1b-9b88-c97ac66856cb,risk.actor,available,9.48,54.98,high,low,4,namecheap,,,08/09/2026 12:49
+16b4ecd4-14a2-47ea-8743-5ec8dd2d6ee8,insured.porn,available,69.98,154.98,high,low,7,namecheap,,,22/08/2026 07:42
+a93ef29c-510a-4447-ab3e-9617b4570592,superior.pics,resell,,,high,low,8,"Spaceship, Inc.",12/05/2026 20:43,12/05/2027 23:59,21/08/2026 09:12
+862d11f2-da49-4f29-b4e0-8d075b272375,deductible.paris,available,65.99,65.99,high,low,10,name.com,,,13/08/2026 22:27
+25b2e2a0-0a2b-4ae3-a2b3-b9cfe20191df,deductible.courses,available,1.98,50.98,high,low,10,namecheap,,,13/08/2026 22:27
+7574d958-7959-4b77-a01c-9a2092350539,claim.place,available,22.98,30.98,high,low,5,namecheap,,,25/09/2026 09:04
+75213449-1c85-4931-ba32-2476b589a20c,deductible.hair,available,1.8,19.98,high,low,10,namecheap,,,13/08/2026 22:27
+66d2bddd-9ab3-41ab-9211-108222f4c195,deductible.ag,available,89,141.99,high,low,10,name.com,,,13/08/2026 22:27
+97a2aa61-3efe-495e-a027-9d5b8966b591,superior.host,premium,312.5,625,high,low,8,name.com,,,21/08/2026 09:12
+b5e23da0-9cd7-4909-b79f-eb4ca2aa21f6,insured.sex,available,69.98,154.98,high,low,7,namecheap,,,22/08/2026 07:42
+dc6c9cf1-108d-45ad-8b0c-d8cd97172d12,insured.host,available,4.99,109.99,high,low,7,namesilo,,,22/08/2026 07:42
+c12536eb-f3c7-472c-863c-49398b54ba6d,deductible.shoes,available,34.98,81.98,high,low,10,namecheap,,,13/08/2026 22:27
+730c3e36-b4eb-4f8c-87bc-948c60c044f7,deductible.gift,available,14.99,14.99,high,low,10,namesilo,,,13/08/2026 22:27
+57f5f0c0-db4b-4d4f-9994-7312d489c0ed,superior.gallery,available,28.99,28.99,high,low,8,namesilo,,,21/08/2026 09:12
+0903c012-f4d5-4690-a69a-ea6d4e1f1d49,pet.top,premium,15028.72,14.99,high,medium,3,name.com,,,09/08/2026 17:52
+fba070c3-022f-4f0a-8edc-f9bb47dda7e0,superior.exposed,available,22.49,22.49,high,low,8,namesilo,,,21/08/2026 09:12
+98de9b03-ed12-4ef3-939b-def00fd95f07,deductible.cloud,available,3.98,32.98,high,low,10,namecheap,,,13/08/2026 22:27
+89feca4e-bb53-403a-ac05-255c192ecdb4,superior.to,resell,,,high,low,8,Government of Kingdom of Tonga,13/07/2022 01:17,12/06/2027 15:44,21/08/2026 09:12
+c6493720-4626-479c-b4a0-3e71ff2abf67,deductible.camera,available,21.99,75.99,high,low,10,name.com,,,13/08/2026 22:27
+dd432d59-54c9-4e59-a9d0-4c8dc54a81b6,insured.bargains,available,14.98,37.98,high,low,7,namecheap,,,22/08/2026 07:42
+8617e88a-8597-407a-a448-ae8e1fb6c347,insured.tattoo,available,2.98,48.98,high,low,7,namecheap,,,22/08/2026 07:42
+165e2250-8ab9-4ef9-a0c9-562ad31e931a,insured.foundation,available,5.99,40.99,high,low,7,name.com,,,22/08/2026 07:42
+e6358c43-ac79-4461-a865-c7f7c706a45c,actuarial.fast,available,30.98,35.98,high,low,9,namecheap,,,
+3ed97aef-e8de-4414-9cc8-0d17a7e99491,superior.healthcare,premium,118.8,118.8,high,low,8,namesilo,,,21/08/2026 09:12
+ffb6bb2f-7ca3-4902-95f7-903bf318a6ca,superior.art,premium,291.2,83.3,high,low,8,namesilo,,,21/08/2026 09:12
+1da27d9d-bfef-43a4-ac36-84dc51c4f0c4,insured.download,premium,437.5,62.5,high,low,7,name.com,,,22/08/2026 07:42
+0d9f5b91-2911-4555-9eaf-20fed41a5391,superior.shopping,available,14.99,45.99,high,low,8,name.com,,,21/08/2026 09:12
+4501bbf0-310a-42c7-8e3b-8f3d674a4097,deductible.fitness,available,3.48,54.98,high,low,10,namecheap,,,13/08/2026 22:27
+b32e807b-8f0f-4586-a5af-85dc98cb48d7,pet.christmas,available,1.8,49.98,high,medium,3,namecheap,,,09/08/2026 17:52
+cc94f697-63e1-4b0f-baab-c7ceb9c907a0,superior.investments,premium,242,242,high,low,8,namesilo,,,21/08/2026 09:12
+d819b6fe-5200-4718-9ef9-07b0b08d6754,deductible.ltda,available,34.99,34.99,high,low,10,namesilo,,,13/08/2026 22:27
+a84de97d-b61a-4668-b743-dda957168c68,pet.cyou,premium,390,780,high,medium,3,namecheap,,,09/08/2026 17:52
+b5be26e9-270b-4085-a252-1069399ccddf,actuarial.forex,available,11.98,133.98,high,low,9,namecheap,,,
+d51de123-dcaf-4c55-a0bd-ffd283985f69,insured.mortgage,premium,500,500,high,low,7,name.com,,,22/08/2026 07:42
+a9e8a3b6-599a-4b4e-a009-f0d39377b7dc,pet.business,premium,123.75,123.75,high,medium,3,name.com,,,09/08/2026 17:52
+17f89a39-f406-435c-b32f-6aab45ecf9e4,deductible.zone,available,8.98,51.98,high,low,10,namecheap,,,13/08/2026 22:27
+72906d36-5d85-46bd-b607-5ccce581dc67,deductible.plumbing,available,14.99,94.99,high,low,10,name.com,,,13/08/2026 22:27
+65b8b843-b18f-45fe-a92e-d416e3726b85,pet.taxi,resell,,,high,medium,3,Dynadot Inc,16/01/2018 00:17,16/01/2027 00:17,09/08/2026 17:52
+d5186705-5335-4ddc-8dee-1ababd074948,pet.study,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+9243c046-c2a2-40e6-90b5-9fe09a4ec7e2,insured.fishing,available,32.49,32.49,high,low,7,namesilo,,,22/08/2026 07:42
+d1ee79f7-5ba1-42f7-af65-d9e819fa2b19,pet.attorney,premium,1250,1250,high,medium,3,name.com,,,09/08/2026 17:52
+fbd8afa8-744b-4900-b4cd-62fdd2fe04b8,pet.talk,premium,625,625,high,medium,3,name.com,,,09/08/2026 17:52
+02fbd2dc-fd18-40ee-971e-761fd710a140,deductible.space,premium,32.5,130,high,low,10,namecheap,,,13/08/2026 22:27
+3c9369d0-1c54-40b2-8d97-5ba40e0aaae0,deductible.hamburg,available,59.99,59.99,high,low,10,name.com,,,13/08/2026 22:27
+9f5a165c-4927-420a-bb51-0fc58dcf6ebc,superior.chat,resell,,,high,low,8,Dynadot Inc,04/02/2026 17:00,04/02/2027 17:00,21/08/2026 09:12
+545708c6-8ebc-4549-9473-cd92e838cff1,deductible.dentist,premium,242,242,high,low,10,namesilo,,,13/08/2026 22:27
+0dfc0d54-112d-4cd8-8bcc-c91e41bfee59,deductible.fan,available,11.99,71.99,high,low,10,name.com,,,13/08/2026 22:27
+db424c44-2100-46fe-b21a-df0c44ec9f59,pet.protection,available,2070,2950,high,medium,3,namecheap,,,09/08/2026 17:52
+9af57caf-f7c1-474d-b792-0c4425b7dc03,pet.ltda,available,42.98,46.98,high,medium,3,namecheap,,,09/08/2026 17:52
+e79ef3f6-f7f6-4eb4-85de-298597a02806,deductible.bz,available,21.98,26.98,high,low,10,namecheap,,,13/08/2026 22:27
+3b780e02-ac19-4c29-88d5-f7027ca575b7,deductible.cv,available,4.99,9.99,high,low,10,namesilo,,,13/08/2026 22:27
+406fb446-552d-4bd4-b3bd-ce1c7409b9db,insured.vc,resell,,,high,low,7,"Sav.com, LLC",07/08/2020 19:02,07/08/2027 19:02,22/08/2026 07:42
+6319edb8-76dd-4462-b314-38ef86ee49f9,deductible.bargains,available,14.98,37.98,high,low,10,namecheap,,,13/08/2026 22:27
+835802ef-9c97-480b-8774-badb6ef410bb,insured.voting,available,1398,1448,high,low,7,namecheap,,,22/08/2026 07:42
+978d4133-2dfc-4993-aed0-6d9d29d58159,pet.productions,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+144b1f14-47e7-4f23-91b7-bad496ff5bff,deductible.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,13/08/2026 22:27
+7828e8ce-46d4-4597-8cdf-13a2e7eecb8c,insured.toys,available,14.98,82.48,high,low,7,namecheap,,,22/08/2026 07:42
+6d52a63d-1819-4d32-90b7-7a998b4d66fd,superior.sbs,premium,68.43,147.2,high,low,8,namesilo,,,21/08/2026 09:12
+b59b1e67-af27-4699-886d-1d1506600a68,deductible.sexy,available,2749.99,2749.99,high,low,10,namesilo,,,13/08/2026 22:27
+b77c5b22-56aa-4a6e-b4e1-72f70cebe2d3,superior.rip,available,7.99,29.99,high,low,8,name.com,,,21/08/2026 09:12
+32967def-ba5e-44cc-a661-55f0d2899241,superior.cyou,premium,68.43,147.2,high,low,8,namesilo,,,21/08/2026 09:12
+a52a0ff1-2afc-4ab6-bdc1-1ca5416d363d,superior.jetzt,available,13.99,29.99,high,low,8,name.com,,,21/08/2026 09:12
+33da1560-88c6-4815-9986-7b5e59fc6310,deductible.flowers,available,64.99,114.99,high,low,10,namesilo,,,13/08/2026 22:27
+1c9a5c7b-c628-48c8-ae2e-4d128855be35,deductible.racing,available,11.99,11.99,high,low,10,namesilo,,,13/08/2026 22:27
+09f709f0-2861-4c1c-8a11-b63e549fb912,insured.pink,available,6.48,31.48,high,low,7,namecheap,,,22/08/2026 07:42
+df0d33aa-37b4-45cf-aa45-ea18c4b7252c,deductible.storage,available,509.99,529.99,high,low,10,namesilo,,,13/08/2026 22:27
+7638412f-bd3c-4c73-b99c-a77502a63205,deductible.computer,available,22.48,48.98,high,low,10,namecheap,,,13/08/2026 22:27
+9fd361f2-4261-4853-b356-3df342f22db7,superior.fan,available,11.99,71.99,high,low,8,name.com,,,21/08/2026 09:12
+b2068109-85d7-48bb-88c9-d4b588bf67b2,deductible.land,available,5.98,54.98,high,low,10,namecheap,,,13/08/2026 22:27
+5b557252-e3b9-4e84-bb77-c13b9a6fe3c8,superior.finance,resell,,,high,low,8,Porkbun LLC,26/02/2024 02:14,26/02/2027 02:14,21/08/2026 09:12
+21e8a8ee-d03e-4b34-808a-aaac00a53b7d,pet.review,premium,625,81.25,high,medium,3,name.com,,,09/08/2026 17:52
+792b759a-921f-4ccf-b4fe-5e11e9f47862,insured.tennis,available,65.99,65.99,high,low,7,namesilo,,,22/08/2026 07:42
+0fa17657-0fd8-4deb-a911-214142d4dd28,deductible.family,available,9.99,50.99,high,low,10,name.com,,,13/08/2026 22:27
+1c15621a-fb14-4c8d-bae3-59e98a94f209,insured.srl,available,31.99,31.99,high,low,7,namesilo,,,22/08/2026 07:42
+116c18f3-e58b-40dd-bc08-5670a550bdac,superior.gay,premium,116,116,high,low,8,namesilo,,,21/08/2026 09:12
+e87a3ab7-536a-4c75-a9e3-01a1b8dcd779,deductible.reviews,available,7.99,81.99,high,low,10,name.com,,,13/08/2026 22:27
+e79f3bea-6225-4459-865c-d31bbc80bf93,superior.limo,available,19.99,71.99,high,low,8,name.com,,,21/08/2026 09:12
 493d1b69-3b6f-4214-81dd-d5049e997138,coverage.news,premium,280,560,high,low,8,namecheap,,,
+ed240b50-f441-4807-a0b2-4c1c4d3efd17,deductible.fashion,available,32.49,32.49,high,low,10,namesilo,,,13/08/2026 22:27
+2241a564-6f76-4d4c-a568-e2f6f58d2b87,pet.bike,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+85d32021-fa19-4c02-9b50-8d17221196c1,insured.luxury,available,49.99,49.99,high,low,7,name.com,,,22/08/2026 07:42
+ef96c0bf-d3d5-4c2c-a29c-12b68c6ca55b,superior.security,available,1999.99,2049.99,high,low,8,namesilo,,,21/08/2026 09:12
+8d57aec8-bed9-4a47-841d-57b802fb4d93,deductible.red,available,9.48,28.48,high,low,10,namecheap,,,13/08/2026 22:27
+a27664c3-ade7-4bac-9a45-9d6ccfc4db2a,superior.hiv,available,184.99,184.99,high,low,8,name.com,,,21/08/2026 09:12
+aa20b0e0-b96f-4b49-aef7-39dda35c3583,deductible.wiki,available,2.98,43.98,high,low,10,namecheap,,,13/08/2026 22:27
+53516a3b-a661-47ae-968c-c3cd8bf1f9b1,policy.shop,premium,1250,,high,low,6,name.com,,,
+7347c9a9-8fa9-479a-a61d-b2487ff755c2,superior.credit,available,9.48,131.98,high,low,8,namecheap,,,21/08/2026 09:12
+9d891094-77f9-4f88-b2ff-84f5ab06eb21,bond.la,resell,,,high,low,4,LA Domain Names,15/07/2026 09:10,15/07/2027 23:59,24/09/2026 07:14
+61fc3e88-7f74-4be7-8ab3-54933dbeea8a,insured.mba,available,11.98,49.98,high,low,7,namecheap,,,22/08/2026 07:42
+3667242c-8baa-41e0-ae8a-e43b6a39de4b,pet.mov,premium,73.75,73.75,high,medium,3,name.com,,,09/08/2026 17:52
+289bfef5-0358-4c4b-a45c-800deeb8a01f,deductible.supply,available,25.99,25.99,high,low,10,namesilo,,,13/08/2026 22:27
+92cbe5a1-edb1-44ec-9c3f-cc4af4b45b75,superior.dad,premium,161.25,161.25,high,low,8,name.com,,,21/08/2026 09:12
+d7f9f1af-102a-4fb0-bc16-cf23b685c303,insured.boston,available,23.49,23.49,high,low,7,namesilo,,,22/08/2026 07:42
+a035afa5-dc8f-4729-82c8-c30c0664795b,deductible.free,available,38.98,44.98,high,low,10,namecheap,,,13/08/2026 22:27
+90e39a4b-2dc0-48a8-955c-9adf9afb13ab,insured.cloud,resell,,,high,low,7,"Dynadot, LLC",06/04/2026 01:08,06/04/2027 01:08,22/08/2026 07:42
+fff99520-bd57-45c9-b81f-eefe99d11ec4,insured.community,available,14.99,65.99,high,low,7,name.com,,,22/08/2026 07:42
+ebedaa79-8664-45ab-8043-91c4d5272569,insured.hospital,available,55.98,71.98,high,low,7,namecheap,,,22/08/2026 07:42
+f43bc3c5-3d62-4cb1-9e05-46ecf4dd6750,deductible.singles,available,3.98,36.98,high,low,10,namecheap,,,13/08/2026 22:27
+3d3dcd36-8fa5-4a52-8042-dd02883844d8,deductible.attorney,available,62.99,62.99,high,low,10,namesilo,,,13/08/2026 22:27
+66e9885b-d557-457d-9522-7d4ed9e27501,superior.surgery,available,54.99,54.99,high,low,8,namesilo,,,21/08/2026 09:12
+2d65fdcb-08c6-417b-ace7-e64a41469a05,superior.luxe,available,19.49,19.49,high,low,8,namesilo,,,21/08/2026 09:12
+f1adbca9-d119-4515-abb1-9f8fa2684f38,deductible.games,available,11.98,42.98,high,low,10,namecheap,,,13/08/2026 22:27
+bfa60df0-c762-4b80-8753-a2d29fb0377d,insured.school,available,9.99,46.99,high,low,7,name.com,,,22/08/2026 07:42
+c0600ba3-2aad-482a-9b47-35993b82c648,insured.mx,available,26.98,58.98,high,low,7,namecheap,,,22/08/2026 07:42
+c5e2fea2-6213-4451-afbe-d8411578b0d1,insured.ceo,available,9.99,124.98,high,low,7,namecheap,,,22/08/2026 07:42
+7c062784-c61e-4745-b07a-218c8e5913eb,deductible.theater,available,19.99,83.99,high,low,10,name.com,,,13/08/2026 22:27
+06a3d406-0c32-467e-afb9-83c96d03d254,pet.gay,premium,125,125,high,medium,3,name.com,,,09/08/2026 17:52
+07a30847-ecf3-4ad5-b74b-e7527e5c29c5,deductible.associates,available,12.98,49.98,high,low,10,namecheap,,,13/08/2026 22:27
+b926417c-ed0b-40b8-b918-8e34230c4d5a,deductible.diet,available,104.99,114.99,high,low,10,namesilo,,,13/08/2026 22:27
+26a9bc74-73cc-4240-b3fb-cf0e711d0540,deductible.democrat,available,5.98,41.48,high,low,10,namecheap,,,13/08/2026 22:27
+7e65746c-0a98-4db2-8b41-c43701cb5216,deductible.black,available,17.48,82.98,high,low,10,namecheap,,,13/08/2026 22:27
+56ca16b7-9bdc-4c97-a9a5-fc7ffd55c7b9,pet.limited,premium,82.5,82.5,high,medium,3,name.com,,,09/08/2026 17:52
+88e34f56-3b54-4875-9f0d-b2d6102e6c3d,policies.trading,available,21.98,27.98,high,low,8,namecheap,,,04/09/2026 07:55
+26fe95b2-adb5-45ae-9d65-44e249855931,pet.trading,available,19.99,19.99,high,medium,3,name.com,,,09/08/2026 17:52
+90e72cd0-537a-444e-9c70-b00ba583988c,insured.limited,available,14.99,52.99,high,low,7,name.com,,,22/08/2026 07:42
+39ecd536-ca3f-4614-a50f-725f7bf5af14,pet.baby,resell,,,high,medium,3,"Spaceship, Inc.",02/05/2026 20:56,02/05/2027 23:59,09/08/2026 17:52
+825d82fa-5c7f-42e1-bf3a-1afda8286a1e,superior.adult,available,69.98,166.98,high,low,8,namecheap,,,21/08/2026 09:12
+f119a420-76cc-4278-b197-1b7aa3cc8feb,risk.lat,resell,,,high,low,4,"Spaceship, Inc.",22/02/2026 17:46,22/02/2027 23:59,08/09/2026 12:49
+4c8049d5-933e-49d7-ae84-726b6fa79ff7,superior.archi,available,14.98,132.98,high,low,8,namecheap,,,21/08/2026 09:12
+29dbc1d7-2c25-4a94-bf44-c147725b0c8a,deductible.earth,available,18.99,18.99,high,low,10,namesilo,,,13/08/2026 22:27
+5c1e87ac-4d2b-42d5-816f-c1b799bf9762,insured.game,available,309.99,329.99,high,low,7,namesilo,,,22/08/2026 07:42
+4c24f9b4-79b0-4b64-b9a1-b1360f56e55a,deductible.tattoo,available,2.98,48.98,high,low,10,namecheap,,,13/08/2026 22:27
 94ffec0c-cce1-440d-b9ca-fb281b04b8d0,coverage.press,premium,156.25,,high,low,8,name.com,,,
 d47c4fff-577f-4afa-b1d8-e571a7b20a00,coverage.observer,premium,11.8,11.8,high,low,8,namesilo,,,
+74e0dd65-47a8-4a76-9fef-d4b7fda6b1c5,insured.furniture,available,23.98,127.98,high,low,7,namecheap,,,22/08/2026 07:42
+0b46d607-2d4d-4068-83e4-eccfb6a53927,superior.melbourne,available,44.98,53.98,high,low,8,namecheap,,,21/08/2026 09:12
+55ceccac-9191-4632-9cc8-d2b8d83d1583,pet.blackfriday,premium,390,390,high,medium,3,namecheap,,,09/08/2026 17:52
+8f6b01c0-d060-4506-9800-09ce1726f71a,coverage.loan,premium,437.5,,high,low,8,name.com,,,
+0ba24bc8-389a-484e-88cd-db17a4e21340,deductible.luxury,available,49.99,49.99,high,low,10,name.com,,,13/08/2026 22:27
+1a860425-cffb-446a-92a8-97aa183dfe8b,deductible.pub,available,39.99,39.99,high,low,10,namesilo,,,13/08/2026 22:27
+5dec2b53-1c14-43dc-ba36-d516fed34d84,pet.you,premium,625,625,high,medium,3,name.com,,,09/08/2026 17:52
+8a6d1021-a7a6-4ce9-be44-694069c9cc21,insured.discount,available,7.99,43.99,high,low,7,name.com,,,22/08/2026 07:42
+d59f3c99-d637-4e5f-9c0e-0bec997ae0ae,pet.work,premium,625,16.99,high,medium,3,name.com,,,09/08/2026 17:52
+4b44c84b-39ad-4922-a9ee-3ea482d4330d,deductible.green,available,11.98,102.98,high,low,10,namecheap,,,13/08/2026 22:27
+bc5fa354-e538-4231-8c26-2845b0c5fc0f,superior.day,premium,161.25,161.25,high,low,8,name.com,,,21/08/2026 09:12
+22d99272-2527-4ae7-8aaa-c8a4b8ec104d,deductible.promo,available,11.98,33.48,high,low,10,namecheap,,,13/08/2026 22:27
+3a006896-22fe-4aa3-9fb8-abe00375741f,pet.spot,premium,3125,3125,high,medium,3,name.com,,,09/08/2026 17:52
+9f5fd15a-6db0-436a-b3fd-46329822d3ca,pet.reviews,premium,1000,1000,high,medium,3,name.com,,,09/08/2026 17:52
+7460ee14-1dbf-4ade-b725-21fbcc3dbc7e,deductible.cam,available,2.98,22.98,high,low,10,namecheap,,,13/08/2026 22:27
+76702d0e-c10b-4139-886c-39255a29b4f1,insured.baby,available,1.8,81.98,high,low,7,namecheap,,,22/08/2026 07:42
+140c1506-50be-42cf-a206-a9a2051fa02e,insured.country,available,2298,2450,high,low,7,namecheap,,,22/08/2026 07:42
+0bda3ad2-78a2-4323-b9ba-9998481e660b,pet.estate,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+636aafc3-6d46-4422-aab4-6fe913677a48,pet.furniture,premium,500,500,high,medium,3,name.com,,,09/08/2026 17:52
+58b72076-286a-4572-86f2-d39bae5ee9ce,deductible.broker,available,11.98,47.98,high,low,10,namecheap,,,13/08/2026 22:27
+a78e5893-6ace-4dfb-8a2c-3d354998dbbd,deductible.industries,available,17.49,65.99,high,low,10,name.com,,,13/08/2026 22:27
+d5f676c2-f141-47b8-b221-99942f2e5728,policies.forex,available,11.98,133.98,medium,low,8,namecheap,,,04/09/2026 07:55
+84d23764-e6f3-4830-aa3b-b8cabe000c02,deductible.show,available,14.99,56.99,high,low,10,name.com,,,13/08/2026 22:27
+7fbc8731-6d13-4e6e-899a-c54979782715,pet.build,premium,625,625,high,medium,3,name.com,,,09/08/2026 17:52
+ada2e5bb-55ac-4520-a793-2e977ba1fcd3,coverage.at,available,,,high,low,8,,,,
+6310aa47-1838-41e1-b2c6-7927c53431f9,coverage.auto,available,1999.99,2199,high,low,8,namesilo,,,
+b99d7e9d-7921-4690-b332-f8021ea16f54,superior.cricket,premium,1107,116,high,low,8,namesilo,,,21/08/2026 09:12
+1b6cd028-c0df-4e5f-8881-9a7fb3404db9,coverage.car,available,1999.99,2199,high,low,8,namesilo,,,
 cc1d56a0-814b-45cc-be8a-0a46dea20e38,coverage.us,resell,,,high,low,8,"GoDaddy.com, LLC",10/07/2010 18:01,09/07/2027 23:59,18/09/2026 00:40
+2c95d596-821b-4ab5-b1cf-f5f3d36c50ea,coverage.money,available,19.99,,high,low,8,name.com,,,
 4f182198-b084-4138-bc4e-c867367d8e4f,coverage.loans,available,19.99,,high,low,8,name.com,,,
+7c42133b-7178-4e61-becd-2b0bd9fcdcea,coverage.finance,available,15.99,,high,low,8,name.com,,,
 2d7a3416-3b22-44c7-9eb6-f8c0a1920c0a,coverage.cash,available,17.99,,high,low,8,name.com,,,
 71d65edc-c8fa-4444-8340-5da46326b477,coverage.investments,available,14.99,,high,low,8,name.com,,,
 12bbe1b2-581b-45dc-a7c5-fdb28dcba34c,coverage.financial,available,29.99,,high,low,8,name.com,,,
-8f6b01c0-d060-4506-9800-09ce1726f71a,coverage.loan,premium,437.5,,high,low,8,name.com,,,
+80f7477d-a546-47c4-8e6a-bc6d97ae1b0c,deductible.locker,available,6.88,37.99,high,low,10,namesilo,,,13/08/2026 22:27
+82feb89b-eea8-47fc-83cd-c0d532a00319,pet.coach,resell,,,high,medium,3,"GoDaddy.com, LLC",13/06/2018 01:58,13/06/2027 01:58,09/08/2026 17:52
+6f94887f-1438-4ab8-8fd6-eee50132e6da,pet.international,premium,123.75,123.75,high,medium,3,name.com,,,09/08/2026 17:52
+24e55086-73bf-40f6-9ae5-36fc5d76001d,deductible.cab,available,23.99,43.99,high,low,10,name.com,,,13/08/2026 22:27
+26d893bf-2a39-4215-9ab1-b0ee1739498a,deductible.training,available,8.98,53.98,high,low,10,namecheap,,,13/08/2026 22:27
 a520b194-f4e1-4366-ae14-eed5fad47a3f,coverage.live,premium,69.3,138.6,high,low,8,namecheap,,,
-ada2e5bb-55ac-4520-a793-2e977ba1fcd3,coverage.at,available,,,high,low,8,,,,
-6310aa47-1838-41e1-b2c6-7927c53431f9,coverage.auto,available,1999.99,2199,high,low,8,namesilo,,,
-1b6cd028-c0df-4e5f-8881-9a7fb3404db9,coverage.car,available,1999.99,2199,high,low,8,namesilo,,,
-2c95d596-821b-4ab5-b1cf-f5f3d36c50ea,coverage.money,available,19.99,,high,low,8,name.com,,,
-7c42133b-7178-4e61-becd-2b0bd9fcdcea,coverage.finance,available,15.99,,high,low,8,name.com,,,
 b3367c96-b572-4552-a99a-017f78ef11a6,coverage.protection,available,1999.99,2049.99,high,low,8,namesilo,,,
 4c7f411b-c5a0-4f24-a558-fc7a3fad5508,coverage.security,available,1999.99,2049.99,high,low,8,namesilo,,,
+8a5cefd6-e145-4de8-aa1f-1dbfb2da4bda,pet.hiv,available,184.99,184.99,high,medium,3,name.com,,,09/08/2026 17:52
+c381cde9-a946-4baf-baa7-3c8a7df01e4d,pet.observer,premium,31.25,31.25,high,medium,3,name.com,,,09/08/2026 17:52
+f1e7506d-8248-4d69-869a-cc6c5345c90e,deductible.tienda,available,9.99,77.99,high,low,10,name.com,,,13/08/2026 22:27
 dd7eea1e-0165-4b83-bc4b-d978467c41a9,coverage.gg,available,82.98,,high,low,8,namecheap,,,
+bbc2b657-75f0-43cf-8ae6-3624b64981dc,insured.makeup,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 07:42
+07265a5e-84dc-45e4-aa31-76c0d63533bb,deductible.directory,available,4.98,36.98,high,low,10,namecheap,,,13/08/2026 22:27
+d00f33a9-8004-426f-b0f9-d0982bfc7bbe,insured.ong,available,16.99,16.99,high,low,7,name.com,,,22/08/2026 07:42
+a73115f0-abfe-4ccb-be02-06c1c938ff77,pet.sexy,premium,31250,31250,high,medium,3,name.com,,,09/08/2026 17:52
+7e2f1c35-8472-4bf6-9d6b-57cd2d99fd2d,superior.cars,available,1999.99,2199,high,low,8,namesilo,,,21/08/2026 09:12
+9be322a0-2560-4e2d-9811-7435dc00adb5,policies.new,available,488.98,601.98,medium,low,8,namecheap,,,04/09/2026 07:55
+2f8095aa-2b12-44fe-b917-7110d068e027,pet.boats,premium,812.5,20.99,high,medium,3,name.com,,,09/08/2026 17:52
+3fc12acb-a106-4576-9aa5-b2883d126e91,deductible.berlin,available,79.98,89.98,high,low,10,namecheap,,,13/08/2026 22:27
+b802985e-625a-4c0b-95e0-6a58e6682732,deductible.srl,available,31.99,31.99,high,low,10,namesilo,,,13/08/2026 22:27
+d0307e78-5a66-4ed6-afcd-83c3a35101fd,deductible.london,premium,64.25,31.86,high,low,10,namesilo,,,13/08/2026 22:27
+3e89eb46-b8c1-4881-9457-6bd5041499af,insured.casino,available,6.98,191.98,high,low,7,namecheap,,,22/08/2026 07:42
+3a9b9be2-1122-4848-96d9-37c6ea43f579,actuarial.sex,available,69.98,154.98,high,low,9,namecheap,,,
+d39e3883-75c5-45bd-baca-5392d427e3de,pet.cash,premium,123.75,123.75,high,medium,3,name.com,,,09/08/2026 17:52
 3e7d87bd-3700-46cd-8828-ab90fccc604b,coverage.cars,available,1999.99,2199,high,low,8,namesilo,,,
 e3900632-5516-44be-a13f-d446dc2f86bf,coverage.autos,premium,812.5,,high,low,8,name.com,,,
 f29b5bb0-fb95-4b0e-acb0-1b4e459abeb9,coverage.motorcycles,premium,812.5,,high,low,8,name.com,,,
 1ca1969a-9c5c-42a8-8a63-96af46e14c9e,coverage.dealer,premium,2170,2800,high,low,8,namecheap,,,
-addae321-5302-49ef-a4f0-788076b80800,coverage.zone,available,14.99,,high,low,8,name.com,,,
+a2afc34e-f237-4dbc-8946-8e0973d3ed98,insured.new,available,488.98,601.98,high,low,7,namecheap,,,22/08/2026 07:42
+ed1de891-8a33-49f3-bee0-1ce6ef55f263,pet.meme,premium,112.5,112.5,high,medium,3,name.com,,,09/08/2026 17:52
+0fb6bddd-cafe-41e1-80fa-e036213ba697,superior.sydney,available,44.98,54.98,high,low,8,namecheap,,,21/08/2026 09:12
+22200b4b-ecd8-46ad-a84b-e1701ba58bd0,insured.camp,available,11.99,77.99,high,low,7,name.com,,,22/08/2026 07:42
+ff742dfc-146b-4f3a-8f80-592973e18fec,deductible.vana,available,2298,2498,high,low,10,namecheap,,,13/08/2026 22:27
+3ae8a164-88a3-465f-a4ab-feceb1afbee8,pet.creditcard,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+77740d68-172b-4a48-845d-3176ace84ce4,insured.camera,available,21.99,75.99,high,low,7,name.com,,,22/08/2026 07:42
+791cbed8-7b20-4495-abfe-6fce2b41e259,superior.kiwi,premium,74.74,74.74,high,low,8,name.com,,,21/08/2026 09:12
+5e33db2c-a527-40e8-8527-a1239079af69,property.rentals,resell,,,high,low,8,Porkbun LLC,18/10/2017 09:06,18/10/2026 09:06,
+02fe1648-6142-49c9-a22d-68df925bcc63,superior.gifts,available,14.99,46.99,high,low,8,name.com,,,21/08/2026 09:12
 ec4371f1-f009-4282-8dc5-69e6295aaee9,coverage.buzz,premium,116,53.92,high,low,8,namesilo,,,
-12404a34-acc0-43bc-8bdb-0cbf82fae177,coverage.ninja,available,9.99,,high,low,8,name.com,,,
+8a5997ae-fcc1-4651-b31f-93449901ee28,insured.media,available,5.98,58.98,high,low,7,namecheap,,,22/08/2026 07:42
+5e838036-e584-4adf-ab5a-dfabf506efe9,insured.luxe,premium,96,17.7,high,low,7,namesilo,,,22/08/2026 07:42
+0daf4dc8-ea91-4cda-b2f6-ea21a197bd34,actuarial.life,available,2.98,46.48,high,low,9,namecheap,,,
+541c7ec5-4e26-4ceb-9120-d11b70cb3e23,insured.video,available,4.98,49.48,high,low,7,namecheap,,,22/08/2026 07:42
+c67ec560-1088-424c-bdee-71da7988666b,actuarial.bot,available,64.98,78.98,high,low,9,namecheap,,,
+03db2e9e-d73a-4c9e-a172-6e084aaf72ac,actuarial.broker,available,11.98,47.98,high,low,9,namecheap,,,
+2b3f1812-9b97-445b-a724-c506d9ddc549,superior.catering,available,38.99,38.99,high,low,8,namesilo,,,21/08/2026 09:12
+3be3dfd7-170f-46a9-a17f-9d8f940cccdf,deductible.solutions,available,5.99,41.99,high,low,10,name.com,,,13/08/2026 22:27
+a6624b8b-3c1f-43f7-935b-b4d9bf0287de,pet.zip,premium,73.75,73.75,high,medium,3,name.com,,,09/08/2026 17:52
+4876bae8-a67c-40bb-be53-e658caf70b35,insured.tienda,available,9.99,77.99,high,low,7,name.com,,,22/08/2026 07:42
+0ec24add-5e13-4a1a-b346-ff2727d52f6e,deductible.webcam,available,11.99,11.99,high,low,10,namesilo,,,13/08/2026 22:27
+31598cf7-1725-4ef8-a073-7b67a42c280e,superior.vacations,available,9.99,50.99,high,low,8,name.com,,,21/08/2026 09:12
+05ebd2c2-5eb0-49ad-8df3-a70106a1dad2,superior.red,available,9.48,28.48,high,low,8,namecheap,,,21/08/2026 09:12
+4471182f-2d13-4787-8f1f-97e999ebb55a,superior.beer,premium,242,29.5,high,low,8,namesilo,,,21/08/2026 09:12
+cf1fd9af-2734-4b9d-95ba-ff1f68082d79,deductible.theatre,available,509.99,529.99,high,low,10,namesilo,,,13/08/2026 22:27
+217f8627-18a2-4085-b799-d611f93a1df4,deductible.discount,available,7.99,43.99,high,low,10,name.com,,,13/08/2026 22:27
+5e2f1156-1074-4409-a83e-b943d5373e6e,superior.review,premium,1107,116,high,low,8,namesilo,,,21/08/2026 09:12
+00ffebb6-f4b1-4a70-90e4-772c4c01d881,superior.diamonds,available,54.99,54.99,high,low,8,namesilo,,,21/08/2026 09:12
+b1e415a8-cad0-45ac-bcdb-b4fd638f3af9,deductible.ink,available,2.98,43.98,high,low,10,namecheap,,,13/08/2026 22:27
+b1fbade0-642d-4747-9847-9077b97502f1,pet.courses,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+addae321-5302-49ef-a4f0-788076b80800,coverage.zone,available,14.99,,high,low,8,name.com,,,
 81f01af0-2b07-402c-be0e-e55bdfeeb21f,coverage.so,available,,,high,low,8,,,,
+d1c1846b-44ec-4939-a189-9c6597ec127a,flood.xyz,resell,,,high,low,5,Dynadot LLC,29/11/2015 03:33,29/11/2030 23:59,
+60a99074-72dc-4f62-981a-31c6ff86d545,pet.bid,premium,625,81.25,high,medium,3,name.com,,,09/08/2026 17:52
+3335f3e5-bf3e-4b81-be69-02596d1deae5,superior.creditcard,available,9.99,236.99,high,low,8,name.com,,,21/08/2026 09:12
+0c0d67b2-405d-4f0d-9039-afc8ebc211cc,insured.productions,available,6.48,50.98,high,low,7,namecheap,,,22/08/2026 07:42
+12404a34-acc0-43bc-8bdb-0cbf82fae177,coverage.ninja,available,9.99,,high,low,8,name.com,,,
+dec0a5d5-e01e-46d8-9251-f4dd50ac7d0e,superior.pizza,resell,,,high,low,8,"Spaceship, Inc.",30/06/2026 14:21,30/06/2027 14:21,21/08/2026 09:12
+72d42676-316e-4422-bd22-1de71d2636d8,deductible.rest,available,1.8,41.98,high,low,10,namecheap,,,13/08/2026 22:27
+b826d8ca-9a84-4a4d-b2b1-b4b3972394f4,insured.gay,available,2.98,50.98,high,low,7,namecheap,,,22/08/2026 07:42
+18782ce4-9e24-4f9c-b155-159ad18612d7,deductible.tv,available,26.99,26.99,high,low,10,namesilo,,,13/08/2026 22:27
+07f64238-7403-4b52-8a8f-08ee93931082,deductible.moe,available,13.99,13.99,high,low,10,namesilo,,,13/08/2026 22:27
+9fea903b-2f66-4cec-b91a-bed91c52c91e,insured.realty,available,99.8,456.98,high,low,7,namecheap,,,22/08/2026 07:42
+db800a1d-2509-4d4f-b087-5c4499ea5591,superior.miami,premium,47.2,21.24,high,low,8,namesilo,,,21/08/2026 09:12
+8483ea12-ef12-4df1-a66c-10f2728bb07b,deductible.sale,available,5.98,48.98,high,low,10,namecheap,,,13/08/2026 22:27
 1ac52473-16f9-4ee5-b77c-dd47af3888ee,coverage.store,premium,312.5,,high,low,8,name.com,,,
-229ee283-6d38-4ad6-8a43-1c62a27d69bd,claim.deals,resell,,,high,low,5,"Sav.com, LLC",22/06/2026 14:31,22/06/2027 14:31,24/09/2026 07:46
+2ffea34a-3250-4a65-a265-26aee0b4edec,actuarial.barcelona,available,38.98,38.98,high,low,9,namecheap,,,
+772deb94-381b-43bf-95f2-5b2a29d09eff,deductible.diamonds,available,54.99,54.99,high,low,10,namesilo,,,13/08/2026 22:27
 c39fdf49-6a69-4ef9-8e3c-06d2b72a8e53,coverage.dev,resell,,,high,low,8,"GoDaddy.com, LLC",03/01/2026 21:00,03/01/2027 21:00,
 9cb2e9da-8312-4849-9760-9486c9d4219a,coverage.site,premium,156.25,,high,low,8,name.com,,,
-cb5a19a9-b169-473c-85a3-2b0f10d55389,coverage.online,premium,781.25,,high,low,8,name.com,,,
+e76e052c-314d-4b89-9dd3-9e090ea871a9,deductible.network,available,6.48,46.98,high,low,10,namecheap,,,13/08/2026 22:27
+5e256d2b-a8c8-476b-a30e-092326b37511,deductible.watch,available,3.48,56.98,high,low,10,namecheap,,,13/08/2026 22:27
+6a9af527-c825-4f02-aa47-5bf50d2e8bcb,insured.skin,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 07:42
+9eeabf8f-22c6-4083-9792-38367ec04e7e,actuarial.moi,available,39.99,39.99,high,low,9,name.com,,,
+2fe47969-d135-41e2-97b4-fe685aa3d61b,deductible.car,available,1999.99,2199,high,low,10,namesilo,,,13/08/2026 22:27
+1bc35ca3-6334-4067-bc65-255038f9d240,insured.catering,available,38.99,38.99,high,low,7,namesilo,,,22/08/2026 07:42
+5eca3168-f859-40fd-888a-216e9accf10e,superior.cooking,available,32.49,32.49,high,low,8,namesilo,,,21/08/2026 09:12
+f45b3809-da21-4896-8102-8866d45101e7,pet.bar,premium,1968.75,2812.5,high,medium,3,name.com,,,09/08/2026 17:52
+da02e880-9eb2-404c-88c2-3ab1d35bb227,pet.singles,premium,82.5,82.5,high,medium,3,name.com,,,09/08/2026 17:52
+3dcc2c7d-28dd-423d-8d3f-10c5900f5556,insured.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,22/08/2026 07:42
+eefb96fa-80a1-4a0b-88c3-f087d966e8d4,superior.games,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",19/12/2021 13:15,19/12/2026 13:15,21/08/2026 09:12
+7119b96e-6aea-44ec-a1da-28e5fe1fdf1b,insured.xxx,available,69.98,154.98,high,low,7,namecheap,,,22/08/2026 07:42
+c52c65ae-42df-4b58-9554-0a64c4c36f12,insured.condos,available,58.99,58.99,high,low,7,namesilo,,,22/08/2026 07:42
+210475f2-c917-4b17-a19e-fe17df6966f7,deductible.camp,available,11.99,77.99,high,low,10,name.com,,,13/08/2026 22:27
+4f2741d7-a536-4d15-80b5-06c1a760c7d8,insured.garden,available,1.98,43.98,high,low,7,namecheap,,,22/08/2026 07:42
+de722dbe-7163-4eba-9aa8-06eebe29d60e,deductible.online,premium,156.25,625,high,low,10,name.com,,,13/08/2026 22:27
 0daee4ed-914a-48bc-90dd-e548a51ab811,coverage.accountant,premium,437.5,,high,low,8,name.com,,,
 4e373d27-c78d-4cd1-9049-1333d2809ea7,coverage.accountants,available,43.99,,high,low,8,name.com,,,
+ddf26139-ad54-4704-935f-2a12c230a9df,pet.autos,premium,812.5,20.99,high,medium,3,name.com,,,09/08/2026 17:52
+ad9a5710-d293-4574-9556-18b807c2f17c,superior.degree,available,14.99,64.99,high,low,8,name.com,,,21/08/2026 09:12
 ad6ffdfb-9c1b-4b1f-991a-d602f818bd5c,coverage.pet,resell,,,high,low,8,Porkbun LLC,06/01/2026 05:08,06/01/2027 05:08,
 c86ab2a5-dd93-4239-b333-74f0e51654d1,coverage.republican,available,5.99,28.99,high,low,8,namesilo,,,
 43ae808d-4bfa-4b57-b5ad-3ebc5987f1c3,coverage.democrat,available,9.99,,high,low,8,name.com,,,
-1ba9ce87-43be-4073-9db2-7f8988284f8f,coverage.channel,premium,73.75,,high,low,8,name.com,,,
-729b8a3e-ad39-41e0-b0b9-901c8f9dc2d8,coverage.webcam,premium,625,,high,low,8,name.com,,,
-0adabede-3caf-4c2f-83ba-d47b5b962e3a,policy.democrat,premium,118.8,118.8,high,low,6,namesilo,,,
-cf300a64-3dfc-4b5d-8063-eb5292872f26,policy.republican,premium,118.8,118.8,high,low,6,namesilo,,,
+84ad9049-0ee1-4aa3-b5f5-a2fd9ec974c7,superior.gmbh,available,45.99,45.99,high,low,8,namesilo,,,21/08/2026 09:12
+229ee283-6d38-4ad6-8a43-1c62a27d69bd,claim.deals,resell,,,high,low,5,"Sav.com, LLC",22/06/2026 14:31,22/06/2027 14:31,24/09/2026 07:46
+cbcf9426-0112-4629-8f94-f6694a4e5ecb,policies.xxx,available,69.98,154.98,medium,low,8,namecheap,,,04/09/2026 07:55
+cb5a19a9-b169-473c-85a3-2b0f10d55389,coverage.online,premium,781.25,,high,low,8,name.com,,,
+cac82b98-a796-405e-96b9-ea2f6a8b89cd,risk.support,resell,,,high,low,4,IONOS SE,29/11/2015 19:54,29/11/2026 19:54,08/09/2026 12:49
+c6433c7e-9787-47b6-a868-510e93ef2220,pet.locker,premium,6250,37.5,high,medium,3,name.com,,,09/08/2026 17:52
+bbcf52b2-7f72-412c-8a5b-e22a6748fdfb,pet.church,resell,,,high,medium,3,Porkbun LLC,30/07/2022 12:55,30/07/2027 12:55,09/08/2026 17:52
+32605b09-64b2-4426-b62a-c887c46e4785,pet.makeup,premium,812.5,812.5,high,medium,3,name.com,,,09/08/2026 17:52
+dd74feb7-b00f-44e0-b212-a98059ab3da5,superior.university,premium,242,242,high,low,8,namesilo,,,21/08/2026 09:12
+7381560a-3b8c-4b62-bf6d-2555f12a485a,pet.cooking,premium,100,46.99,high,medium,3,name.com,,,09/08/2026 17:52
+12a32fe1-b23e-4c3e-9973-9c365d35b4d2,superior.moe,available,13.99,13.99,high,low,8,namesilo,,,21/08/2026 09:12
+34c9d0cc-7f58-42dc-902e-2e5eddfd1b41,insured.network,resell,,,high,low,7,Dynadot Inc,10/08/2024 17:36,10/08/2027 17:36,22/08/2026 07:42
+bc94a021-448d-49c7-b2a1-0113d61701da,insured.insure,premium,242,242,high,low,7,namesilo,,,22/08/2026 07:42
 25b3a87f-a64f-4b1b-9215-38f2ead4d9ca,coverage.dog,available,5.99,,high,low,8,name.com,,,
 aaa79a0c-9254-4cca-84f6-925fce4967fc,coverage.horse,available,32.49,32.49,high,low,8,namesilo,,,
 cb0a91f5-6b36-4255-9244-18ae3206f306,coverage.vet,available,41.99,41.99,high,low,8,namesilo,,,
 17f00da0-7590-4145-a71a-67fc6d1cbaaa,coverage.cloud,premium,112,140,high,low,8,namecheap,,,
+b66d1292-dc93-4ff2-b7a4-bc179fa3eae0,auto.realty,available,99.8,456.98,high,medium,4,namecheap,,,24/09/2026 08:23
+dfef03a9-873f-4605-a2a4-04b4d40e2e40,insured.place,available,22.49,22.49,high,low,7,namesilo,,,22/08/2026 07:42
 cd807f78-7530-4c28-926f-bfb865efdb33,coverage.it,resell,,,high,low,8,,12/09/2011 08:29,13/09/2026 00:00,
-9cf954c4-ef80-4a33-b0bc-2b5757e064eb,policy.co,resell,,,high,low,6,"GoDaddy.com, LLC",23/04/2010 07:09,22/04/2027 23:59,
+7565560d-0846-4b44-bf65-2f0ea6e3e6d5,deductible.immobilien,available,14.99,48.99,high,low,10,name.com,,,13/08/2026 22:27
+9181ea79-8e25-4fad-86e3-a31727bc7264,superior.today,resell,,,high,low,8,"Sav.com, LLC",08/01/2026 18:13,08/01/2027 18:13,21/08/2026 09:12
+4e7158da-562f-4526-a1a0-82b43bbacc7e,pet.tennis,available,67.98,81.98,high,medium,3,namecheap,,,09/08/2026 17:52
 51d6f4f0-2d8d-4b5d-90a8-466246887602,coverage.day,premium,73.75,,high,low,8,name.com,,,
 f2c7bfd7-647f-4b7d-be9c-1452610d141c,coverage.stream,premium,437.5,,high,low,8,name.com,,,
-446842de-a644-4d17-8dac-1118510076f0,coverage.email,available,9.99,,high,low,8,name.com,,,
+1ba9ce87-43be-4073-9db2-7f8988284f8f,coverage.channel,premium,73.75,,high,low,8,name.com,,,
+729b8a3e-ad39-41e0-b0b9-901c8f9dc2d8,coverage.webcam,premium,625,,high,low,8,name.com,,,
 c80bf720-cad0-4791-9ecc-00629c72156d,coverage.tube,available,23.99,23.99,high,low,8,namesilo,,,
 bc33e29f-39ab-42bd-b075-0d9d39f2fe16,coverage.cam,available,8.99,17.49,high,low,8,namesilo,,,
 327f6f74-da12-43fa-9e4d-d5de1165bee1,coverage.me,resell,,,high,low,8,Dynadot Inc,02/02/2015 05:08,02/02/2027 05:08,
 e6a9c280-ed87-498a-b7d9-72730976d602,coverage.video,premium,69.3,138.6,high,low,8,namecheap,,,
-23453d3c-ef6e-4424-baec-52a55b11dcd2,policy.expert,premium,1040,1040,high,low,6,namecheap,,,
-bc94a021-448d-49c7-b2a1-0113d61701da,insured.insure,premium,242,242,high,low,7,namesilo,,,22/08/2026 07:42
+abfef3b9-b09b-4da6-a15c-c6ce5ba6a101,deductible.fit,available,2.98,45.98,high,low,10,namecheap,,,13/08/2026 22:27
+190c5b34-8bdd-4b53-ac7f-6ca0e527521a,insured.bike,available,5.98,48.98,high,low,7,namecheap,,,22/08/2026 07:42
+0adabede-3caf-4c2f-83ba-d47b5b962e3a,policy.democrat,premium,118.8,118.8,high,low,6,namesilo,,,
+cf300a64-3dfc-4b5d-8063-eb5292872f26,policy.republican,premium,118.8,118.8,high,low,6,namesilo,,,
+1cb51fdb-93f5-436e-99f0-0d73f8d9c5e3,deductible.ing,available,12.98,16.98,high,low,10,namecheap,,,13/08/2026 22:27
+3e041106-0b14-4d04-bdae-cd1ad87d1618,superior.hair,premium,812.5,812.5,high,low,8,name.com,,,21/08/2026 09:12
+856a959d-1e0f-4b98-a677-5efdf7d935dd,superior.soy,available,24.99,24.99,high,low,8,name.com,,,21/08/2026 09:12
+252aa409-4bd0-4e34-8062-566d57b6cc51,insured.pizza,available,5.98,83.98,high,low,7,namecheap,,,22/08/2026 07:42
+0e519cff-3cdb-4239-9ef7-0f198527afbe,insured.attorney,available,62.99,62.99,high,low,7,namesilo,,,22/08/2026 07:42
+4272aec3-3a82-429f-8936-edd8f4e87426,superior.jewelry,premium,118.8,118.8,high,low,8,namesilo,,,21/08/2026 09:12
+678d6b80-db5c-4961-8312-1b766525a963,deductible.giving,available,5.99,40.99,high,low,10,name.com,,,13/08/2026 22:27
+5bb97019-d73a-448c-823e-59a44e318f03,deductible.xxx,available,69.98,154.98,high,low,10,namecheap,,,13/08/2026 22:27
+d815ac15-d839-4713-aa62-27ab63b10a6f,insured.love,available,4.98,38.98,high,low,7,namecheap,,,22/08/2026 07:42
+197ac013-52d6-430f-829a-618c97a8e5c9,pet.link,resell,,,high,medium,3,"Dynadot, LLC",05/03/2020 23:20,05/03/2027 23:20,09/08/2026 17:52
+f623a916-9f83-4998-b326-1c4b58405185,pet.cafe,resell,,,high,medium,3,"Spaceship, Inc.",02/07/2025 15:15,02/07/2027 15:15,09/08/2026 17:52
+9cf954c4-ef80-4a33-b0bc-2b5757e064eb,policy.co,resell,,,high,low,6,"GoDaddy.com, LLC",23/04/2010 07:09,22/04/2027 23:59,
+3c70e366-3aca-49c8-8394-3227f7b5da7a,deductible.pet,available,6.98,35.98,high,low,10,namecheap,,,13/08/2026 22:27
+a60f58c1-c07d-4632-9609-ac4d758e10c2,pet.sucks,premium,2728.7,2728.7,high,medium,3,namecheap,,,09/08/2026 17:52
+34332f50-8851-4545-b010-9abea45abde1,pet.lgbt,available,11.98,93.98,high,medium,3,namecheap,,,09/08/2026 17:52
+446842de-a644-4d17-8dac-1118510076f0,coverage.email,available,9.99,,high,low,8,name.com,,,
 b7f9216d-5dc2-4c0a-b018-d5e2e832f795,coverage.jetzt,available,9.99,,high,low,8,name.com,,,
 92098481-db33-4c01-932a-99e838bbb867,coverage.xyz,resell,,,high,low,8,"Go Daddy, LLC",06/06/2014 03:01,06/06/2027 23:59,
-ffdb28c3-4be5-4ade-ab59-5ba622f50ecd,premium.store,premium,1562.5,,high,low,7,name.com,,,
-4f26a5d6-bb4c-43cc-a443-9ddd3055b9ef,policy.financial,available,29.99,,high,low,6,name.com,,,
-e1e111d3-92b1-4eb3-889c-e9689d78c5a8,policy.investments,available,14.99,,high,low,6,name.com,,,
-823a7609-0c3b-4f8d-8b09-f608014c941c,policy.loan,premium,116,29.5,high,low,6,namesilo,,,
+253cad76-ddfe-4b49-9dbb-4183e4b8e81b,pet.tickets,available,393.98,568,high,medium,3,namecheap,,,09/08/2026 17:52
+13fb181a-0ee6-45f0-93ba-fea37747d9a1,insured.pw,resell,,,high,low,7,"GoDaddy.com, LLC",31/05/2026 00:33,31/05/2027 00:33,22/08/2026 07:42
+16915493-4623-4ce6-9ec4-5e818c3d7b57,insure.ltd,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",05/09/2017 08:18,05/09/2027 08:18,24/09/2026 04:18
+3f38ac1c-a0cd-4702-8166-79847148fa32,insured.recipes,available,5.48,95.98,high,low,7,namecheap,,,22/08/2026 07:42
+4a3a8b19-9574-4b18-b4d3-798180399bde,insured.engineering,available,10.48,85.98,high,low,7,namecheap,,,22/08/2026 07:42
+8e520500-236f-44e8-82d4-92aa74f78943,insured.properties,available,10.99,50.99,high,low,7,name.com,,,22/08/2026 07:42
+23453d3c-ef6e-4424-baec-52a55b11dcd2,policy.expert,premium,1040,1040,high,low,6,namecheap,,,
+b4a3b7e6-3892-4d75-a6b9-21e2793ccd75,deductible.hiphop,available,23.99,23.99,high,low,10,namesilo,,,13/08/2026 22:27
+7101cc8d-ecda-41e5-9916-8ae732407028,pet.market,premium,1250,1250,high,medium,3,name.com,,,09/08/2026 17:52
+ac73564a-42d7-424f-8780-b9d92150e169,superior.design,premium,422.5,845,high,low,8,namecheap,,,21/08/2026 09:12
+20b932e7-2a4f-4fe6-ba56-fd65d4228930,superior.vodka,premium,242,29.5,high,low,8,namesilo,,,21/08/2026 09:12
+53f5db11-c856-47e9-8662-ce93985698ca,superior.ceo,premium,499,499,high,low,8,name.com,,,21/08/2026 09:12
+c1811857-ea70-4a0b-9efe-d6b118265aad,deductible.feedback,available,9.98,489.98,high,low,10,namecheap,,,13/08/2026 22:27
 c70a6514-5eb7-4d1e-ac96-f34a98294e15,coverage.consulting,available,26.99,,high,low,8,name.com,,,
-7bfab751-c260-46b8-b325-aac373e950c6,premium.claims,available,19.99,,high,low,7,name.com,,,
+a9656ba1-cea1-471d-b503-5820b5170a03,insured.education,available,34.99,34.99,high,low,7,namesilo,,,22/08/2026 07:42
+3f869a17-6aa0-41c7-9085-ac40798567c1,insured.website,available,0.98,20.98,high,low,7,namecheap,,,22/08/2026 07:42
+7d6a0b2d-b235-4dba-863d-0f42b02791b6,actuarial.mobile,available,22.98,26.98,high,low,9,namecheap,,,
+3e0632ff-a3e8-4908-a58c-370d50852ac6,pet.melbourne,premium,440.94,440.94,high,medium,3,name.com,,,09/08/2026 17:52
+e7e08f4a-9a13-4c8f-82ba-97552b151a7c,deductible.my,available,2.98,38.98,high,low,10,namecheap,,,13/08/2026 22:27
+0e0afc1d-e218-4218-a69a-5a10bbe13120,pet.marketing,premium,82.5,82.5,high,medium,3,name.com,,,09/08/2026 17:52
+98d1d678-f654-4760-922f-04b6ceb885ce,guarantee.shop,premium,2500,,high,low,9,name.com,,,
 0ab74939-03cd-4e17-88b4-f226b64fd29d,coverage.download,premium,116,29.5,high,low,8,namesilo,,,
 4b76a221-ee99-44aa-8b59-ac61f2bd64c8,coverage.city,available,7.99,,high,low,8,name.com,,,
 dadc66d2-beb2-47ca-9680-7382c03ba317,coverage.sucks,available,218.99,218.99,high,low,8,namesilo,,,
 18f1cacd-cc72-4721-8646-55c21f14c3b0,coverage.review,premium,1107,116,high,low,8,namesilo,,,
 8b2f6a41-90a9-436d-b1a9-6c5fb111a691,coverage.now,resell,,,high,low,8,Gandi SAS,03/11/2024 02:10,03/11/2026 02:10,
 e10b048b-fa02-49d2-a7bd-4b95accab0f9,coverage.country,available,2450,,high,low,8,namecheap,,,
-560bcca0-bd40-40ac-8242-1c56bc8030d2,coverage.foo,premium,73.75,,high,low,8,name.com,,,
-a8b84035-249c-4c9f-8c0b-c71d1b00669f,coverage.fail,available,14.99,,high,low,8,name.com,,,
 ea1b6ab2-0efc-4d56-a8c2-49c39ea68cda,coverage.gripe,available,6.99,6.99,high,low,8,namesilo,,,
 c3f2414e-5d4c-453e-af50-7e61c03734a5,coverage.exposed,available,22.49,22.49,high,low,8,namesilo,,,
+8cabf0d5-83a3-45a3-871e-548a34b5aab6,superior.army,available,17.48,48.98,high,low,8,namecheap,,,21/08/2026 09:12
+607013e9-0bef-476e-93cd-2a6d5fb6679d,deductible.bet,available,8.98,35.98,high,low,10,namecheap,,,13/08/2026 22:27
+903c16b5-3452-4c57-9f65-d276b37c97d6,pet.gratis,premium,26,26,high,medium,3,namecheap,,,09/08/2026 17:52
+c1508bca-e4ec-43f2-8a7f-1ce418349cb2,insured.rip,available,7.99,29.99,high,low,7,name.com,,,22/08/2026 07:42
 eb1f8b44-6a87-4d47-bc49-659859eb349c,coverage.management,available,14.99,,high,low,8,name.com,,,
+8857e754-1e5a-434a-9ad1-2c6d200951bb,superior.beauty,premium,812.5,812.5,high,low,8,name.com,,,21/08/2026 09:12
 dc786088-7a5e-4c11-94b1-863d466a1e00,coverage.llc,available,19.99,,high,low,8,name.com,,,
+76a8fec3-393d-4127-8b22-52e09a417b1e,pet.rodeo,premium,100,16.99,high,medium,3,name.com,,,09/08/2026 17:52
+3c1a3f25-2d0c-47ec-b050-265486ee4524,pet.loan,premium,625,81.25,high,medium,3,name.com,,,09/08/2026 17:52
+2cfe3399-370d-493e-80c8-89f55ce378df,deductible.rip,available,7.99,29.99,high,low,10,name.com,,,13/08/2026 22:27
 29003457-9a60-4986-a177-5ba54f979e23,coverage.xxx,available,154.98,,high,low,8,namecheap,,,
 bef64edf-d170-4655-8a37-ff3a5262397c,coverage.sexy,available,2749.99,2749.99,high,low,8,namesilo,,,
 740b722a-1ad2-474e-a105-5e1abbeea774,coverage.adult,available,166.98,,high,low,8,namecheap,,,
 17879bbf-5997-4a81-82b2-85a2fb38dfbd,coverage.sex,available,154.98,,high,low,8,namecheap,,,
 dd2b98a8-f4c3-4983-a4d0-70e0bb34c706,coverage.porn,available,154.98,,high,low,8,namecheap,,,
-3185ec85-122b-412d-907b-8c9b633a761f,coverage.build,premium,1875,,high,low,8,name.com,,,
-6503917d-1a60-49ea-86d7-c51deebd0567,coverage.builders,available,7.99,,high,low,8,name.com,,,
-a137f96a-bee0-4c6a-b4d2-57d8e0690b50,coverage.construction,available,15.99,,high,low,8,name.com,,,
+72b1a102-f73f-4c40-bb98-bb525f4227f1,superior.dog,available,5.98,86.98,high,low,8,namecheap,,,21/08/2026 09:12
 f865eafb-0127-43af-9d02-e0f578997e91,coverage.forex,available,19.99,,high,low,8,name.com,,,
 5d764221-5691-4508-8927-1572ee103f9e,coverage.markets,available,9.99,,high,low,8,name.com,,,
-c960f40d-790a-4493-8ff4-ffbc0f64c98c,policy.pro,resell,,,high,low,6,Unstoppable Domains Inc,01/08/2009 02:44,01/08/2027 00:00,
-789e9ccd-3593-4d7b-8bba-6cc2f40cdc57,policy.finance,premium,118.8,118.8,high,low,6,namesilo,,,
+6413709d-2797-4553-b462-3d6baa394819,deductible.best,available,2.28,29.98,high,low,10,namecheap,,,13/08/2026 22:27
+27a5886e-0aa0-4255-9e05-336065265ada,insured.nexus,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 07:42
+4f26a5d6-bb4c-43cc-a443-9ddd3055b9ef,policy.financial,available,29.99,,high,low,6,name.com,,,
+e1e111d3-92b1-4eb3-889c-e9689d78c5a8,policy.investments,available,14.99,,high,low,6,name.com,,,
+823a7609-0c3b-4f8d-8b09-f608014c941c,policy.loan,premium,116,29.5,high,low,6,namesilo,,,
 e5d71362-baab-45f2-a50b-e1ac8b55a6cf,coverage.domains,available,19.99,,high,low,8,name.com,,,
+52a0b05f-a55d-4745-a18f-9ab74d359889,deductible.tires,available,5.99,78.99,high,low,10,namesilo,,,13/08/2026 22:27
+f504b01b-5e7d-490c-a8c4-1e40aab9cb5c,pet.foo,premium,73.75,73.75,high,medium,3,name.com,,,09/08/2026 17:52
+df943612-ea8c-4c35-b8f3-8dafa9bdf79c,insured.lol,available,1.8,40.98,high,low,7,namecheap,,,22/08/2026 07:42
 aa2782c5-5383-470b-911b-63e7fe6c2ba9,coverage.homes,premium,812.5,,high,low,8,name.com,,,
 55f9d344-14bc-4d91-9bff-b810e6d47ac5,coverage.maison,available,19.99,,high,low,8,name.com,,,
 608afaeb-ee10-44e3-8eff-25dbd0d2a15f,coverage.casa,premium,47.2,11.8,high,low,8,namesilo,,,
 7be5f696-bf41-4128-ab70-bbdee53c71e7,coverage.house,resell,,,high,low,8,"GoDaddy.com, LLC",13/11/2020 03:51,13/11/2026 03:51,
+7fddce50-0495-4b92-98ec-a70e6db6adef,deductible.airforce,available,103.99,103.99,high,low,10,namesilo,,,13/08/2026 22:27
+022dc08e-3aa5-4395-a244-d1ee3ff05451,insured.flowers,available,64.99,114.99,high,low,7,namesilo,,,22/08/2026 07:42
+f75ce290-fac8-427d-b4ea-75d4ac453c7c,pet.events,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+12789ad4-ba3c-4990-90c2-1052ec90c699,superior.barcelona,available,38.98,38.98,high,low,8,namecheap,,,21/08/2026 09:12
+80b39606-6a8d-4a53-afe7-2436f0150b0d,insured.watch,available,3.48,56.98,high,low,7,namecheap,,,22/08/2026 07:42
 0fb60c7c-2d31-414f-b539-807e79ca6525,coverage.limited,available,14.99,,high,low,8,name.com,,,
 40d3c90c-e813-4fda-8e81-aa931baaaae6,coverage.ltda,available,34.99,34.99,high,low,8,namesilo,,,
-f69009f3-de6c-4707-a3c0-880a68d98608,coverage.ltd,available,9.99,,high,low,8,name.com,,,
 35baf276-0f80-438f-a2a0-0f2709cd1533,coverage.holdings,available,64.99,64.99,high,low,8,namesilo,,,
 dfcda9be-f662-4a49-8854-ce0416c8e06c,coverage.gmbh,available,45.99,45.99,high,low,8,namesilo,,,
 ea3f1b91-f938-4c5c-b7a5-867c98b64d41,coverage.inc,premium,2061.5,2660,high,low,8,namesilo,,,
@@ -409,60 +914,84 @@ ce5a1e2a-c2e7-4ecc-9999-230676300bac,coverage.rentals,available,14.99,,high,low,
 f8fd2659-99c4-4210-9240-f1930e750cbd,coverage.place,available,22.49,22.49,high,low,8,namesilo,,,
 0960f8a5-0dfd-4036-b4cc-bc3873f9ab35,coverage.realty,available,109.99,299,high,low,8,namesilo,,,
 6d83e4d2-4afc-45c7-9973-656a17e786cd,coverage.land,available,19.99,,high,low,8,name.com,,,
+68792957-0be4-4d0f-9e23-11450490e7e1,insured.design,available,3.98,68.98,high,low,7,namecheap,,,22/08/2026 07:42
 d599b5c2-1e3b-420c-ac0d-52685ab633a0,coverage.town,available,,,high,low,8,,,,
 a26da566-5c5e-4ac0-96b3-6f0863bab30c,coverage.software,available,19.99,,high,low,8,name.com,,,
 28aad2ce-5056-4be0-9a06-b605d4b0d602,coverage.restaurant,available,29.99,,high,low,8,name.com,,,
-8e120e39-c489-4a3a-9e88-9e68ef85b5e2,coverage.engineering,available,11.99,,high,low,8,name.com,,,
 798ce007-339f-4e1a-aaed-cfdb3f5b9c8c,coverage.menu,available,27.99,27.99,high,low,8,namesilo,,,
 de03e637-ed40-4fba-859a-5100573323fb,coverage.help,resell,,,high,low,8,Dynadot LLC,20/11/2025 15:57,20/11/2026 23:59,
 5fa65709-cd4e-4e60-8a3f-0372a87ae479,coverage.codes,available,11.99,,high,low,8,name.com,,,
 3d35d18c-22fd-405f-8182-feca080702d9,coverage.lgbt,available,19.99,,high,low,8,name.com,,,
-c49aa51f-77fd-43b4-97f1-d3b6aac8d102,coverage.photography,available,9.99,,high,low,8,name.com,,,
 ced6b9a4-424a-4065-8909-ff9586912a22,coverage.support,available,11.99,,high,low,8,name.com,,,
 25d4f259-36f4-4405-919b-b71c80fc1b09,coverage.wiki,available,2.99,32.49,high,low,8,namesilo,,,
 dd8e0caf-6b9c-4a63-a5b1-0fb5bee98c1a,coverage.science,premium,116,29.5,high,low,8,namesilo,,,
-bfd3a9f8-73a1-42f9-9973-bd7c0e5bdcb0,coverage.gallery,available,28.99,28.99,high,low,8,namesilo,,,
 8ee5065a-9bfb-482f-b7f1-2286de6898c3,coverage.rest,available,2.19,28.99,high,low,8,namesilo,,,
-7b559d6b-deee-4d80-a2ae-a75cac8b44d2,coverage.photo,available,29.99,29.99,high,low,8,namesilo,,,
-5ecb2bf5-f8f3-4375-bcd1-9f76baf85577,coverage.graphics,available,23.99,23.99,high,low,8,namesilo,,,
 96aafa87-d0e5-476e-b893-84bfebe7d6c0,coverage.movie,available,69.99,,high,low,8,name.com,,,
-d6c26665-8441-4241-b3af-2337c8edd6ce,coverage.pics,available,1.99,32.49,high,low,8,namesilo,,,
+560bcca0-bd40-40ac-8242-1c56bc8030d2,coverage.foo,premium,73.75,,high,low,8,name.com,,,
+a8b84035-249c-4c9f-8c0b-c71d1b00669f,coverage.fail,available,14.99,,high,low,8,name.com,,,
 e00f3f23-f34a-45d0-b751-5e843fb643fd,coverage.film,available,65.99,65.99,high,low,8,namesilo,,,
 d892198d-5a2d-435f-be6a-a7c0155a6cb6,coverage.gay,available,38.99,38.99,high,low,8,namesilo,,,
 a9955723-96d2-41ea-bc4f-8193a4446400,coverage.mov,premium,73.75,,high,low,8,name.com,,,
 51d259df-6868-4548-8d71-f47e2d7fa353,coverage.camera,available,21.99,,high,low,8,name.com,,,
-3a62387f-18e1-4198-beee-136cd141c4cb,coverage.photos,available,14.99,,high,low,8,name.com,,,
-fee1a628-e9f3-48bd-bd2b-f82cf87ff9d0,coverage.engineer,available,13.99,,high,low,8,name.com,,,
-fc67b742-1b1c-48d8-8160-389a578a6efa,coverage.pictures,available,9.99,,high,low,8,name.com,,,
 7c3dda25-378f-44c5-bb70-2fe5ff26abd0,coverage.living,available,5.49,39.99,high,low,8,namesilo,,,
 9e8ffeb3-edfb-48bb-a462-2688d85c18c7,coverage.lifestyle,available,5.49,39.99,high,low,8,namesilo,,,
+56e5a897-8311-4e3b-85de-1b7affa0dc68,deductible.download,available,5.25,6.25,high,low,10,namesilo,,,13/08/2026 22:27
+5594413a-f7b7-48bb-9df4-f6d60b1128f6,pet.plumbing,available,14.99,94.99,high,medium,3,name.com,,,09/08/2026 17:52
 6b7931ab-043b-4ea3-aebc-0d2362ce7ca1,coverage.legal,premium,118.8,118.8,high,low,8,namesilo,,,
 24773d84-26c7-459d-b4f9-d2ea8eba544e,coverage.esq,premium,111.25,,high,low,8,name.com,,,
+7607621a-f93e-4d0c-a01b-025e24653eac,insured.archi,available,14.98,132.98,high,low,7,namecheap,,,22/08/2026 07:42
 f5b3208f-18a3-49ea-8055-8e34be4ebef5,coverage.beer,available,2.19,32.49,high,low,8,namesilo,,,
 a8c9bae0-9cac-46ae-b8a5-72a6b9fef100,coverage.wine,available,9.99,,high,low,8,name.com,,,
 5f3cd02a-75e9-40d3-b8ba-df885ee213ea,coverage.bar,premium,157.5,,high,low,8,name.com,,,
 74f15dc4-53f8-4b1f-a7b0-3c5c9826f5ef,coverage.pub,available,39.99,39.99,high,low,8,namesilo,,,
 818790a2-7956-4c75-bf39-5c9965e94ce3,coverage.vodka,available,32.49,32.49,high,low,8,namesilo,,,
 e9fbe19e-0d7f-43cf-a02b-875b44f217d0,coverage.vin,available,11.99,,high,low,8,name.com,,,
+e422b6a9-b748-45cd-b515-4af981ee445d,insured.cab,available,23.99,43.99,high,low,7,name.com,,,22/08/2026 07:42
+a7c19bc4-e73f-4300-a1d3-607eafd49438,deductible.art,available,3.19,23.99,high,low,10,namesilo,,,13/08/2026 22:27
 49dc5e1c-049f-4bd3-ab04-37a4513cf017,coverage.vip,premium,218.75,,high,low,8,name.com,,,
 1bacaf6d-b3ff-4adb-ac8e-a8aa6357b512,coverage.rich,available,94.99,1999,high,low,8,namesilo,,,
+ffdb28c3-4be5-4ade-ab59-5ba622f50ecd,premium.store,premium,1562.5,,high,low,7,name.com,,,
 49b638ab-c5bd-48a4-93dc-0d1fb19a2a25,coverage.limo,available,19.99,,high,low,8,name.com,,,
 fa8e97d8-c2c2-4c9c-bf36-923cc3393db4,coverage.bond,available,1.88,14.95,high,low,8,namesilo,,,
+3185ec85-122b-412d-907b-8c9b633a761f,coverage.build,premium,1875,,high,low,8,name.com,,,
+6503917d-1a60-49ea-86d7-c51deebd0567,coverage.builders,available,7.99,,high,low,8,name.com,,,
+a137f96a-bee0-4c6a-b4d2-57d8e0690b50,coverage.construction,available,15.99,,high,low,8,name.com,,,
 8bf1286e-4d80-4c86-ad08-2cda4c97b3b2,coverage.tienda,available,9.99,,high,low,8,name.com,,,
 b4bf6d89-b096-4c29-8588-69e304aa7946,coverage.shopping,available,14.99,,high,low,8,name.com,,,
 5c227404-db9c-4391-acae-eb3893890045,coverage.boutique,available,6.99,,high,low,8,name.com,,,
+6b33b094-5250-4000-a91a-a5e4abb71de5,pet.villas,premium,250,250,high,medium,3,name.com,,,09/08/2026 17:52
+4cc05f0f-352c-45bc-8594-e541d64ba5e1,insured.estate,available,6.98,52.98,high,low,7,namecheap,,,22/08/2026 07:42
 96857315-eb7a-4d6b-b241-0204c951c476,coverage.haus,available,19.99,,high,low,8,name.com,,,
 85fb554f-f232-4e2f-99ea-312d2540c0e5,coverage.vision,premium,78.54,78.54,high,low,8,namesilo,,,
+c960f40d-790a-4493-8ff4-ffbc0f64c98c,policy.pro,resell,,,high,low,6,Unstoppable Domains Inc,01/08/2009 02:44,01/08/2027 00:00,
+789e9ccd-3593-4d7b-8bba-6cc2f40cdc57,policy.finance,premium,118.8,118.8,high,low,6,namesilo,,,
+0f98fee6-a427-4e3c-9fbf-fc6088d1c292,pet.holiday,available,9.99,83.99,high,medium,3,name.com,,,09/08/2026 17:52
+9b8b698d-6693-4c8e-99e1-d26534be11a9,insured.cool,available,5.98,50.98,high,low,7,namecheap,,,22/08/2026 07:42
 a9c754cc-7bcc-4925-b033-ee43513f47cd,coverage.ceo,available,10.19,109.99,high,low,8,namesilo,,,
 504a1986-24d8-486a-97dc-c281618ada75,coverage.win,premium,437.5,,high,low,8,name.com,,,
-76542320-18bf-424d-bcaa-ada8c4a17080,coverage.services,resell,,,high,low,8,"GoDaddy.com, LLC",07/01/2026 10:22,07/01/2027 10:22,
+cc3d43ff-0192-41eb-819a-10e19086329b,insured.ink,available,2.98,43.98,high,low,7,namecheap,,,22/08/2026 07:42
 c928b4ba-6821-474b-a431-20dad2290023,coverage.systems,available,21.99,,high,low,8,name.com,,,
+2476ad03-7dde-4fd3-87a3-031cb4063a03,insured.mov,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 07:42
 19763822-c391-432d-bed5-34fd48f18e29,coverage.mba,available,19.99,,high,low,8,name.com,,,
 fad7aa0c-2fb7-4098-9eeb-621576618f7c,coverage.mortgage,premium,242,242,high,low,8,namesilo,,,
 3d85a332-704c-425b-a0b7-3246230618ae,coverage.business,premium,118.8,118.8,high,low,8,namesilo,,,
+9556046f-d33b-45ad-80c1-41fc7b1353a6,deductible.boston,available,23.49,23.49,high,low,10,namesilo,,,13/08/2026 22:27
 50a0805b-5fed-43af-b465-237568e19ba5,coverage.wedding,premium,242,29.5,high,low,8,namesilo,,,
+46f19a44-80fd-4ef5-a72c-db63852bb026,insured.agency,available,4.98,41.98,high,low,7,namecheap,,,22/08/2026 07:42
+659da7c1-5364-4285-83ba-95b7338e79dd,superior.actor,available,9.48,54.98,high,low,8,namecheap,,,21/08/2026 09:12
+f69009f3-de6c-4707-a3c0-880a68d98608,coverage.ltd,available,9.99,,high,low,8,name.com,,,
 a4cd3ab5-f242-4933-ad89-bdc31c182f10,coverage.archi,available,24.99,,high,low,8,name.com,,,
 1c6349c0-182e-436c-8030-8504cad26d04,coverage.catering,available,38.99,38.99,high,low,8,namesilo,,,
+8e120e39-c489-4a3a-9e88-9e68ef85b5e2,coverage.engineering,available,11.99,,high,low,8,name.com,,,
+c49aa51f-77fd-43b4-97f1-d3b6aac8d102,coverage.photography,available,9.99,,high,low,8,name.com,,,
+bfd3a9f8-73a1-42f9-9973-bd7c0e5bdcb0,coverage.gallery,available,28.99,28.99,high,low,8,namesilo,,,
+7b559d6b-deee-4d80-a2ae-a75cac8b44d2,coverage.photo,available,29.99,29.99,high,low,8,namesilo,,,
+5ecb2bf5-f8f3-4375-bcd1-9f76baf85577,coverage.graphics,available,23.99,23.99,high,low,8,namesilo,,,
+d6c26665-8441-4241-b3af-2337c8edd6ce,coverage.pics,available,1.99,32.49,high,low,8,namesilo,,,
+3a62387f-18e1-4198-beee-136cd141c4cb,coverage.photos,available,14.99,,high,low,8,name.com,,,
+fee1a628-e9f3-48bd-bd2b-f82cf87ff9d0,coverage.engineer,available,13.99,,high,low,8,name.com,,,
+fc67b742-1b1c-48d8-8160-389a578a6efa,coverage.pictures,available,9.99,,high,low,8,name.com,,,
+c7a492f1-3318-4280-b1b5-d89551fbd7ce,superior.democrat,available,5.98,41.48,high,low,8,namecheap,,,21/08/2026 09:12
 8ef53708-4f1c-4cab-9d31-9cea798c28ef,coverage.party,premium,437.5,,high,low,8,name.com,,,
 1c079ee3-5ebd-47dc-ae60-f9855d7f8c6b,coverage.casino,available,12.79,159.99,high,low,8,namesilo,,,
 caba6eb0-c1b4-4b3f-9d22-c28d1e87591f,coverage.bingo,available,14.99,,high,low,8,name.com,,,
@@ -470,532 +999,3 @@ caba6eb0-c1b4-4b3f-9d22-c28d1e87591f,coverage.bingo,available,14.99,,high,low,8,
 c7aa8518-d299-4635-8095-0cd70b0663be,coverage.events,available,21.99,,high,low,8,name.com,,,
 da28b992-a14e-4989-b2b2-86061568ffba,coverage.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 75b5e796-7d09-4283-8d08-c920d8cad8d9,coverage.tax,available,14.99,,high,low,8,name.com,,,
-b26f4c0b-cd8c-4318-bf0f-0eee5be3cdb2,coverage.rsvp,premium,73.75,,high,low,8,name.com,,,
-a4dc93f5-39c2-4c20-a9aa-623f200f0ef3,policy.store,premium,312.5,,high,low,6,name.com,,,
-235079e3-b65f-46b6-a60b-646810bf5a4c,coverage.charity,available,5.99,,high,low,8,name.com,,,
-36f6358b-7988-4f10-8461-f82e9b06b326,coverage.ngo,available,16.99,,high,low,8,name.com,,,
-b3d5a00e-ad9f-4cde-844c-e8f6fc8553ab,coverage.foundation,available,5.99,,high,low,8,name.com,,,
-d640e3d0-23c1-4042-9461-6f892fbd018d,coverage.ong,available,16.99,,high,low,8,name.com,,,
-2ff6eb4a-a1cc-4f22-8403-1735686e31bb,coverage.airforce,available,103.99,103.99,high,low,8,namesilo,,,
-0bb5672c-dba5-47ac-9cbc-9562c3780ce2,coverage.army,available,19.99,,high,low,8,name.com,,,
-a6b662f8-829c-4c02-b69b-1f91222f183d,coverage.navy,available,41.99,41.99,high,low,8,namesilo,,,
-bae3be78-ff78-44e1-b7f5-e40457a6ddbf,coverage.healthcare,available,88.99,88.99,high,low,8,namesilo,,,
-78a1d354-0839-4581-a76c-6eaed494bb33,coverage.vacations,available,9.99,,high,low,8,name.com,,,
-c69b26bd-3126-41f3-a36f-9b0e14b30e7b,coverage.viajes,available,37.99,37.99,high,low,8,namesilo,,,
-8d1b97a4-73ab-472b-a104-2c9aaf8dcb0a,coverage.flights,available,58.99,58.99,high,low,8,namesilo,,,
-b8dcc4d9-196d-417a-b4a4-00cf166a7603,coverage.holiday,available,9.99,,high,low,8,name.com,,,
-4fff6160-1d61-4b8f-a76e-effd9c6d8933,coverage.tours,available,9.99,,high,low,8,name.com,,,
-0b73b991-7813-4246-be46-295c7456f7aa,coverage.reise,available,27.89,97.99,high,low,8,namesilo,,,
-48ec819b-01ed-4024-9572-caf322e1dad1,coverage.travel,available,39.99,,high,low,8,name.com,,,
-e4ae18c0-14ea-4bd1-a819-72fa23c582df,coverage.voyage,available,9.99,,high,low,8,name.com,,,
-4d8c261b-af65-4bc9-8dc6-601ddad3a2ad,coverage.reisen,available,3.99,20.99,high,low,8,namesilo,,,
-ed32d140-ee3c-46a8-b43e-336cceaabc70,coverage.lease,available,14.99,,high,low,8,name.com,,,
-62059b66-c6b6-4015-8806-5e56c205abdb,coverage.bio,available,9.99,,high,low,8,name.com,,,
-9a49a4d3-667e-469a-a131-8914b6ba997e,coverage.locker,available,13.25,37.99,high,low,8,namesilo,,,
-fc8a7c17-b1a4-4b43-9e88-c5e957c0e4ef,coverage.marketing,available,9.99,,high,low,8,name.com,,,
-fbd959d9-a18c-4cc2-9f6a-1cec59c7db02,coverage.trading,available,19.99,,high,low,8,name.com,,,
-7b198b34-f4b2-4486-9119-eff30f211650,policy.auto,available,1999.99,2199,high,low,6,namesilo,,,
-ece80d66-bdca-443d-b6af-eff39c23fbd5,policy.car,available,1999.99,2199,high,low,6,namesilo,,,
-476b307d-cdcc-481d-bc26-f935a91c056a,coverage.dentist,premium,242,242,high,low,8,namesilo,,,
-afb5fc5c-b183-4687-9684-91357c7ff744,coverage.game,available,309.99,329.99,high,low,8,namesilo,,,
-c6c10011-9750-426b-9182-a6f4a597165b,coverage.juegos,available,478.98,,high,low,8,namecheap,,,
-f21ec7f1-87f0-4b25-a3e5-5dd44394455c,coverage.family,available,9.99,,high,low,8,name.com,,,
-743a06bd-c0e6-48e3-9920-61f1f380371e,coverage.mom,premium,812.5,,high,low,8,name.com,,,
-e565f533-08c2-4c43-9054-0d21b326f95b,coverage.dad,premium,73.75,,high,low,8,name.com,,,
-df549689-9c63-4004-aa3e-0ab630591b11,coverage.exchange,available,10.99,,high,low,8,name.com,,,
-f663c808-ba68-4add-9c47-33dae41fda9b,coverage.coach,premium,242,242,high,low,8,namesilo,,,
-b3b7dab4-ffbc-416e-882d-809623fb24b0,coverage.hosting,available,309.99,329.99,high,low,8,namesilo,,,
-ac606474-4ae1-48c8-bed0-9a019295e697,coverage.host,premium,312.5,,high,low,8,name.com,,,
-f697844d-493c-4dfb-a869-cabb736cb1e2,coverage.men,premium,437.5,,high,low,8,name.com,,,
-531e693f-4e0f-494b-85c3-d98fb9cbd00d,coverage.singles,available,12.99,,high,low,8,name.com,,,
-c0615866-8c38-4254-a979-cf29694be416,coverage.date,premium,375,,high,low,8,name.com,,,
-96e2dfd7-568f-42c7-9a04-4163284f112e,coverage.dating,available,23.99,,high,low,8,name.com,,,
-b5452af2-11cf-4d77-9961-da423eea878a,coverage.partners,available,13.99,,high,low,8,name.com,,,
-2dace053-811a-40bd-904f-84489eb966df,coverage.network,available,7.99,,high,low,8,name.com,,,
-577a846c-64ae-40ee-b90e-66480a4802a6,coverage.creditcard,available,9.99,,high,low,8,name.com,,,
-88eba130-c93b-46f4-8c4e-6c7cf2aa78e9,coverage.ventures,available,19.99,,high,low,8,name.com,,,
-9685b9c7-3045-4463-bc18-bb6c9d11a4b3,coverage.credit,available,11.99,,high,low,8,name.com,,,
-c2700e10-0d51-47ba-8381-748c3c8bf1dc,coverage.technology,available,17.99,,high,low,8,name.com,,,
-75ef5c87-30fc-4d95-afb0-a9db170ed6e7,coverage.storage,available,509.99,529.99,high,low,8,namesilo,,,
-4b264593-54ae-4309-b1eb-cb0ddf943f3b,policy.cloud,resell,,,high,low,6,GoDaddy,22/07/2019 00:27,22/07/2027 00:27,19/09/2026 17:13
-5195632d-b640-4387-9c2c-79c4ec7c12a4,policy.tech,premium,781.25,3125,high,low,6,name.com,,,
-d693e575-6411-4568-aae6-e40f4caf777d,coverage.global,premium,5000,,high,low,8,name.com,,,
-00f9b61f-6878-4651-aca2-b73b4fc4d529,coverage.international,available,14.99,,high,low,8,name.com,,,
-fc3b0c09-f450-4f9b-af2c-a8164a301dd9,coverage.hospital,available,57.99,57.99,high,low,8,namesilo,,,
-8d76092d-b725-4fa4-822b-bcd83c547664,coverage.surgery,available,54.99,54.99,high,low,8,namesilo,,,
-8cd19e4e-8972-4536-bef8-89d3cc3d0cce,coverage.doctor,available,14.99,,high,low,8,name.com,,,
-88d23ed1-a210-474e-a6ec-48feb208ca0f,coverage.solutions,available,,,high,low,8,,,,
-831ac4f2-90db-458b-9a8d-163c04862126,policy.broker,available,19.99,,high,low,6,name.com,,,
-b5dd8ecf-cd35-4c02-827f-d71cd4b27266,policy.consulting,premium,140,280,high,low,6,namecheap,,,
-88f22bd7-781b-46c0-91b9-cecc90866def,policy.solutions,resell,,,high,low,6,Squarespace Domains II LLC,25/06/2021 08:20,25/06/2027 08:20,
-817c2874-dbdb-466f-9115-1c1610cddbac,policy.services,resell,,,high,low,6,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,
-b2cebb69-4df1-4f19-be08-01a8330a82c4,coverage.soccer,available,19.99,,high,low,8,name.com,,,
-d59e55cd-c342-4b57-ac72-89f9ff5eb084,coverage.free,premium,116,116,high,low,8,namesilo,,,
-220a27ee-0877-43f0-8665-833f04e30df7,coverage.band,available,29.99,,high,low,8,name.com,,,
-85f600e8-4d61-4d1d-a3e3-cd115685599e,coverage.sbs,available,1.49,,high,low,8,name.com,,,
-391c11d1-12df-48fb-887f-3e310eba869f,coverage.meme,premium,112.5,,high,low,8,name.com,,,
-b8e38aed-b309-4fb2-aa9e-9b64c4ca460d,coverage.gold,available,9.99,,high,low,8,name.com,,,
-1c673246-5ad4-4c0b-b1aa-658d7c984b91,coverage.kitchen,available,14.99,,high,low,8,name.com,,,
-f125b1f3-aa78-405f-b28c-aae60924d4e5,coverage.kim,available,14.99,,high,low,8,name.com,,,
-f077b623-2c62-4d7a-a9b4-834745f64a85,coverage.kids,premium,375,,high,low,8,name.com,,,
-70a17836-7380-4e33-ab68-bbd322e65478,coverage.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
-0d2433bf-a0fa-4a6b-b4f5-93e267909b0f,coverage.eco,available,64.99,,high,low,8,name.com,,,
-944d1f2e-8caf-4e2c-92eb-84391280b68a,coverage.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,
-8b059f05-13e0-482b-852d-d473d1c777e6,coverage.name,available,9.98,,high,low,8,namecheap,,,
-918e3e88-0110-4e8a-8219-08299ad67113,coverage.taxi,available,10.99,,high,low,8,name.com,,,
-0a3bbac9-920c-4388-83d9-c8a959174483,coverage.promo,available,19.99,,high,low,8,name.com,,,
-c9c48c5f-7e1d-407a-b18c-9bb61266ccf2,coverage.coupons,available,3.99,,high,low,8,name.com,,,
-ca9c6a2c-f558-439d-a41f-5cec38cfeb8d,coverage.farm,available,13.99,,high,low,8,name.com,,,
-9b4c26b1-c8dd-4207-a4e0-9d215b76b4d2,coverage.vote,available,49.99,,high,low,8,name.com,,,
-a2311ada-c7a3-40c5-bac8-13ccfe10c80a,coverage.prof,premium,111.25,,high,low,8,name.com,,,
-a8f918b4-45a7-44aa-8f15-70f29553e726,coverage.careers,available,49.99,,high,low,8,name.com,,,
-8a5b17f4-8d8b-4d4c-ba34-f1c4d80830cd,coverage.school,available,9.99,,high,low,8,name.com,,,
-754a7321-bc2e-4618-a637-b68746b2564a,coverage.love,available,9.99,28.99,high,low,8,namesilo,,,
-6e636fda-f10d-4003-b88e-3bcf2edf0763,coverage.voting,available,1448,,high,low,8,namecheap,,,
-f6ccab10-33fb-4cc9-a7de-87f72df73dd3,coverage.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
-8d3a113f-eb62-447f-bc9d-208a1764f893,coverage.work,resell,,,high,low,8,"Spaceship, Inc.",23/02/2026 20:35,23/02/2027 20:35,
-55e367d2-4743-4b5f-b97f-e5046afa366d,coverage.fashion,premium,47.2,29.5,high,low,8,namesilo,,,
-91947c17-3ab1-4383-a3c4-ac8af53e0a11,coverage.florist,available,14.99,,high,low,8,name.com,,,
-a3b1e6d2-c9b1-4965-ac45-a1ad7f3f1344,coverage.cx,available,18.99,18.99,high,low,8,namesilo,,,
-f7dcf674-fbdd-48a7-992b-b11f21b07ab1,coverage.theatre,available,509.99,529.99,high,low,8,namesilo,,,
-852926bf-f41d-4fa5-a39e-feea7140a5f9,coverage.forum,available,1.99,,high,low,8,name.com,,,
-decd4f15-fc37-4a36-b452-a75b3804b878,coverage.cheap,available,9.99,,high,low,8,name.com,,,
-2c7e6c79-de3c-4984-afd3-3f0d930a111b,coverage.yoga,available,32.49,32.49,high,low,8,namesilo,,,
-e5364eea-72bf-40cf-8895-e17424dc79bc,coverage.ski,available,39.99,,high,low,8,name.com,,,
-84a16e32-2164-440e-a091-16e15129c1a2,coverage.chat,available,9.99,,high,low,8,name.com,,,
-44b52cb2-7fad-47f3-8a46-d43ef3681afc,coverage.lol,premium,778.7,,high,low,8,name.com,,,
-18334d84-bdfb-4863-a058-35ee4f7507cd,coverage.black,available,29.99,,high,low,8,name.com,,,
-67bdfee9-b66f-4bf2-8eb5-9b30c47c9569,coverage.community,available,14.99,,high,low,8,name.com,,,
-7fd5ff0f-141b-4230-8223-c036fb676433,coverage.forsale,available,19.99,,high,low,8,name.com,,,
-0d3bf0e1-240f-4092-a586-90592dbc55fe,coverage.boats,premium,812.5,,high,low,8,name.com,,,
-39dbd9dd-d6ba-4284-99b6-cdad913a8756,coverage.supply,available,25.99,25.99,high,low,8,namesilo,,,
-44246aa2-9444-47f9-84d2-c09a062061e3,coverage.irish,available,9.99,,high,low,8,name.com,,,
-027bfc4b-a768-4715-adce-a7ecfde290f0,coverage.onl,available,3.79,23.49,high,low,8,namesilo,,,
-08ebc464-fe61-4953-84cb-45250f3f7773,coverage.cricket,premium,437.5,,high,low,8,name.com,,,
-83de080a-89f4-4569-92f6-acca55375d18,coverage.bot,available,64.99,64.99,high,low,8,namesilo,,,
-32dbdfb3-d517-4a43-8c83-7341955410f1,coverage.paris,available,51.98,,high,low,8,namecheap,,,
-155d07e0-d842-4fa6-bde0-074d0f10a727,coverage.yachts,premium,812.5,,high,low,8,name.com,,,
-d33bcdaa-b0ab-437f-8fe7-0f5a11eb01c3,coverage.kaufen,available,5.99,26.99,high,low,8,namesilo,,,
-90edc47c-213a-4e66-849a-97c25d285eb7,coverage.auction,available,4.99,,high,low,8,name.com,,,
-3dd3187a-47d2-4940-bac6-b721f551c4a8,coverage.plumbing,available,14.99,,high,low,8,name.com,,,
-0b9a8276-4ad2-477a-8c2d-2b31fd62c68a,coverage.bargains,available,21.99,,high,low,8,name.com,,,
-3b42e391-e40b-42db-be3e-5f9f76552a2a,coverage.solar,available,9.99,,high,low,8,name.com,,,
-162a6a98-ef52-4dee-a2e5-2eb712aed441,coverage.melbourne,available,53.98,,high,low,8,namecheap,,,
-c54ab6a2-4116-4138-a310-6f4b6ca41299,coverage.jewelry,available,19.99,,high,low,8,name.com,,,
-22c30ec7-15a1-4d11-b507-ed5397878412,coverage.hot,premium,116,116,high,low,8,namesilo,,,
-725ee332-fe4c-4037-a882-037b7795741e,coverage.study,premium,53.92,53.92,high,low,8,namesilo,,,
-621541a8-e2f8-4ba6-8cd6-e69520198abb,coverage.degree,available,14.99,,high,low,8,name.com,,,
-29a05b4c-b936-426a-aa38-37a13cc7bc9b,coverage.cleaning,available,75.49,75.49,high,low,8,namesilo,,,
-efd6a0d3-7f6c-4ed1-b6cc-f5c3354cb26c,coverage.recipes,available,11.99,,high,low,8,name.com,,,
-e7aa74a3-b45f-40ea-afd8-04dd9ef3386f,coverage.one,resell,,,high,low,8,"Spaceship, Inc.",19/06/2019 04:06,19/06/2026 04:06,
-a14727b1-ddb9-4e26-803c-19c09137b79c,coverage.christmas,available,34.99,34.99,high,low,8,namesilo,,,
-da3aba1d-46b3-4937-b4bf-1f8673aea154,coverage.college,available,17.99,59.99,high,low,8,namesilo,,,
-e8137ec4-a3f5-4af3-bfce-a952f14e836a,coverage.deals,available,5.99,,high,low,8,name.com,,,
-c94bd8cb-6073-43f7-97a6-04841ab330cb,coverage.delivery,available,8.99,,high,low,8,name.com,,,
-6b0d298c-f378-4051-9086-15b855f47e4e,coverage.skin,premium,2500,,high,low,8,name.com,,,
-d7d5ee27-8c3f-4298-80cf-99669f22f36a,coverage.courses,available,2.19,38.99,high,low,8,namesilo,,,
-5c4a50c1-57a2-45ba-8fbb-43285c63bcd5,coverage.soy,available,24.99,,high,low,8,name.com,,,
-aa9319ae-59d0-4d9d-8f59-a9f274bc5d8b,coverage.salon,available,14.99,,high,low,8,name.com,,,
-b4afd5f7-c986-4aea-a3b7-87d48c0027d3,coverage.moe,available,13.99,13.99,high,low,8,namesilo,,,
-d678d435-9fb4-4bf8-9734-acbe0754916b,coverage.you,premium,53.92,53.92,high,low,8,namesilo,,,
-ca5918b9-a357-4419-a7a4-305f7f37a8b3,coverage.furniture,available,39.99,,high,low,8,name.com,,,
-29014c4b-de78-4e3b-83a5-30ab7400661b,coverage.fan,available,11.99,,high,low,8,name.com,,,
-ef04a98a-c7d5-45c8-a829-ec1f8a88c424,coverage.cab,available,19.99,,high,low,8,name.com,,,
-0166c2b2-f745-43d9-a51a-ad425332d966,coverage.page,premium,70.21,70.21,high,low,8,namesilo,,,
-1f087c6c-4851-403e-8c17-8a1b83a2f866,coverage.schule,available,19.99,,high,low,8,name.com,,,
-af186326-7812-4694-b992-bb46794af91e,coverage.new,available,549.99,,high,low,8,name.com,,,
-b5ec5056-3f8a-42f8-8081-875c5a43db24,coverage.moi,available,25.99,25.99,high,low,8,namesilo,,,
-7342acbf-2f20-4664-87f0-e3941748e4f4,coverage.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-c46d3de2-90d8-405f-b762-6fd78a01eadd,coverage.pink,available,14.99,,high,low,8,name.com,,,
-1e02647a-eb98-48f8-aa16-72e345ab8db1,coverage.fit,available,2.99,32.49,high,low,8,namesilo,,,
-7361dbef-07f6-464b-9b18-1aa4ac0652f7,coverage.gratis,available,23.99,23.99,high,low,8,namesilo,,,
-114b9a10-886f-4ece-9b7e-199c898c8d5e,coverage.university,available,19.99,,high,low,8,name.com,,,
-abc5c573-b712-4ef8-bcca-4235dccee5fd,coverage.clothing,available,19.99,,high,low,8,name.com,,,
-894c1d38-2d1f-4db0-b27f-76d09c55f07a,coverage.fast,premium,53.92,53.92,high,low,8,namesilo,,,
-d899e001-6739-419d-a4e1-af2d62e9b270,coverage.pizza,available,19.99,,high,low,8,name.com,,,
-bac2e21e-3479-4e98-bff6-adb8a1d6dc89,coverage.hamburg,available,59.99,,high,low,8,name.com,,,
-5017f41d-6bd9-482e-ad26-e00bfee14dda,coverage.repair,available,9.99,,high,low,8,name.com,,,
-e5843162-c484-44c3-8e16-e6a5bd099262,coverage.boston,available,23.49,23.49,high,low,8,namesilo,,,
-6af63415-a4c1-4efd-a04f-726f688e19de,coverage.church,available,11.99,,high,low,8,name.com,,,
-97e7c133-2f96-4a37-b39e-56a4550e7280,coverage.fish,available,19.99,,high,low,8,name.com,,,
-f4cb6d47-a1f7-4486-a7d0-6612da236949,coverage.green,available,11.99,,high,low,8,name.com,,,
-27f665c2-cf43-470a-aec2-f187be521819,coverage.rehab,available,14.99,,high,low,8,name.com,,,
-efe56c08-b76e-4944-961d-989e484f0ade,coverage.energy,available,21.99,,high,low,8,name.com,,,
-bfb50578-a90c-4587-b890-12585439779a,coverage.tennis,available,65.99,65.99,high,low,8,namesilo,,,
-aa8f488f-b912-45a8-b252-3067d9797d04,coverage.cruises,available,14.99,,high,low,8,name.com,,,
-5e72c1a3-9dce-43e8-bad0-56865c8dd10f,coverage.bid,premium,437.5,,high,low,8,name.com,,,
-234a09a0-5416-46d1-8ce5-d7e95a6233e7,coverage.fun,premium,156.25,,high,low,8,name.com,,,
-d86decc9-583c-492b-bb0b-070634496195,coverage.show,available,17.99,,high,low,8,name.com,,,
-e3a738e4-c804-4c02-a677-72025fd6a537,coverage.rip,available,7.99,,high,low,8,name.com,,,
-aad70579-31ee-40ef-ae14-fbcee70738c0,coverage.phd,premium,111.25,,high,low,8,name.com,,,
-7012a9bd-9c3b-4a4b-b93a-95ae6a0012f9,coverage.academy,available,21.99,,high,low,8,name.com,,,
-ff75b7ea-f916-4668-83c2-43a41d4342f2,coverage.guitars,available,104.99,114.99,high,low,8,namesilo,,,
-b593e9dc-c946-4678-8769-3c99f54c62e2,coverage.mobi,available,6.99,,high,low,8,name.com,,,
-228e1bab-0e4a-467e-9b2f-b40150573abd,coverage.info,resell,,,high,low,8,"Sav.com, LLC - 18",06/12/2024 17:00,06/12/2026 17:00,
-9cd7026c-15a0-41d5-9291-b200b89d1922,coverage.team,available,7.99,,high,low,8,name.com,,,
-add61720-8b9d-4d00-ba77-64b7e62fac17,coverage.gives,available,5.99,,high,low,8,name.com,,,
-4a471a05-829f-409e-8188-74ca9ad1de86,coverage.market,available,44.49,44.49,high,low,8,namesilo,,,
-bfa1bd8f-a2c1-4380-9f24-f637afde984b,coverage.nexus,premium,73.75,,high,low,8,name.com,,,
-d9820fb5-dd08-4d2e-a389-67fcdaa92ba9,coverage.style,available,12.99,,high,low,8,name.com,,,
-11f76610-76f2-4398-b9e8-b5df7f20c945,coverage.kiwi,available,35.68,,high,low,8,namecheap,,,
-32e2cb03-0224-44c4-b19a-eedb64b627f6,coverage.fishing,available,32.49,32.49,high,low,8,namesilo,,,
-2e07fce8-0b69-4b7e-8e50-a6765f14c03e,coverage.social,available,11.99,,high,low,8,name.com,,,
-e1ea7f35-6274-4ea1-a9e5-1a313be02be6,coverage.luxe,available,19.49,19.49,high,low,8,namesilo,,,
-760d6326-1dd5-4094-b5c2-5a563403ef2c,coverage.supplies,available,24.99,24.99,high,low,8,namesilo,,,
-030c7288-521b-4158-a591-73f99a8229af,coverage.food,available,5.49,39.99,high,low,8,namesilo,,,
-a9abc94b-3732-4a17-b349-c52e00467182,coverage.flowers,available,64.99,114.99,high,low,8,namesilo,,,
-a0853269-7019-422e-99c5-5e28ff9507eb,coverage.discount,available,7.99,,high,low,8,name.com,,,
-4446b76d-7625-42e7-8bc8-44d34bf0cf6b,coverage.ag,available,89,,high,low,8,name.com,,,
-ec2b7388-393a-43cc-a59e-63a1c376abba,coverage.memorial,available,52.99,52.99,high,low,8,namesilo,,,
-d633e810-6c6a-4a33-8a43-9ff510933439,coverage.cooking,available,32.49,32.49,high,low,8,namesilo,,,
-b09dde34-3b8c-460c-9948-da2bf3445c3a,coverage.cool,available,9.99,,high,low,8,name.com,,,
-d70103de-7fbb-4112-b1a0-4d166cee2049,coverage.website,premium,62.5,,high,low,8,name.com,,,
-f1abd39c-2471-4793-b616-da8fdae8a05b,coverage.qpon,available,1.99,,high,low,8,name.com,,,
-a782ed7b-f70e-4845-a3b7-ed64ba50e1de,coverage.ing,premium,437.5,,high,low,8,name.com,,,
-0f434440-6ac7-408d-b9a6-f771c1677ab3,coverage.center,available,7.99,,high,low,8,name.com,,,
-55f142ff-fc5d-414d-9ce6-85330385c102,coverage.guru,available,3.99,,high,low,8,name.com,,,
-e0696f21-cd2a-4d3d-ab9d-9cedf0633030,coverage.how,premium,48.75,,high,low,8,name.com,,,
-c16a187a-3d67-4c80-ba7a-a81303cf9da9,coverage.cards,available,3.99,,high,low,8,name.com,,,
-0a585cda-742e-4101-9b3a-a5a2a2ccf7f1,coverage.desi,available,22.98,,high,low,8,namecheap,,,
-c4a89749-1c11-454e-a80d-d23a0ee10b23,coverage.lat,available,1.99,32.49,high,low,8,namesilo,,,
-89b7b1d3-9577-401b-8acd-39981e1ff649,coverage.sale,available,5.99,,high,low,8,name.com,,,
-4ec9541e-4340-43f6-a9da-ddbd2a44970b,coverage.tires,available,5.99,78.99,high,low,8,namesilo,,,
-8120db25-03bd-410f-ab5a-912f0f1bf139,coverage.contact,available,14.99,14.99,high,low,8,namesilo,,,
-5fd7b745-476d-4e88-bc60-43a9d3110a84,coverage.vana,available,2498,,high,low,8,namecheap,,,
-930d7729-f38d-4840-918f-01f226372651,coverage.training,available,21.99,,high,low,8,name.com,,,
-a1bfb16b-2ea9-4b40-a619-5f5c8c2c2b3d,coverage.deal,available,38.99,38.99,high,low,8,namesilo,,,
-5695084d-c9d0-4dd7-9618-eb1f00d0a937,coverage.ooo,premium,1250000,,high,low,8,name.com,,,
-d76dcc7e-3f56-4368-be97-7ea29562d589,coverage.lighting,available,14.99,,high,low,8,name.com,,,
-2216425c-09ed-41fb-a03d-9329caf7b27b,coverage.coffee,available,23.99,,high,low,8,name.com,,,
-7a42b8a0-f375-4df0-9194-f7c636031fa4,coverage.im,available,12.98,,high,low,8,namecheap,,,
-4c9f0348-74eb-4834-a6f9-69d157df324e,coverage.futbol,available,17.99,17.99,high,low,8,namesilo,,,
-71fefeda-d54b-400b-93c1-a3512bcb28f0,coverage.shoes,available,39.99,,high,low,8,name.com,,,
-ef1ad181-6518-4f83-96cb-e731b956c73d,coverage.boo,premium,73.75,,high,low,8,name.com,,,
-9a63a33f-8a87-4132-91ae-25e655c3348e,coverage.mx,available,39.99,43.99,high,low,8,namesilo,,,
-fbcb1c66-0017-49e9-b0c8-d8750f55832c,coverage.glass,available,72.99,72.99,high,low,8,namesilo,,,
-5cda2623-e9ff-4839-9fbd-d87ba5f7d976,coverage.audio,available,104.99,114.99,high,low,8,namesilo,,,
-84683501-96b8-4d8a-b807-448ac71935d6,coverage.dance,available,17.99,,high,low,8,name.com,,,
-1b9d3037-d94b-4387-bfe1-08d90faedfb9,coverage.hiphop,available,23.99,23.99,high,low,8,namesilo,,,
-f3d519d0-c5aa-4b3d-83df-d1993722e674,coverage.faith,available,11.99,11.99,high,low,8,namesilo,,,
-5c5b0a3f-39d7-4ed0-9b85-d3ec9888bfa7,coverage.tel,available,10.79,10.79,high,low,8,namesilo,,,
-1f4c0a78-3830-4185-8b66-d7d7fd9068e6,coverage.cv,premium,649.6,80.33,high,low,8,namesilo,,,
-8e664846-eef4-493c-aaf0-8d8d4e9598c5,coverage.gifts,available,9.99,,high,low,8,name.com,,,
-1b3097aa-e4e1-44b9-abf2-c58959ae0854,coverage.red,available,14.99,,high,low,8,name.com,,,
-553f47cd-032c-4c3c-97a0-8e3dd5df13ec,coverage.parts,available,15.99,,high,low,8,name.com,,,
-5fb29443-9e56-4e40-963a-a5bd080ea280,coverage.organic,available,19.99,,high,low,8,name.com,,,
-8ca993fc-1ec2-4291-96c8-44d6da6d0c20,coverage.baby,available,17.99,54.99,high,low,8,namesilo,,,
-420bbe33-dec4-4ffb-a83c-9fa3f933bd1e,coverage.my,premium,68.01,,high,low,8,name.com,,,
-bb8490a4-9b3a-4b64-bb77-177c78b47bfb,coverage.group,available,10.99,,high,low,8,name.com,,,
-c49c69bf-0e0b-457e-81ed-42fce8da7724,coverage.art,premium,291.2,83.3,high,low,8,namesilo,,,
-a667df5e-5342-4d81-848b-bd0a584b3fd1,coverage.hair,premium,2500,,high,low,8,name.com,,,
-028ea7e5-d94f-4019-a1d3-284086490e96,coverage.diet,available,104.99,114.99,high,low,8,namesilo,,,
-0c8dcfb1-01a4-4a13-af96-9fe76dc67ae4,coverage.blue,available,23.99,,high,low,8,name.com,,,
-58fe764c-d935-4200-93bb-d258bdc38c3b,coverage.talk,premium,71.4,71.4,high,low,8,namesilo,,,
-0095085c-e517-4e78-87f5-9102f8c07268,coverage.bz,available,25,,high,low,8,name.com,,,
-147e7c6a-d033-4659-9a70-4e40edfa3f2f,coverage.football,available,19.99,,high,low,8,name.com,,,
-9fd8f648-c8ae-46c6-a368-6b05c702356c,coverage.luxury,available,49.99,,high,low,8,name.com,,,
-bc50e41e-fada-4278-b899-1ffb3afe7ca2,coverage.pw,premium,749.17,,high,low,8,name.com,,,
-df4504b7-ed47-455b-8a1c-b731f37580b0,coverage.computer,available,29.99,,high,low,8,name.com,,,
-9253fce0-b0df-4599-a0b0-5c7a35e79f09,coverage.berlin,available,89.98,,high,low,8,namecheap,,,
-fe85737e-b058-4dac-8700-548ae813f9b0,coverage.moda,available,19.99,,high,low,8,name.com,,,
-4c81ceab-9c4c-467b-a79e-0cfeddfa35f1,coverage.cyou,available,1.79,14.95,high,low,8,namesilo,,,
-6daf4f25-23d9-4c4f-874d-3eb526b6bf3a,coverage.trade,premium,437.5,,high,low,8,name.com,,,
-e96562e2-d1c9-471c-a8d2-3faee819e5db,coverage.garden,available,1.99,,high,low,8,name.com,,,
-c16f6b70-a3c7-4274-9512-9b5c4bcc79c9,coverage.quest,premium,812.5,,high,low,8,name.com,,,
-c715f2fb-2a20-4932-9510-ed63e18eefc1,coverage.makeup,premium,2500,,high,low,8,name.com,,,
-764622bd-b32b-4583-8a48-a82c4105e073,coverage.equipment,available,19.99,,high,low,8,name.com,,,
-44bfd5a4-1d46-4da6-9f56-5d04b1a1728c,coverage.clinic,available,19.99,,high,low,8,name.com,,,
-f042b4b2-c0af-4b1d-8073-09fba8442d30,coverage.golf,available,7.99,,high,low,8,name.com,,,
-1de70a45-8dc0-40ab-9288-f9954c0d3b46,coverage.actor,available,19.99,,high,low,8,name.com,,,
-380a38e8-6057-436c-a670-4790f563beed,coverage.vegas,available,12.99,43.99,high,low,8,namesilo,,,
-97bce93f-f90b-40a2-abe7-0e203b24e964,coverage.gift,available,14.99,14.99,high,low,8,namesilo,,,
-af48be0b-927e-42ad-8cc0-7819ac13df8c,coverage.earth,available,22.99,,high,low,8,name.com,,,
-108a902e-3cfe-4fe1-909d-08968f0f8556,coverage.fitness,available,9.99,,high,low,8,name.com,,,
-e68aca3d-bde1-4fde-9296-efdcdc59cbd6,coverage.education,available,34.99,34.99,high,low,8,namesilo,,,
-3a9a13aa-ecfb-488c-b674-f1fceb99f83a,coverage.london,premium,135.31,,high,low,8,name.com,,,
-29b210cd-80f7-422e-90fa-8f578d697eaf,coverage.sydney,available,54.98,,high,low,8,namecheap,,,
-fbdfcfba-9e4b-4cca-b680-1f2bd9e534a7,coverage.miami,premium,47.2,21.24,high,low,8,namesilo,,,
-3903cae6-529c-4156-bfaa-e2323d78b017,coverage.barcelona,available,38.98,,high,low,8,namecheap,,,
-5d527f3b-00d6-4494-b32d-d5bfcb4eeb7e,coverage.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-286bea5c-334b-452f-a136-d511a3f64de6,coverage.hockey,available,14.99,,high,low,8,name.com,,,
-eec46c96-d9b2-4b66-8389-40dac081e908,coverage.osaka,available,39.99,,high,low,8,name.com,,,
-0b8388d4-eea2-4d7e-859f-2fed0b68d04f,coverage.giving,available,5.99,,high,low,8,name.com,,,
-eab85ad2-416f-446a-9436-0ed33989f245,coverage.watch,available,4.99,,high,low,8,name.com,,,
-e112e242-5bed-470e-b878-6bb7baf318d3,coverage.beauty,premium,2500,,high,low,8,name.com,,,
-41e5f2b7-9d4d-47f9-8fea-3cf48ffc7fc8,coverage.spot,premium,116,116,high,low,8,namesilo,,,
-c0d13258-d8ec-4f3c-afa0-38c093761aad,coverage.voto,available,19.99,,high,low,8,name.com,,,
-e9774466-3f27-412b-8771-c37633d311d9,coverage.racing,premium,116,116,high,low,8,namesilo,,,
-d3a7e2ea-646c-4082-b428-624de5a7b84a,coverage.institute,available,9.99,,high,low,8,name.com,,,
-9e6a7ecd-6d34-4c35-8193-de2fedb11e53,coverage.shiksha,available,19.99,,high,low,8,name.com,,,
-86b169f7-75e2-4d83-851e-a4b89751b2d1,coverage.toys,available,19.99,,high,low,8,name.com,,,
-ad1fced3-dd02-404b-ad87-fd3e5df7735c,coverage.express,available,16.99,,high,low,8,name.com,,,
-00789888-07f5-40df-b8ff-8aa580747d66,coverage.surf,available,2.19,32.49,high,low,8,namesilo,,,
-2c72b041-d0b5-49c6-9f01-f6949e7880b7,policy.business,available,3.99,,high,low,6,name.com,,,
-e891eb68-25dc-45cd-81f6-bb0b92b232aa,policy.holdings,available,64.99,64.99,high,low,6,namesilo,,,
-b54cfdd9-1f42-4232-9b71-7819d0cfd842,policy.ltda,premium,56.64,33.04,high,low,6,namesilo,,,
-941b9da4-b293-4950-bc6c-5c16ee66a07b,policy.srl,premium,54.28,30.68,high,low,6,namesilo,,,
-6ede6423-e0db-4657-94a3-daced8eb28cd,policy.sarl,available,6.99,6.99,high,low,6,namesilo,,,
-c089b516-4086-4b39-9777-f57669eb2a00,policy.inc,premium,2061.5,2660,high,low,6,namesilo,,,
-9b5ae9bb-d59b-47ea-bdc4-b58705f01fdd,policy.industries,available,17.49,,high,low,6,name.com,,,
-fd00f9c9-be14-4df8-8724-7f3922178eba,policy.enterprises,available,5.99,,high,low,6,name.com,,,
-87a775e2-2306-4ffb-88b4-e4d0a61620c5,policy.gmbh,available,45.99,45.99,high,low,6,namesilo,,,
-99be2aa4-c71a-4c13-a8b0-18807d546a42,policy.limited,available,14.99,,high,low,6,name.com,,,
-24dadedf-f695-4074-9283-1ca503922b44,insured.rich,available,94.99,1999,high,low,7,namesilo,,,22/08/2026 07:42
-b964132d-55dc-4c23-8fd4-68cee6715aef,coverage.shop,premium,1250,,high,low,8,name.com,,,
-67fd36b4-6024-4ac4-bdd8-9efc7892a9e3,coverage.hiv,available,,,high,low,8,,,,
-99c94efa-b359-4884-b790-c597a133841a,premium.auto,available,1999.99,2199,high,low,7,namesilo,,,
-6a1beb4c-c9ab-468d-b669-5a8064cf3645,policy.marketing,available,9.99,,high,low,6,name.com,,,
-c66d34c6-4b0e-4d0f-a39d-f545055e9f95,premium.car,available,1999.99,2199,high,low,7,namesilo,,,
-a3fa6137-0655-452b-bb72-c5714406dfbe,coverage.associates,available,,,high,low,8,,,,
-8ec58a3b-95e6-4831-a866-dd5211c3cbc5,policy.motorcycles,available,1.99,,high,low,6,name.com,,,
-63bf678a-18ab-48d5-83b5-af284b7ef1b0,policy.autos,available,1.99,,high,low,6,name.com,,,
-2b62a0a5-a52c-46dd-8ce5-2d19ef82139f,policy.dealer,premium,2170,2800,high,low,6,namecheap,,,
-0f8fcdd1-30f1-4361-b575-f242daee6634,policy.cars,available,1999.99,2199,high,low,6,namesilo,,,
-c66cfe92-2d4c-4d0d-ac5d-a8f124937987,policy.llc,available,19.99,,high,low,6,name.com,,,
-900f6f9c-f5dd-43f7-8232-7018d26e761f,premium.plus,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/08/2018 18:35,21/08/2027 18:35,21/09/2026 05:42
-21ee5314-68fb-4e55-97d9-57b58b2f896d,coverage.property,available,,,high,low,8,,,,
-f2c55339-273c-4b40-bee4-136dfe7121b2,policy.mba,available,19.99,,high,low,6,name.com,,,
-2d606107-d097-471d-a893-ecff5bafc222,policy.site,premium,312.5,1250,high,low,6,name.com,,,
-a417f0ec-f680-423a-aa52-b34f0818c384,coverage.cafe,available,,,high,low,8,,,,
-77375206-2607-4fdd-adff-f50c50b6772c,coverage.fans,available,,,high,low,8,,,,
-51e6882f-c840-41de-a06f-33c3dd326ff4,coverage.works,available,,,high,low,8,,,,
-bc73d631-46f1-4de7-94ff-3d7eb2e32172,coverage.music,available,,,high,low,8,,,,
-fe1a2afe-04de-4503-ad40-36b2231e8fd2,coverage.rocks,available,,,high,low,8,,,,
-ca432875-ef3a-48db-baed-faf4642d3d1e,coverage.biz,premium,29.5,21.24,high,low,8,namesilo,,,
-19936d98-b446-45f1-b0a9-ed34b3f1206e,coverage.theater,available,,,high,low,8,,,,
-b95948a8-37ef-4070-8bfb-eab3246265bb,coverage.uno,available,,,high,low,8,,,,
-546da24a-0e17-45e0-807f-16535c0a3c10,policy.wedding,available,32.49,32.49,high,low,6,namesilo,,,
-4de57e64-cbea-4a4c-929e-4b31d53d20b7,policy.day,premium,311.25,,high,low,6,name.com,,,
-b075c6d8-7545-470c-b379-208b970c4d29,policy.archi,available,24.99,,high,low,6,name.com,,,
-175f8228-fb1e-40ce-96db-7f99dbb9f01d,policy.catering,available,38.99,38.99,high,low,6,namesilo,,,
-f3b93be0-d191-45b1-af65-8589b1bd9974,premium.co,resell,,,high,low,7,"GoDaddy.com, LLC",26/09/2025 20:37,26/09/2027 23:59,
-ecc7ada1-9b38-4054-8f11-68363f69d0df,premium.vin,premium,500,,high,low,7,name.com,,,
-d1be8cb6-f94f-44ee-a338-fa4094354f81,premium.vodka,premium,854,302.5,high,low,7,namesilo,,,
-ef0a901f-9ff1-4b18-bee4-198d019a4e28,premium.beer,resell,,,high,low,7,Dynadot Inc,24/01/2025 22:19,24/01/2027 22:19,
-2da233b4-80d8-41df-95be-5c7f89745fc5,premium.pub,premium,1875,,high,low,7,name.com,,,
-863b175f-4f08-4f11-9f44-a71326573bd2,premium.dealer,premium,2170,2800,high,low,7,namecheap,,,
-1cbc31b2-6834-46fa-8929-3ff3be56dfa6,premium.autos,premium,2500,,high,low,7,name.com,,,
-1610165c-d957-408b-b4ca-b7c5a4961476,premium.cars,available,1999.99,2199,high,low,7,namesilo,,,
-2f295afb-ef2d-4f7f-8c43-8d39c30ffedc,premium.motorcycles,premium,2500,,high,low,7,name.com,,,
-9704a849-5932-4253-bcac-3579cd98c611,policy.juegos,available,478.98,,high,low,6,namecheap,,,
-8dc06b2a-361d-4cc5-83b7-52955c3dd31a,policy.game,available,309.99,329.99,high,low,6,namesilo,,,
-c3ccf9c3-458d-4aa7-8112-a83f187ee512,policy.games,resell,,,high,low,6,Squarespace Domains II LLC,05/07/2022 23:21,05/07/2028 23:21,
-e653e651-50d8-43ac-9005-a39a71b6376d,policy.coach,available,19.99,,high,low,6,name.com,,,
-15c3845d-2e1d-4956-a967-3fc371cbab37,policy.io,resell,,,high,low,6,Gandi SAS,30/07/2010 09:19,30/07/2027 09:19,20/09/2026 04:34
-61e2f687-f92b-4c4b-8188-813516b5cb60,policy.press,premium,937.5,,high,low,6,name.com,,,
-a16f754a-b03a-41d7-bb9a-0236e4d9fbf9,claim.to,resell,,,high,low,5,"Ascio Technologies, Inc. - Denmark",14/12/2024 06:39,25/04/2027 03:28,24/09/2026 07:46
-9ba56be7-d559-4eea-8f6e-dd992efb570c,policy.xyz,resell,228721.2,20.99,high,low,6,Dynadot LLC,02/06/2014 17:34,02/06/2030 23:59,
-2f326dfc-319a-4187-93c6-f9dba9cb0708,policy.me,resell,5750,27.99,high,low,6,"Spaceship, Inc.",03/10/2010 02:36,03/10/2026 02:36,
-f70fe20f-979c-4064-90eb-b925698e30ae,coverage.ca,resell,,,high,low,8,BareMetal.com inc,13/02/2019 19:00,13/02/2028 19:00,
-ac77dc55-9cd2-4371-b251-dbc439643129,policy.company,available,,,high,low,6,,,,
-32ba9298-0bc5-4f19-9bfa-d70c8a497504,policy.tax,premium,123.75,,high,low,6,name.com,,,
-19baad83-a728-4fd5-a107-413b1e794324,policy.tickets,available,359.99,389.99,high,low,6,namesilo,,,
-0a72133c-dc40-49cd-bc71-1620fa1e1c6b,policy.rsvp,premium,311.25,,high,low,6,name.com,,,
-cc58b7b9-78eb-4551-9cbb-174da001ea3b,policy.ong,premium,62.5,,high,low,6,name.com,,,
-c932d385-7cb2-48df-aa53-b31543a33203,policy.airforce,available,103.99,103.99,high,low,6,namesilo,,,
-c2b494cf-633a-4fe3-bcfb-eda56b518248,policy.navy,available,41.99,41.99,high,low,6,namesilo,,,
-4284432e-a2ed-43b6-b45d-6e1f1cfef406,policy.construction,available,15.99,,high,low,6,name.com,,,
-59308616-f008-4af5-8af5-611ba917b13c,policy.build,premium,1875,,high,low,6,name.com,,,
-51763b0b-8337-42c6-ba3c-50dc27e9111e,policy.contractors,available,9.99,,high,low,6,name.com,,,
-47e064a1-59a3-4cfe-b106-bab7983f13b4,premium.rich,available,94.99,1999,high,low,7,namesilo,,,
-48fd334f-ab16-4a4c-b904-78c954bdcdd7,premium.sexy,available,2749.99,2749.99,high,low,7,namesilo,,,
-97b4b868-130a-4d72-aea5-c6ea097dfff8,premium.sex,premium,310,,high,low,7,name.com,,,
-cd70ec14-d357-4618-8caa-4b709b67453c,policy.blog,premium,160,640,high,low,6,namesilo,,,
-dd80c99c-6345-4742-90e8-75e338b2d96f,policy.ing,premium,812.5,,high,low,6,name.com,,,
-b810601f-1980-441e-bd99-05108b4e246b,policy.how,premium,111.25,,high,low,6,name.com,,,
-865d7461-03a3-4015-9378-dcfd6cffa71a,insured.army,available,17.48,48.98,high,low,7,namecheap,,,22/08/2026 07:42
-5bd14035-50d5-4bcd-8caf-77ca2af9f54e,policy.horse,available,32.49,32.49,high,low,6,namesilo,,,
-26418252-2e34-4b9c-8dd4-e2eb13a35cdb,policy.vet,available,41.99,41.99,high,low,6,namesilo,,,
-3a4c7077-89f5-4746-9d01-f7c90ec1a42c,policy.party,available,,,high,low,6,,,,
-56cd20f1-a60f-4334-9c1a-a8d59c184632,policy.events,available,21.99,,high,low,6,name.com,,,
-d1a581dc-4591-46a3-81dc-3fefdafb0e12,policy.foundation,premium,41.25,,high,low,6,name.com,,,
-6ba7fdf4-f666-46c0-b0b8-1b210509da6f,policy.lawyer,available,62.99,62.99,high,low,6,namesilo,,,
-58f3621b-e2e4-4363-b121-ceb8fee2f23f,policy.esq,premium,411.25,,high,low,6,name.com,,,
-3a865deb-21ad-4eb5-b0d3-9dc01cc09385,policy.attorney,available,62.99,62.99,high,low,6,namesilo,,,
-50542689-c7ac-4303-b710-0132a72749c3,policy.reise,available,27.89,97.99,high,low,6,namesilo,,,
-2508ac9a-1554-4b5e-b503-3383099789d4,policy.travel,available,39.99,,high,low,6,name.com,,,
-39f6d942-d9d8-4771-b938-a4b39686109b,policy.tours,available,9.99,,high,low,6,name.com,,,
-2109e8ee-f373-42f7-8e05-a57f63d20383,policy.vacations,available,9.99,,high,low,6,name.com,,,
-c5961fce-6ab5-44d8-b8b3-75979a67f1a2,policy.voyage,available,9.99,,high,low,6,name.com,,,
-ba880f11-5c65-4626-9841-c531d2c7c954,policy.reisen,available,3.99,20.99,high,low,6,namesilo,,,
-57127987-5c87-4331-83dc-b920e1bc5d6d,policy.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-9d0e4bd3-c2a9-4fbf-93af-397bb8a61179,policy.holiday,available,9.99,,high,low,6,name.com,,,
-8fd197a7-153e-4a1a-9508-c3350b6eba35,policy.flights,available,58.99,58.99,high,low,6,namesilo,,,
-454e5255-9f60-4fb8-8cfa-e4a0e77f9305,policy.sex,available,154.98,,high,low,6,namecheap,,,
-0b0b6497-b389-4127-a057-b376ca95fb19,policy.adult,available,166.98,,high,low,6,namecheap,,,
-e813bc12-beda-471e-9e23-395dfd6e5fa4,policy.porn,available,154.98,,high,low,6,namecheap,,,
-8da2c151-2ec7-4bee-b7f1-7bfd0728cb61,policy.sexy,available,2749.99,2749.99,high,low,6,namesilo,,,
-5ae46a6a-badb-44c1-bc17-166c8478238f,policy.xxx,available,154.98,,high,low,6,namecheap,,,
-53f8fbee-b013-47f3-adda-90677658c2fc,policy.locker,premium,145.46,8.05,high,low,6,namesilo,,,
-c167fcdd-5091-4736-9e75-6f67b8bd1d72,premium.boutique,resell,,,high,medium,7,"Sav.com, LLC - 35",28/09/2025 15:15,28/09/2026 15:15,
-45eff99f-8e59-41f0-8da9-40732efa0ca2,premium.tienda,available,9.99,,high,low,7,name.com,,,
-3f820630-90fe-4050-81fe-ac03c7df654e,policy.associates,available,21.99,,high,low,6,name.com,,,
-b3bb2e08-8b4a-446b-96e9-72d417d84537,policy.storage,available,509.99,529.99,high,low,6,namesilo,,,
-10b16745-8e5e-4350-aead-f1c9140da3b7,policy.world,resell,,,high,low,6,"DNSPod, Inc.",24/06/2018 08:11,24/06/2026 08:11,
-5509a39d-ffc4-470e-8dc9-9189af923295,policy.international,premium,78.54,78.54,high,low,6,namesilo,,,
-3bdd1f40-f4f3-4da0-9586-d2ad70779b46,policy.global,premium,5000,,high,low,6,name.com,,,
-ee438b8c-7879-4d98-bab8-82e9c0d8b6ac,policy.plus,resell,,,high,low,6,"DNSPod, Inc.",22/05/2020 12:39,22/05/2027 12:39,
-f2712b8e-fd3b-4715-a585-b0a2957a8881,policy.surgery,available,54.99,54.99,high,low,6,namesilo,,,
-534aee0f-fc22-4776-8b14-ebd52b30f3d2,policy.domains,available,19.99,,high,low,6,name.com,,,
-43020497-6595-43fb-bab0-d43e73e3e8e3,policy.town,available,9.99,,high,low,6,name.com,,,
-a0f9c045-29eb-46d0-a33a-12a331593854,policy.country,available,2450,,high,low,6,namecheap,,,
-13d1e8d7-6d32-4a6b-857c-f9a848612adf,policy.voting,available,1448,,high,low,6,namecheap,,,
-6eaa2924-d4f0-400c-acff-f851ee73ae94,policy.university,available,19.99,,high,low,6,name.com,,,
-589bd041-36b6-4309-9fa2-6beefdad1ce7,policy.institute,premium,500,,high,low,6,name.com,,,
-73ea68ae-486a-4f50-b800-e91fd42ac6d0,policy.toys,available,19.99,,high,low,6,name.com,,,
-6f26cfce-fec2-4c87-aa1c-cd01005e8fae,policy.schule,available,19.99,,high,low,6,name.com,,,
-943a64f9-4d89-4cd5-80c7-98c32a35b572,policy.homes,available,1.99,,high,low,6,name.com,,,
-25a6b86a-8e8f-4b06-bde4-5d0817ab82f4,policy.dog,available,5.99,,high,low,6,name.com,,,
-06979b2a-66a3-43d5-92be-9667e079091a,policy.casa,premium,47.2,11.8,high,low,6,namesilo,,,
-08624c2f-b259-4d37-abca-4479058cecc2,policy.maison,available,19.99,,high,low,6,name.com,,,
-bf122afc-436d-4ab0-8ad8-6da10c0c57d9,policy.protection,available,1999.99,2049.99,high,low,6,namesilo,,,
-ac05a2a1-3927-450e-ae44-76c798b00866,policy.immobilien,available,14.99,,high,low,6,name.com,,,
-a0eb2d68-48e9-49f8-9d81-f9ecb3ff62ef,policy.villas,available,19.99,,high,low,6,name.com,,,
-bade702b-dd55-45f6-bc94-a7251869075d,policy.immo,available,14.99,,high,low,6,name.com,,,
-6896761f-3eca-4563-a468-1e8465edde31,policy.rentals,available,14.99,,high,low,6,name.com,,,
-b9d31b64-4e5f-4a6e-bbb3-61ff980ec714,policy.realty,available,109.99,299,high,low,6,namesilo,,,
-6b290a0d-2956-4610-b317-24df867eef43,policy.apartments,available,19.99,,high,low,6,name.com,,,
-f1888b21-e0f2-49c5-939b-9ac4785eed1e,policy.properties,available,10.99,,high,low,6,name.com,,,
-d8ac243c-69e5-4c80-aaf9-2b94796c7d9b,policy.land,available,19.99,,high,low,6,name.com,,,
-fc8f99a5-805c-4b1f-bcad-4a7220508372,policy.condos,available,58.99,58.99,high,low,6,namesilo,,,
-9d5e142b-7bde-44f0-90b9-99db1c0ae84f,policy.living,available,5.49,39.99,high,low,6,namesilo,,,
-e7f2dd21-2f8e-453a-961b-01a7011cb9ec,policy.lifestyle,available,5.49,39.99,high,low,6,namesilo,,,
-3b6fc5e5-e77e-452a-b30b-46f40693b59f,policy.beer,available,2.19,32.49,high,low,6,namesilo,,,
-4503b1fa-20f8-4987-abfe-13a1ca5461e1,policy.vodka,available,32.49,32.49,high,low,6,namesilo,,,
-a64881e1-860a-4b1d-bae3-b378a67dca20,policy.wine,available,9.99,,high,low,6,name.com,,,
-4378b085-9b0f-4dd3-bc40-fc7fc42bcd4d,policy.vin,available,11.99,,high,low,6,name.com,,,
-b8be3f00-a512-4fe5-92b7-4bc6e0974859,premium.porn,available,,,high,low,7,,,,
-cb2d6ea2-2c32-4ce0-99cd-c895229c6f85,premium.adult,available,,,high,low,7,,,,
-5e385303-109d-4c17-8c8f-f18bd340841d,policy.vip,premium,116,17.7,high,low,6,namesilo,,,
-93505620-0ae6-4762-bc0f-fa84ece6e334,policy.rich,available,94.99,1999,high,low,6,namesilo,,,
-3f2af8d3-1a9d-4b3f-bf62-265dc5e331f4,insured.foo,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 07:42
-a882fa4b-30b5-40fe-b1d0-cce2e08bd440,policy.limo,available,19.99,,high,low,6,name.com,,,
-1e529ad6-5d31-4bad-bea3-24b3d15dc559,policy.shopping,available,14.99,,high,low,6,name.com,,,
-d65552f0-a760-4fb8-ac75-9bb0448a73c3,policy.boutique,available,6.99,,high,low,6,name.com,,,
-b04e32fe-07c2-49e5-bec6-ea9523ae818c,policy.tienda,available,9.99,,high,low,6,name.com,,,
-3573ab69-a998-4bcc-a408-001110c79f46,insured.dance,available,10.48,36.98,high,low,7,namecheap,,,22/08/2026 07:42
-582784b1-fe07-4eed-a0e7-d7d61969926d,policy.accountants,available,43.99,,high,low,6,name.com,,,
-76817964-0540-4714-a10b-8b7138da4478,policy.accountant,available,23.59,23.59,high,low,6,namesilo,,,
-fdee0cff-13f5-4eb0-96b4-77d8ebc3c73c,policy.haus,available,19.99,,high,low,6,name.com,,,
-f28bf1b5-ce25-4062-8a89-3ad33855a7b2,premium.broker,premium,6250,,high,low,7,name.com,,,
-a5c183db-c3d0-4ee5-aaa9-30b064f28c79,policy.gripe,available,6.99,6.99,high,low,6,namesilo,,,
-ca170be5-ce2b-4bc8-bdf6-a234b4294e71,policy.review,premium,6250,,high,low,6,name.com,,,
-08615629-a93b-4d6d-9785-ae718257bb0c,policy.pink,available,14.99,,high,low,6,name.com,,,
-5992a096-24b1-4b31-a421-e1723707158e,policy.ag,available,89,,high,low,6,name.com,,,
-90db09df-8692-4542-9b6a-922678c8749e,policy.miami,premium,47.2,21.24,high,low,6,namesilo,,,
-8a21cac3-7c4e-4215-b561-80d843516620,policy.futbol,available,17.99,17.99,high,low,6,namesilo,,,
-b677a069-8577-4882-bf94-5f119f0c1dff,policy.exposed,available,22.49,22.49,high,low,6,namesilo,,,
-84c8a620-f66a-4370-9dba-e54d196c3907,policy.vegas,available,12.99,43.99,high,low,6,namesilo,,,
-dcdfabe3-fac3-4f5d-be74-95a13c756515,policy.foo,premium,311.25,,high,low,6,name.com,,,
-3cc15768-3cea-4b76-9f01-baafbed8bc90,policy.bz,available,25,,high,low,6,name.com,,,
-80a0f564-a652-4bc5-8f3d-0f097de82344,policy.pw,premium,74.92,,high,low,6,name.com,,,
-ceb8e3ab-3602-4a50-9de6-13d0db3bd271,policy.football,available,19.99,,high,low,6,name.com,,,
-8141077f-ef9e-45c8-8139-1e5c400fa833,policy.london,premium,135.91,,high,low,6,name.com,,,
-08fe9c1c-46e5-41d4-9d2f-a7f9152c1e6d,policy.reviews,premium,242,242,high,low,6,namesilo,,,
-31679960-a9b8-4c86-aca1-1b2658374a62,policy.melbourne,available,53.98,,high,low,6,namecheap,,,
-57fcacea-6e4d-4a8f-8762-1e44f60931b7,policy.sydney,available,54.98,,high,low,6,namecheap,,,
-28847f97-a0f5-406d-bd8d-3d62d6a34af3,policy.cv,premium,649.6,80.33,high,low,6,namesilo,,,
-e85fcf62-ca1b-4898-87e3-d7ed86d122a9,policy.hockey,available,14.99,,high,low,6,name.com,,,
-b4dbfcf2-37c4-457c-846d-0d139294fb6c,policy.la,resell,,,high,low,6,VIPDomains.LA  Founders Program,29/11/2015 00:28,29/11/2026 23:59,
-91e57940-5619-4089-97e3-c6566401c2f2,policy.my,premium,68.94,,high,low,6,name.com,,,
-7dd32cb6-4c03-439f-ad6f-e461f27b966c,policy.soccer,available,19.99,,high,low,6,name.com,,,
-b0bdb34a-0a17-4ea8-9b18-9d2c7dda138c,policy.hamburg,available,59.99,,high,low,6,name.com,,,
-c0624cc1-51c2-4a0f-8c16-1ec51b3aed73,policy.talk,premium,71.4,71.4,high,low,6,namesilo,,,
-b379d9c1-7abb-460c-a600-5d5128eba7bf,policy.cx,available,18.99,18.99,high,low,6,namesilo,,,
-feec8390-c6c8-44c0-8b15-3ee6a47627d9,policy.courses,premium,242,242,high,low,6,namesilo,,,
-d767ade9-a791-4581-8359-758343a309f1,policy.voto,available,19.99,,high,low,6,name.com,,,
-a97ef3a9-5266-4ae9-9e71-dd4e493d879b,policy.barcelona,available,38.98,,high,low,6,namecheap,,,
-9ed1633d-367a-40ee-bf85-4ca894912b2b,policy.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-b747b184-17c6-4ce3-832a-640d562540b8,policy.paris,available,51.98,,high,low,6,namecheap,,,
-e493a4c3-6ac7-4259-8ee8-216598d8e54e,policy.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
-422a6728-0ff5-42d0-86d0-11b6d39fb4da,policy.mortgage,available,14.99,,high,low,6,name.com,,,
-b30677dd-bbb2-44cc-b5cf-47c3fd9e4f72,policy.media,resell,,,high,low,6,Netregistry Wholesale Pty Ltd,15/01/2026 09:07,15/01/2027 09:07,
-e075c3a6-79e5-45ae-bc9d-e39b269c0836,insured.gripe,available,6.98,8.98,high,low,7,namecheap,,,22/08/2026 07:42
-52527a7d-b49d-4792-8ff9-af9df5d4c52c,insured.reise,available,27.89,97.99,high,low,7,namesilo,,,22/08/2026 07:42
-7e9f501a-5ae6-42f5-be51-9c1f40048362,policy.bet,resell,,,high,low,6,Dynadot Inc,04/02/2026 19:19,04/02/2027 19:19,
-7cd2d569-c18b-423c-bbc6-1ac7136c9871,policy.poker,available,14.99,,high,low,6,name.com,,,
-8586bd45-5e24-4550-86f5-1d698edd1346,policy.casino,available,12.79,159.99,high,low,6,namesilo,,,
-cbaf6df6-dae6-4ac7-8251-fdd23d39e26f,policy.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",09/06/2018 12:07,09/06/2026 12:07,
-b8d94cd4-acbb-4a83-8103-6490b9d0bc1d,policy.charity,available,5.99,,high,low,6,name.com,,,
-ecb6c40c-2ad6-4fbd-8ab9-75ab15657ab5,policy.health,premium,1107,71.4,high,low,6,namesilo,,,
-9edf5fe0-4f4c-4cc6-a03c-9a4d28a15c8b,policy.bar,available,,,high,low,6,,,,
-57cd3442-a9fa-4939-8497-207714c0fe69,policy.lease,available,14.99,,high,low,6,name.com,,,
-da584261-1f20-4318-b3c7-1da9789cfd77,policy.hiv,available,,,high,low,6,,,,
-f40b24a0-d113-4255-9ae3-01116334a9a7,policy.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
-d045845e-2d4e-49ee-a171-915ef67b31f7,policy.trading,available,19.99,,high,low,6,name.com,,,
-fd2e342c-8ad9-4067-92e3-938f537ec852,policy.forex,available,19.99,,high,low,6,name.com,,,
-cd20ebed-05d8-4b4d-bb35-c3121053d0d2,policy.dental,available,59.98,,high,low,6,namecheap,,,
-b8df7375-a880-493f-9fc2-8317bc75d68b,policy.markets,available,9.99,,high,low,6,name.com,,,
-b61dd252-8ab1-4c83-98ee-f20442a3cb1b,policy.buzz,available,,,high,low,6,,,,
-e894ba9c-1203-44b0-bb9d-151778f4a6ff,policy.dentist,premium,242,242,high,low,6,namesilo,,,
-37fd378e-6453-415c-bcaf-5dc288205964,policy.bond,premium,188.16,376.32,high,low,6,namesilo,,,
-0a490fcb-b650-49a0-bf99-ad1b42cf009e,policy.dad,premium,311.25,,high,low,6,name.com,,,
-cc4b5c10-cc5f-49c0-bf62-302253f9a5ce,policy.family,available,9.99,,high,low,6,name.com,,,
-2d232ebd-17d5-4007-b28a-918e931caece,premium.shop,premium,12500,,high,medium,7,name.com,,,
-0c3ecf47-66e9-4233-a8d1-fb0aa93eb314,insured.parts,available,10.48,45.98,high,low,7,namecheap,,,22/08/2026 07:42
-21e9e761-a78c-439a-adde-9daeb4673270,policy.host,premium,312.5,,high,low,6,name.com,,,
-ce3831a3-f025-402a-952e-a2f2eb819e94,policy.hosting,available,309.99,329.99,high,low,6,namesilo,,,
-3ac63e83-0192-49db-b732-7216452d277e,policy.men,available,5.25,6.25,high,low,6,namesilo,,,
-64a100ab-8694-45f9-86d6-8a6d134c832e,premium.money,resell,,,high,low,7,"Spaceship, Inc.",05/04/2025 15:15,05/04/2027 15:15,
-8951797c-7b25-4284-b9f7-9c5ecccd9d01,premium.loans,resell,,,high,low,7,Porkbun LLC,22/06/2025 08:21,22/06/2026 08:21,
-233ca67f-1e49-47e7-9de2-67c4c6bd321e,policy.dating,available,23.99,,high,low,6,name.com,,,
-333c502e-c2aa-40f9-946a-9d6e6a1602f9,policy.singles,available,12.99,,high,low,6,name.com,,,
-703086dc-1507-4019-9d1b-18fd0d723bbc,policy.date,available,5.25,6.25,high,low,6,namesilo,,,
-7a170b58-a519-4e75-9cf5-b9e3b1d86483,policy.credit,available,11.99,,high,low,6,name.com,,,
-eaef5bc0-ce52-439c-ac6b-81804dac0f7e,policy.creditcard,available,9.99,,high,low,6,name.com,,,
-c7f13fcc-829e-486e-a1c1-e054421f3ce4,premium.llc,resell,,,high,low,7,"Sav.com, LLC - 20",09/03/2023 17:00,09/03/2027 17:00,
-bd105fd1-2d06-4150-b43c-e24cd8b4f465,policy.doctor,available,14.99,,high,low,6,name.com,,,
-dc4bdc12-6114-494b-9ff8-8a5f5a7b8c3c,policy.hospital,available,57.99,57.99,high,low,6,namesilo,,,
-94853c79-0df3-42b8-802e-d0b9621df726,insured.zip,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 07:42
-f6f5805c-4caf-4877-b20f-15978ef1293c,policy.furniture,available,39.99,,high,low,6,name.com,,,
-52e974e6-240f-4cd1-8e58-b2e8199eb3d4,policy.help,resell,,,high,low,6,Dynadot Inc,28/08/2026 12:27,28/08/2027 23:59,22/09/2026 00:59
-b29a503f-1b38-4d17-a83e-854a3676583e,policy.webcam,premium,3125,,high,low,6,name.com,,,
-b240a768-f0c4-485f-861f-4a27d45264fb,policy.trade,premium,1107,116,high,low,6,namesilo,,,
-b0681fc4-fa9d-4519-bd35-2607d1cdd35c,policy.graphics,available,23.99,23.99,high,low,6,namesilo,,,
-815b3fa3-2052-4c9a-9347-30df95425a77,policy.mx,available,39.99,43.99,high,low,6,namesilo,,,
-fc9dca59-f7ae-4610-8cd0-d286cbbf2e35,policy.skin,available,1.65,15.75,high,low,6,namesilo,,,
-f2925043-725d-42d3-911d-a58f64b9f933,policy.lighting,available,14.99,,high,low,6,name.com,,,
-d0cae6eb-5b3a-4f1d-8d45-763ccc7f5543,policy.fitness,available,9.99,,high,low,6,name.com,,,
-361c49d2-eb78-4a26-baf8-1e9035fe25bf,policy.parts,available,15.99,,high,low,6,name.com,,,
-63452ff5-7493-4ec0-9403-15690a4139e8,policy.training,available,21.99,,high,low,6,name.com,,,
-e3a6a206-7485-4f72-9f39-e2bd73190569,policy.christmas,available,34.99,34.99,high,low,6,namesilo,,,
-cf1f85e6-23f8-40ff-b377-9a394a18646b,policy.gifts,available,9.99,,high,low,6,name.com,,,
-dd30e06f-0b05-4c94-92c0-85d82402c7bd,policy.shiksha,available,19.99,,high,low,6,name.com,,,
-3dfcc65d-92b7-43f7-8031-bdc519de681e,policy.memorial,available,52.99,52.99,high,low,6,namesilo,,,
-f37531fb-9be5-4130-bf17-dd8811eb342d,policy.directory,available,7.99,,high,low,6,name.com,,,
-a4c6aa02-0c21-44bc-9d63-a3d4ef8a6641,policy.monster,available,1.99,,high,low,6,name.com,,,
-852487ca-b653-4746-9ef0-adaaaa38c5ac,policy.supplies,available,24.99,24.99,high,low,6,namesilo,,,
-73d99550-7d6f-4455-9a67-670531a9fb06,policy.osaka,available,,,high,low,6,,,,
-9a1b6ad6-5c89-4c48-9cee-9c1d5dade00c,policy.fast,premium,53.92,53.92,high,low,6,namesilo,,,
-b5d55827-252b-4960-9ff9-6389d2c37dfe,policy.gay,premium,116,116,high,low,6,namesilo,,,
-e9c0d371-7aa5-428c-a179-592f88f7b946,policy.mov,premium,311.25,,high,low,6,name.com,,,
-e652748e-1462-4532-ad98-7975adbdd62e,policy.organic,available,19.99,,high,low,6,name.com,,,
-46c04fc0-7a21-4693-bb4d-160385a6655c,policy.art,premium,3450,83.3,high,low,6,namesilo,,,
-939b74ce-bf2f-462f-9fa2-67d6261fd5fe,policy.tel,available,10.79,10.79,high,low,6,namesilo,,,
-8633bc4b-8bf0-428c-9f48-5e7c33eadbd4,policy.actor,available,19.99,,high,low,6,name.com,,,
-e97c00c1-699c-4c18-a822-de5ae4aff9a8,policy.direct,resell,,,high,low,6,"GoDaddy.com, LLC",21/09/2016 09:33,21/09/2026 09:33,
-69c47da1-96f3-45a7-91b3-f05a320a5d74,policy.boo,premium,311.25,,high,low,6,name.com,,,
-7a7bd96c-a372-41c5-911d-c12e8a3318dc,policy.uno,premium,156.25,,high,low,6,name.com,,,
-719a1eae-b59e-41f0-9f3e-eaadb15412ac,policy.band,available,29.99,,high,low,6,name.com,,,
-76b839d4-c977-4f43-9352-759d3fdcf9b2,policy.meme,premium,437.5,,high,low,6,name.com,,,
-617bc727-8c46-4cd4-81cb-b4b9cc509080,policy.free,premium,116,116,high,low,6,namesilo,,,
-4c4a7e74-6863-40f0-aa93-5a9185d217d4,policy.website,premium,625,,high,low,6,name.com,,,
-bea4ba97-1ad5-447a-aa26-e53857685dc1,policy.gallery,available,28.99,28.99,high,low,6,namesilo,,,
-376487ac-ccaf-480e-acc6-bd08fad2945b,policy.theater,available,19.99,,high,low,6,name.com,,,
-b3ae4398-c731-4ecd-a08d-a79b2ba53aa3,policy.cooking,available,32.49,32.49,high,low,6,namesilo,,,
-ea47cf1f-75e0-490a-9141-65e047d5c6b0,policy.bike,available,14.99,,high,low,6,name.com,,,
-be8f28d5-a68e-4138-a2f6-80e97ff872ac,policy.style,available,12.99,,high,low,6,name.com,,,
-309947dd-4dc0-4b0f-857e-818f9ad00562,policy.pictures,available,9.99,,high,low,6,name.com,,,
-200b6184-4138-448e-85d1-feee61b2395c,policy.ooo,available,24.99,24.99,high,low,6,namesilo,,,
-9c39937d-f244-4d3f-a124-21bd1fba0609,policy.kids,premium,375,,high,low,6,name.com,,,
-bfb5f6d8-1da8-422a-82c4-2e829101ab10,policy.fans,premium,384,384,high,low,6,namesilo,,,
-4d9e52a7-a511-4379-9340-e0a2d8f8af16,policy.gold,available,9.99,,high,low,6,name.com,,,
-20a6ae2d-bee1-4028-9074-5b4099c1e449,policy.contact,available,14.99,14.99,high,low,6,namesilo,,,
-730cdef8-5ad0-4afc-84e2-f1b133bcc4da,policy.gives,available,5.99,,high,low,6,name.com,,,
-c2b28893-895a-444b-b720-58f5675a0be4,policy.prof,premium,411.25,,high,low,6,name.com,,,
-8d982341-315b-4cce-a56c-ec807c833f85,policy.nexus,premium,311.25,,high,low,6,name.com,,,
-e5f5d7ca-bc79-4f0f-8ad9-c9c4538c2d6d,policy.taxi,available,10.99,,high,low,6,name.com,,,
-88921b7b-b4b9-446b-bc6e-aee72c01b535,policy.berlin,available,89.98,,high,low,6,namecheap,,,
-356fd85b-ab80-45fb-b606-65fc9b546cf0,policy.now,resell,,,high,low,6,Dynadot Inc,11/07/2025 12:19,11/07/2027 12:19,18/09/2026 03:14
-67947b0b-b546-44c5-99f2-b1fa0ddc2017,policy.camera,available,21.99,,high,low,6,name.com,,,
-6826064d-c4b0-4fcb-828d-c3b6f6cbcdbd,policy.mobile,premium,750,,high,low,6,name.com,,,

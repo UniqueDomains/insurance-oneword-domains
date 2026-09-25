@@ -1,10 +1,10 @@
-# One-Word Insurance Domain Names (11,672)
+# One-Word Insurance Domain Names (9,727)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C672%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C727%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word insurance domain names across 506 TLDs, with a median ask near $690. Updated daily, it spans carriers, InsurTech, and coverage-related brand names for quick comparison.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,672 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,727 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,672 domains · **Median ask:** $1,353.24 · **High-demand under $2,500:** 118
+**Public extract:** 1,000 rows · **Live catalog:** 9,727 domains · **Median ask:** $1,437.82 · **High-demand under $2,500:** 14
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                          |
-| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| coverage.soccer    | available | $19.99      | —             | high           | low    | 8      | name.com                           |
-| coverage.town      | available | —           | —             | high           | low    | 8      | —                                  |
-| policy.lawyer      | available | $62.99      | $62.99        | high           | low    | 6      | namesilo                           |
-| policy.furniture   | available | $39.99      | —             | high           | low    | 6      | name.com                           |
-| coverage.free      | premium   | $116        | $116          | high           | low    | 8      | namesilo                           |
-| policy.accountant  | available | $23.59      | $23.59        | high           | low    | 6      | namesilo                           |
-| policy.me          | resell    | $5,750      | $27.99        | high           | low    | 6      | Spaceship, Inc.                    |
-| policy.art         | premium   | $3,450      | $83.30        | high           | low    | 6      | namesilo                           |
-| policy.accountants | available | $43.99      | —             | high           | low    | 6      | name.com                           |
-| policy.xyz         | resell    | $228,721.20 | $20.99        | high           | low    | 6      | Dynadot LLC                        |
-| policy.blog        | premium   | $160        | $640          | high           | low    | 6      | namesilo                           |
-| policy.actor       | available | $19.99      | —             | high           | low    | 6      | name.com                           |
-| claim.deals        | resell    | —           | —             | high           | low    | 5      | Sav.com, LLC                       |
-| policy.bond        | premium   | $188.16     | $376.32       | high           | low    | 6      | namesilo                           |
-| policy.adult       | available | $166.98     | —             | high           | low    | 6      | namecheap                          |
-| claim.to           | resell    | —           | —             | high           | low    | 5      | Ascio Technologies, Inc. - Denmark |
-| policy.boo         | premium   | $311.25     | —             | high           | low    | 6      | name.com                           |
-| policy.ag          | available | $89         | —             | high           | low    | 6      | name.com                           |
-| policy.bet         | resell    | —           | —             | high           | low    | 6      | Dynadot Inc                        |
-| policy.build       | premium   | $1,875      | —             | high           | low    | 6      | name.com                           |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| coverage.town | available | —         | —             | high           | low    | 8      | —                                                         |
+| car.recipes   | available | $8.99     | $77.99        | high           | medium | 3      | namesilo                                                  |
+| pet.baby      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| pet.attorney  | premium   | $1,250    | $1,250        | high           | medium | 3      | name.com                                                  |
+| pet.auto      | available | $2,070    | $2,950        | high           | medium | 3      | namecheap                                                 |
+| pet.cafe      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| pet.autos     | premium   | $812.50   | $20.99        | high           | medium | 3      | name.com                                                  |
+| pet.christmas | available | $1.80     | $49.98        | high           | medium | 3      | namecheap                                                 |
+| pet.cheap     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| pet.bar       | premium   | $1,968.75 | $2,812.50     | high           | medium | 3      | name.com                                                  |
+| pet.football  | available | $19.99    | $37.99        | high           | medium | 3      | name.com                                                  |
+| pet.church    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| pet.bargains  | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com                                                  |
+| pet.forex     | available | $11.98    | $133.98       | high           | medium | 3      | namecheap                                                 |
+| pet.clothing  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| pet.bayern    | premium   | $57.54    | $50.99        | high           | medium | 3      | name.com                                                  |
+| pet.guitars   | available | $108.98   | $159.98       | high           | medium | 3      | namecheap                                                 |
+| pet.club      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| pet.bid       | premium   | $625      | $81.25        | high           | medium | 3      | name.com                                                  |
+| pet.hamburg   | available | $59.99    | $59.99        | high           | medium | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,672 live domains                        |
+| 1,000-row public sample | 9,727 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 118 high-demand names under $2,500         |
+| Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
