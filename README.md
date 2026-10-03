@@ -1,10 +1,10 @@
-# One-Word Insurance Domain Names (18,416)
+# One-Word Insurance Domain Names (18,417)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C416%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C417%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word insurance domain names across 506 TLDs, with a median ask near $690. Updated daily, it spans carriers, InsurTech, and coverage-related brand names for quick comparison.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,416 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,417 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,416 domains · **Median ask:** $863.06 · **High-demand under $2,500:** 84
+**Public extract:** 1,000 rows · **Live catalog:** 18,417 domains · **Median ask:** $860.69 · **High-demand under $2,500:** 84
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| insurance.theater  | available | $51.95    | $51.95        | high           | medium | 9      | spaceship        |
-| insurance.pictures | available | $15.49    | $15.49        | high           | medium | 9      | namesilo         |
-| home.sydney        | available | $58       | $58           | high           | medium | 4      | namesilo         |
-| claim.domains      | resell    | $19.99    | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| pet.boats          | premium   | $812.50   | $20.99        | high           | medium | 3      | name.com         |
-| plan.apartments    | available | $57.99    | $57.99        | high           | medium | 4      | namesilo         |
-| policy.love        | resell    | $9.99     | $28.99        | high           | low    | 6      | namesilo         |
-| pet.cash           | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com         |
-| plan.coupons       | available | $5.99     | $54.99        | high           | medium | 4      | namesilo         |
-| coverage.network   | resell    | $7.99     | —             | high           | low    | 8      | name.com         |
-| pet.zip            | premium   | $73.75    | $73.75        | high           | medium | 3      | name.com         |
-| plan.cricket       | available | $23.59    | $23.59        | high           | medium | 4      | namesilo         |
-| insurance.camera   | resell    | $21.99    | —             | high           | medium | 9      | name.com         |
-| auto.motorcycles   | premium   | $672.95   | $672.95       | high           | medium | 4      | spaceship        |
-| plan.engineering   | available | $16.99    | $64.99        | high           | medium | 4      | namesilo         |
-| insurance.fashion  | resell    | $32.49    | $32.49        | high           | medium | 9      | namesilo         |
-| fire.webcam        | premium   | $1,300    | $130          | high           | high   | 4      | namecheap        |
-| plan.fish          | available | $44.49    | $44.49        | high           | medium | 4      | namesilo         |
-| insurance.kids     | resell    | $65       | $23.40        | high           | medium | 9      | namecheap        |
-| home.archi         | premium   | $1,950    | $1,950        | high           | medium | 4      | namecheap        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| insurance.theater  | available | $51.95    | $51.95        | high           | medium | 9      | spaceship       |
+| insurance.pictures | available | $15.49    | $15.49        | high           | medium | 9      | namesilo        |
+| auto.cars          | available | $1,863.20 | $2,064.20     | high           | medium | 4      | spaceship       |
+| auto.car           | resell    | $2,400    | —             | high           | medium | 4      | NameCheap, Inc. |
+| home.bar           | premium   | $8,190    | $11,700       | high           | medium | 4      | namecheap       |
+| home.melbourne     | available | $58       | $58           | high           | medium | 4      | namesilo        |
+| policy.love        | resell    | $9.99     | $28.99        | high           | low    | 6      | namesilo        |
+| home.homes         | premium   | $11,040   | $11,040       | high           | medium | 4      | namesilo        |
+| home.reisen        | available | $3.99     | $20.99        | high           | medium | 4      | namesilo        |
+| insurance.camera   | resell    | $21.99    | —             | high           | medium | 9      | name.com        |
+| home.onl           | premium   | $325      | $650          | high           | medium | 4      | namecheap       |
+| home.tienda        | available | $59.99    | $59.99        | high           | medium | 4      | namesilo        |
+| insurance.fashion  | resell    | $32.49    | $32.49        | high           | medium | 9      | namesilo        |
+| home.promo         | premium   | $3,450    | $3,450        | high           | medium | 4      | namesilo        |
+| life.furniture     | available | $27.99    | $94.99        | high           | medium | 4      | namesilo        |
+| insurance.kids     | resell    | $65       | $23.40        | high           | medium | 9      | namecheap       |
+| home.voyage        | premium   | $512      | $512          | high           | medium | 4      | namesilo        |
+| plan.airforce      | available | $83       | $83           | high           | medium | 4      | spaceship       |
+| insurance.voyage   | resell    | $85.80    | $85.80        | high           | medium | 9      | namecheap       |
+| life.rent          | premium   | $640      | $640          | high           | medium | 4      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,416 live domains                        |
+| 1,000-row public sample | 18,417 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 84 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
