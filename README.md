@@ -1,10 +1,10 @@
-# One-Word Insurance Domain Names (18,412)
+# One-Word Insurance Domain Names (18,414)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C412%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C414%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word insurance domain names across 506 TLDs, with a median ask near $690. Updated daily, it spans carriers, InsurTech, and coverage-related brand names for quick comparison.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,412 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,414 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,412 domains · **Median ask:** $860.69 · **High-demand under $2,500:** 84
+**Public extract:** 1,000 rows · **Live catalog:** 18,414 domains · **Median ask:** $859.52 · **High-demand under $2,500:** 84
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
@@ -25,7 +25,7 @@ This selection covers one-word insurance domain names across 506 TLDs, with a me
 <p align="center">
   <a href="https://unique.domains/domains/sector/insurance?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./insurance.csv">CSV</a> / <a href="./insurance.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| insurance.theater  | available | $51.95    | $51.95        | high           | medium | 9      | spaceship       |
-| insurance.pictures | available | $15.49    | $15.49        | high           | medium | 9      | namesilo        |
-| auto.cars          | available | $1,863.20 | $2,064.20     | high           | medium | 4      | spaceship       |
-| auto.car           | resell    | $2,400    | —             | high           | medium | 4      | NameCheap, Inc. |
-| home.bar           | premium   | $8,190    | $11,700       | high           | medium | 4      | namecheap       |
-| home.melbourne     | available | $58       | $58           | high           | medium | 4      | namesilo        |
-| policy.love        | resell    | $9.99     | $28.99        | high           | low    | 6      | namesilo        |
-| home.homes         | premium   | $11,040   | $11,040       | high           | medium | 4      | namesilo        |
-| home.reisen        | available | $3.99     | $20.99        | high           | medium | 4      | namesilo        |
-| insurance.camera   | resell    | $21.99    | —             | high           | medium | 9      | name.com        |
-| home.onl           | premium   | $325      | $650          | high           | medium | 4      | namecheap       |
-| home.tienda        | available | $59.99    | $59.99        | high           | medium | 4      | namesilo        |
-| insurance.fashion  | resell    | $32.49    | $32.49        | high           | medium | 9      | namesilo        |
-| home.promo         | premium   | $3,450    | $3,450        | high           | medium | 4      | namesilo        |
-| life.furniture     | available | $27.99    | $94.99        | high           | medium | 4      | namesilo        |
-| insurance.kids     | resell    | $65       | $23.40        | high           | medium | 9      | namecheap       |
-| home.voyage        | premium   | $512      | $512          | high           | medium | 4      | namesilo        |
-| plan.airforce      | available | $83       | $83           | high           | medium | 4      | spaceship       |
-| insurance.voyage   | resell    | $85.80    | $85.80        | high           | medium | 9      | namecheap       |
-| life.rent          | premium   | $640      | $640          | high           | medium | 4      | namesilo        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| insurance.theater  | available | $51.95    | $51.95        | high           | medium | 9      | spaceship        |
+| insurance.pictures | available | $15.49    | $15.49        | high           | medium | 9      | namesilo         |
+| fire.car           | available | $2,070    | $2,400        | high           | high   | 4      | namecheap        |
+| claim.domains      | resell    | $19.99    | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| pet.autos          | premium   | $812.50   | $20.99        | high           | medium | 3      | name.com         |
+| home.sydney        | available | $58       | $58           | high           | medium | 4      | namesilo         |
+| policy.love        | resell    | $9.99     | $28.99        | high           | low    | 6      | namesilo         |
+| bond.dad           | premium   | $272.35   | $272.35       | high           | medium | 4      | porkbun          |
+| plan.broker        | available | $28.20    | $28.20        | high           | medium | 4      | cloudflare       |
+| premium.dog        | resell    | $5.99     | —             | high           | medium | 7      | name.com         |
+| home.archi         | premium   | $1,950    | $1,950        | high           | medium | 4      | namecheap        |
+| plan.engineering   | available | $6.64     | $53.72        | high           | medium | 4      | dynadot          |
+| coverage.network   | resell    | $7.99     | —             | high           | low    | 8      | name.com         |
+| home.bond          | premium   | $390      | $780          | high           | medium | 4      | namecheap        |
+| plan.flowers       | available | $100      | $100          | high           | medium | 4      | cloudflare       |
+| insurance.camera   | resell    | $21.99    | —             | high           | medium | 9      | name.com         |
+| home.cloud         | premium   | $3,250    | $6,500        | high           | medium | 4      | namecheap        |
+| plan.futbol        | available | $5.38     | $13.66        | high           | medium | 4      | spaceship        |
+| insurance.fashion  | resell    | $32.49    | $32.49        | high           | medium | 9      | namesilo         |
+| home.coupons       | premium   | $12,420   | $12,420       | high           | medium | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 18,412 live domains                                  |
+| 1,000-row public sample | 18,414 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 84 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/insurance?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
