@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| insurance.theater  | available | $51.95    | $51.95        | high           | low    | 9      | spaceship                                          |
-| insurance.pictures | available | $15.49    | $15.49        | high           | low    | 9      | namesilo                                           |
-| car.cars           | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                          |
-| policy.love        | resell    | $9.99     | $28.99        | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., LTD |
-| home.bar           | premium   | $8,190    | $11,700       | high           | low    | 4      | namecheap                                          |
-| plan.boutique      | available | $5.99     | $32.99        | high           | medium | 4      | namesilo                                           |
-| actuarial.com      | resell    | $19,550   | $17.99        | high           | low    | 9      | GoDaddy.com, LLC                                   |
-| home.homes         | premium   | $11,040   | $11,040       | high           | low    | 4      | namesilo                                           |
-| plan.creditcard    | available | $5.57     | $133.52       | high           | medium | 4      | dynadot                                            |
-| insurance.camera   | resell    | $21.99    | —             | high           | low    | 9      | name.com                                           |
-| plan.archi         | premium   | $640      | $640          | high           | medium | 4      | namesilo                                           |
-| plan.desi          | available | $19.98    | $22.98        | high           | low    | 4      | namecheap                                          |
-| insurance.fashion  | resell    | $32.49    | $32.49        | high           | low    | 9      | namesilo                                           |
-| plan.eco           | premium   | $3,622.70 | $59.71        | high           | medium | 4      | spaceship                                          |
-| plan.domains       | available | $33.20    | $33.20        | high           | medium | 4      | cloudflare                                         |
-| insurance.kids     | resell    | $65       | $23.40        | high           | low    | 9      | namecheap                                          |
-| plan.foo           | premium   | $499.20   | $516.67       | high           | medium | 4      | unstoppable                                        |
-| plan.exposed       | available | $17.80    | $17.80        | high           | medium | 4      | spaceship                                          |
-| insurance.voyage   | resell    | $85.80    | $85.80        | high           | low    | 9      | namecheap                                          |
-| plan.game          | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo                                           |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| claim.dev          | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.               |
+| policy.uno         | premium   | $302.50   | $302.50       | high           | low    | 6      | namesilo                      |
+| premium.works      | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 26             |
+| premium.plumbing   | available | $72.99    | $72.99        | high           | medium | 7      | namesilo                      |
+| insurance.theater  | available | $51.95    | $51.95        | high           | low    | 9      | spaceship                     |
+| insurance.pictures | available | $15.49    | $15.49        | high           | low    | 9      | namesilo                      |
+| coverage.cv        | premium   | $558.25   | $74.25        | high           | low    | 8      | dynadot                       |
+| plan.cars          | available | $1,863.20 | $2,064.20     | high           | medium | 4      | spaceship                     |
+| policy.capital     | resell    | $9.99     | —             | high           | low    | 6      | Sav.com, LLC                  |
+| car.autos          | premium   | $2,200    | $2,200        | high           | medium | 3      | dynadot                       |
+| plan.casino        | available | $14.99    | $179.99       | high           | medium | 4      | namesilo                      |
+| premium.dog        | resell    | $5.99     | —             | high           | medium | 7      | Sav.com, LLC                  |
+| plan.build         | premium   | $1,650    | $1,650        | high           | medium | 4      | dynadot                       |
+| plan.jewelry       | available | $76.48    | $78.48        | high           | medium | 4      | namecheap                     |
+| coverage.group     | resell    | $10.99    | —             | high           | low    | 8      | CommuniGal Communication Ltd. |
+| plan.club          | premium   | $975      | $19.50        | high           | medium | 4      | namecheap                     |
+| plan.kaufen        | available | $5.57     | $28.04        | high           | medium | 4      | dynadot                       |
+| coverage.network   | resell    | $7.99     | —             | high           | low    | 8      | name.com                      |
+| plan.dealer        | premium   | $4,278    | $2,660        | high           | medium | 4      | namesilo                      |
+| plan.reise         | available | $87.02    | $87.02        | high           | medium | 4      | porkbun                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
