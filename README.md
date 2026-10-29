@@ -1,10 +1,10 @@
-# One-Word Insurance Domain Names (22,826)
+# One-Word Insurance Domain Names (22,828)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C826%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C828%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word insurance domain names across 506 TLDs, with a median ask near $690. Updated daily, it spans carriers, InsurTech, and coverage-related brand names for quick comparison.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,826 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,828 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,826 domains · **Median ask:** $689.96 · **High-demand under $2,500:** 998
+**Public extract:** 1,000 rows · **Live catalog:** 22,828 domains · **Median ask:** $689.19 · **High-demand under $2,500:** 1,011
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-29
 **Canonical page:** `https://unique.domains/domains/sector/insurance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| insurance.theater  | available | $51.95    | $51.95        | high           | low    | 9      | spaceship                                          |
-| insurance.pictures | available | $15.49    | $15.49        | high           | low    | 9      | namesilo                                           |
-| plan.auto          | available | $2,060.25 | $2,064.19     | high           | high   | 4      | porkbun                                            |
-| policy.codes       | resell    | $11.99    | —             | high           | low    | 6      | Spaceship, Inc.                                    |
-| home.enterprises   | premium   | $512      | $512          | high           | low    | 4      | namesilo                                           |
-| plan.claims        | available | $10.55    | $51.95        | high           | high   | 4      | spaceship                                          |
-| policy.love        | resell    | $9.99     | $28.99        | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., LTD |
-| home.immobilien    | premium   | $854      | $854          | high           | low    | 4      | namesilo                                           |
-| plan.cleaning      | available | $60.23    | $60.23        | high           | high   | 4      | spaceship                                          |
-| coverage.group     | resell    | $10.99    | —             | high           | low    | 8      | CommuniGal Communication Ltd.                      |
-| home.living        | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                           |
-| plan.community     | available | $8.24     | $45.83        | high           | high   | 4      | porkbun                                            |
-| insurance.camera   | resell    | $21.99    | —             | high           | low    | 9      | name.com                                           |
-| plan.accountant    | premium   | $103.70   | $26.08        | high           | high   | 4      | spaceship                                          |
-| plan.forex         | available | $10.81    | $92.17        | high           | high   | 4      | porkbun                                            |
-| insurance.fashion  | resell    | $32.49    | $32.49        | high           | low    | 9      | namesilo                                           |
-| plan.diet          | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo                                           |
-| plan.lighting      | available | $18.83    | $18.83        | high           | high   | 4      | spaceship                                          |
-| insurance.kids     | resell    | $65       | $23.40        | high           | low    | 9      | namecheap                                          |
-| plan.inc           | premium   | $1,604.45 | $2,070.20     | high           | high   | 4      | spaceship                                          |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| policy.uno         | premium   | $302.50   | $302.50       | high           | low    | 6      | namesilo                      |
+| premium.plumbing   | available | $72.99    | $72.99        | high           | medium | 7      | namesilo                      |
+| insurance.theater  | available | $51.95    | $51.95        | high           | low    | 9      | spaceship                     |
+| insurance.pictures | available | $15.49    | $15.49        | high           | low    | 9      | namesilo                      |
+| coverage.cv        | premium   | $558.25   | $74.25        | high           | low    | 8      | dynadot                       |
+| policy.top         | premium   | $46.59    | $46.59        | high           | low    | 6      | spaceship                     |
+| plan.auction       | available | $29.18    | $29.18        | high           | high   | 4      | spaceship                     |
+| policy.capital     | resell    | $9.99     | —             | high           | low    | 6      | Sav.com, LLC                  |
+| car.autos          | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship                     |
+| plan.cars          | available | $2,070    | $2,950        | high           | high   | 4      | namecheap                     |
+| premium.dog        | resell    | $5.99     | —             | high           | medium | 7      | Sav.com, LLC                  |
+| pet.horse          | premium   | $414.20   | $26.08        | high           | medium | 3      | spaceship                     |
+| plan.casino        | available | $15.99    | $277.99       | high           | high   | 4      | godaddy                       |
+| coverage.group     | resell    | $10.99    | —             | high           | low    | 8      | CommuniGal Communication Ltd. |
+| bond.mom           | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo                      |
+| plan.hosting       | available | $279.65   | $341.75       | high           | high   | 4      | spaceship                     |
+| coverage.network   | resell    | $7.99     | —             | high           | low    | 8      | name.com                      |
+| home.realty        | premium   | $4,550    | $6,500        | high           | low    | 4      | namecheap                     |
+| plan.jewelry       | available | $64.99    | $64.99        | high           | high   | 4      | namesilo                      |
+| insurance.camera   | resell    | $21.99    | —             | high           | low    | 9      | name.com                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 22,826 live domains                                  |
+| 1,000-row public sample | 22,828 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 998 high-demand names under $2,500                   |
+| Basic exported fields   | 1,011 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Insurance Domain Names*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
